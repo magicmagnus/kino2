@@ -7,18 +7,12 @@ import { useState } from "react"
 
 
 const MainLayout = () => {
- 
-
     return (
-
-
         <div className="flex flex-col justify-start h-screen bg-slate-900">
             <Header />
             <Outlet />
             <Footer />
         </div>
-
-
     )
 }
 

@@ -24,7 +24,7 @@ const DatePage = () => {
     return (
         <>
             <div className="relative w-full h-full overflow-y-auto no-scrollbar">
-                <div className="relative flex flex-col gap-4 " style={{
+                <div className="relative flex flex-col" style={{
                     width: `${TIMELINE_WIDTH + 28 + 48}px`,
                     minWidth: `${TIMELINE_WIDTH + 28 + 48}px`
                 }}>

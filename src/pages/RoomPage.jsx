@@ -47,6 +47,7 @@ const RoomPage = () => {
                                 <Timeline key={dateIdx}
                                     schedule={date}
                                     scheduleIdx={dateIdx}
+                                    isLast={dateIdx === room.dates.length - 1}
                                     title={formatDateString(date.date)}
                                     showCard={showCard}
                                     setShowCard={setShowCard}

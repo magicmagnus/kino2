@@ -34,12 +34,12 @@ const MovieCard = (props) => {
     return (
         <button
             onClick={handleClose}
-            className={`flex justify-center items-center absolute top-0 left-0 bg-[rgba(0,0,0,0.5)] w-full h-full z-20
+            className={`flex justify-center items-center absolute top-0 left-0 bg-[rgba(0,0,0,0.5)] w-full h-full z-40
                       transition-all duration-300 ease-in-out
                       ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
             <div
                 onClick={(e) => e.stopPropagation()}
-                className={`w-[80%] md:w-[90%] max-w-[900px]
+                className={`w-[85%] md:w-[90%] max-w-[900px]
                             h-[90%] md:h-[40%] 
                          transition-all duration-300 ease-in-out
                          bg-slate-900 rounded-2xl shadow-lg text-white
@@ -96,19 +96,19 @@ const MovieCard = (props) => {
                         </p>
 
                     </div>
-                    <div className='w-full p-4 flex gap-4 justify-center bg-slate-700 h-fit
+                    <div className='w-full p-4 flex gap-4 justify-center bg-slate-900 h-fit
                         sticky bottom-0 
                         md:absolute md:bottom-0 md:right-0 md:left-auto md:w-auto md:bg-transparent '>
                         <button>
                             <a href={showCard.movieInfo.trailerUrl} target="_blank" rel="noreferrer"
-                                className='bg-indigo-500 text-white rounded-md p-2 '>
+                                className='bg-indigo-700 text-white rounded-md p-2 text-nowrap'>
                                 Watch Trailer
                             </a>
                         </button>
                         <button>
                             <a
-                                className='bg-violet-600 text-white rounded-md p-2 '
-                                href={showCard.movieInfo.iframeUrl} target="_blank" rel="noreferrer"
+                                href={showCard.show.iframeUrl} target="_blank" rel="noreferrer"
+                                className='bg-slate-900 border-indigo-600 border-2 text-indigo-600 font-semibold rounded-md p-2 text-nowrap'
                             >
                                 Buy Ticket for {showCard.show.time}
                             </a>

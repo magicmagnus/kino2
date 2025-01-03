@@ -39,7 +39,7 @@ const MoviePage = () => {
                                     </Listbox.Button>
                                     <Listbox.Options className={"absolute top-0 left-0 right-0  \
                                         m-2 w-[calc(100%-1rem)] text-center text-sm pt-8 z-10 \
-                                        sm:w-96 max-h-[700px] overflow-auto  \
+                                        sm:w-96 max-h-[600px] overflow-auto  \
                                         text-white bg-indigo-800 rounded-md shadow-lg \
                                         "}>
                                         {movieViewData.map((movie, movieIndex) => (

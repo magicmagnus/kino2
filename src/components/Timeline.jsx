@@ -4,7 +4,7 @@ import MovieBlock from './MovieBlock'
 import { HOUR_WIDTH, TIMELINE_WIDTH, TOTAL_HOURS } from '../utils/utils'
 
 const Timeline = (props) => {
-    const { schedule, scheduleIdx, title, showCard, setShowCard} = props
+    const { schedule, scheduleIdx, isLast, title, showCard, setShowCard} = props
     return (
         <div key={scheduleIdx} className="relative flex items-center justify-center text-center bg-slate-900 w-fit " 
         >
@@ -21,7 +21,7 @@ const Timeline = (props) => {
 
                                 </div>
             {/* Timeline container - now with fixed width */}
-            <div className="relative h-28 border-b-2  border-slate-700 bg-slate-900 ml-7"
+            <div className={"relative h-28 bg-slate-900 ml-7" + (isLast ? "" : " border-b-2 border-slate-700")}
                 style={{
                     width: TIMELINE_WIDTH,
                     minWidth: TIMELINE_WIDTH,

@@ -22,7 +22,7 @@ const TimelineGroup = (props) => {
     return (
         <div key={groupElementIdx}>
             <div className="flex justify-start text-left items-center w-screen h-fit bg-slate-900
-                                sticky left-0 z-10 pb-2">
+                                sticky left-0 z-10">
                 <h1 className=" text-white text-md font-medium pl-2 py-1 text-nowrap bg-slate-800 w-full mx-0">
                     {/* could be theater name or date name */}
                     {(parentGroupType === "theater") ? (groupElement.name) : (formatDateString(groupElement.date))}
@@ -34,6 +34,7 @@ const TimelineGroup = (props) => {
                 <Timeline key={scheduleIdx}
                     schedule={schedule}
                     scheduleIdx={scheduleIdx}
+                    isLast={scheduleIdx === groupedList.length - 1}
                     title={schedule.name}
                     showCard={showCard}
                     setShowCard={setShowCard}
@@ -45,6 +46,7 @@ const TimelineGroup = (props) => {
                     <Timeline key={roomIdx}
                         schedule={room}
                         scheduleIdx={roomIdx}
+                        isLast={roomIdx === theater.rooms.length - 1}
                         title={room.name}
                         showCard={showCard}
                         setShowCard={setShowCard}
