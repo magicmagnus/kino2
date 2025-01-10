@@ -5,7 +5,7 @@ import SelectionButton from '../components/SelectionButton'
 import MovieCard from '../components/MovieCard'
 import { useState } from 'react'
 import { formatDateString, TIMELINE_WIDTH, TODAY_FORMATTED } from '../utils/utils'
-
+import { useScrollToEarliest } from '../hooks/useScrollToEarliest'
 
 
 const RoomPage = () => {
@@ -23,6 +23,7 @@ const RoomPage = () => {
     })).filter(theater => theater.rooms.length > 0 && theater.rooms.some(room => room.dates.length > 0));
     console.log(roomData)
 
+    useScrollToEarliest([selectedRoom])
 
     return (
         <>

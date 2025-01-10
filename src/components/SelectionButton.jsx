@@ -5,8 +5,8 @@ const SelectionButton = (props) => {
     return (
         <button
             onClick={onClick}
-            className={' text-white h-fit px-3  py-1.5 rounded-full w-fit flex-nowrap flex-shrink-0 text-sm  font-semibold text-center text-nowrap hover:bg-violet-800 transition-all duration-200 ' 
-                            + (selected ? '  bg-violet-800' : ' bg-violet-600')}>
+            className={' text-white h-fit px-3  py-1.5 rounded-full w-fit flex-nowrap flex-shrink-0 text-sm   font-semibold text-center text-nowrap hover:bg-rose-600  transition-all duration-200 ' 
+                            + (selected ? '  bg-rose-600' : ' bg-rose-900')}>
             <p>{text}</p>
         </button>
     )

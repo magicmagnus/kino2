@@ -6,7 +6,7 @@ const MovieInfo = (props) => {
     const [isExpanded, setIsExpanded] = useState(false)
 
     return (
-        <div className='sticky top-0 left-0 flex flex-col justify-end w-screen bg-slate-900 text-white'>
+        <div className='sticky top-0 left-0 flex flex-col justify-end w-screen bg-zinc-900 text-white'>
             <div
                 className={`
                     flex w-screen overflow-hidden
@@ -52,9 +52,9 @@ const MovieInfo = (props) => {
             <button
                 onClick={() => setIsExpanded(!isExpanded)}
                 className={`
-                    w-full bg-slate-900 relative flex items-center justify-center
+                    w-full bg-zinc-900 relative flex items-center justify-center
                     before:absolute before:w-full before:left-0 before:bottom-0
-                    before:h-20 before:bg-gradient-to-t before:from-slate-900 before:via-slate-900 before:via-10% before:to-transparent
+                    before:h-20 before:bg-gradient-to-t before:from-zinc-900 before:via-zinc-900 before:via-10% before:to-transparent
                     before:transition-all before:duration-500 before:ease-in-out before:-translate-y-2
                     ${!isExpanded
                         ? 'before:opacity-100 h-1 before:h-20'
@@ -69,7 +69,7 @@ const MovieInfo = (props) => {
                 `}>
                     <i className={`
                         fa-solid ${isExpanded ? 'fa-chevron-up ' : 'fa-chevron-down'}  '}
-                        text-3xl text-white transition-all duration-300 ease-in-out hover:scale-[1.3] hover:text-indigo-500
+                        text-3xl text-white transition-all duration-300 ease-in-out hover:scale-[1.3] hover:text-rose-500
                     `}></i>
                 </p>
             </button>

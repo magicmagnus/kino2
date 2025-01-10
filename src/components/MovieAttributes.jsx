@@ -29,7 +29,7 @@ const MovieAttributes = (props) => {
     let durationText = `${hours}h ${minutes}min`
 
     return (
-        <div className="flex flex-col justify-center items-start text-left text-sm gap-2 bg-slate-800 px-2 py-2 rounded-md">
+        <div className="flex flex-col justify-center items-start text-left text-sm gap-2 bg-zinc-800 px-2 py-2 rounded-md">
             
             {/* Always visible content */}
             <div className='flex items-center gap-2'>
@@ -49,7 +49,7 @@ const MovieAttributes = (props) => {
             ) : <> </>}
 
             {isOmdu && (
-                <div className=" flex items-center gap-2 bg-indigo-600 text-white rounded-full pl-1.5 pr-2 py-0.5 ml-[-0.2rem] w-fit">
+                <div className=" flex items-center gap-2 bg-rose-600 text-white rounded-full pl-1.5 pr-2 py-0.5 ml-[-0.2rem] w-fit">
                     <i class="fa-solid fa-language"></i>
                     <p className=''>
                         {isOmdu + omduExplainer}
@@ -107,7 +107,7 @@ const MovieAttributes = (props) => {
             >
                 <i className={`
                 fa-solid ${isAttributesExpanded ? 'fa-chevron-up ' : 'fa-chevron-down text-white'} 
-                text-base transition-all duration-300 ease-in-out hover:scale-[1.3] hover:text-indigo-500
+                text-base transition-all duration-300 ease-in-out hover:scale-[1.3] hover:text-rose-500
                 `}
                 ></i>
             </button>

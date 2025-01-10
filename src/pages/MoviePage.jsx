@@ -8,6 +8,7 @@ import { Listbox } from '@headlessui/react'
 
 import { useState } from 'react'
 import { formatDateString, TIMELINE_WIDTH } from '../utils/utils'
+import { useScrollToEarliest } from '../hooks/useScrollToEarliest'
 
 
 
@@ -24,6 +25,8 @@ const MoviePage = () => {
     const movieData = movieViewData.find((movie) => movie.title === selectedMovie)
     movieData.dates = movieData.dates.filter(date => date.date >= TODAY_FORMATTED)
     console.log(movieData)
+
+    useScrollToEarliest([selectedMovie])
     return (
         <>
             <div className="relative w-full h-full overflow-y-auto no-scrollbar">
@@ -36,15 +39,15 @@ const MoviePage = () => {
                         <Listbox value={selectedMovie} onChange={setSelectedMovie}>
                             {({ open }) => (
                                 <>
-                                    <Listbox.Button className="w-full sm:w-96 bg-indigo-600 text-sm text-white flex justify-center items-center transition-all duration-200
-                                                             rounded-md px-2 py-1 h-fit hover:bg-indigo-800 z-20 shadow-lg">
+                                    <Listbox.Button className="w-full sm:w-96 bg-rose-600 text-sm text-white flex justify-center items-center transition-all duration-200
+                                                             rounded-md px-2 py-1 h-fit hover:bg-rose-800 z-20 shadow-lg">
                                         <p>{selectedMovie}</p>
                                         <i className={`fa-solid  pl-2 pb-0.5 transform transition-transform duration-200 ${open ? 'fa-chevron-up' : 'fa-chevron-down'}`}></i>
                                     </Listbox.Button>
                                     <Listbox.Options className={"absolute top-0 left-0 right-0  \
                                         m-2 w-[calc(100%-1rem)] text-center text-sm pt-8 z-10 \
                                         sm:w-96 max-h-[600px] overflow-auto  \
-                                        text-white bg-indigo-800 rounded-md shadow-lg \
+                                        text-white bg-rose-800 rounded-md shadow-lg \
                                         "}>
                                         {movieViewData.map((movie, movieIndex) => (
                                             <Listbox.Option
@@ -52,7 +55,7 @@ const MoviePage = () => {
                                                 value={movie.title}
                                                 className={({ active }) => `
                                                     px-3 py-2 cursor-pointer
-                                                    ${active ? 'bg-indigo-600' : 'bg-indigo-800'}
+                                                    ${active ? 'bg-rose-600' : 'bg-rose-800'}
                                                 `}
                                             >
                                                 {movie.title}

@@ -23,7 +23,7 @@ const MovieBlock = (props) => {
         <button
             onClick={handleClick}
             key={showIdx}
-            className="absolute flex h-24 top-0 mt-[7px] rounded-lg bg-slate-800 text-white shadow-lg hover:bg-slate-700 hover:scale-110 group transition-all duration-200 "
+            className="absolute flex h-24 top-0 mt-[7px] rounded-lg bg-zinc-800 text-white shadow-lg hover:bg-zinc-700 hover:scale-110 group transition-all duration-200 "
             style={{
                 left: `${timeToPixels(show.time)}px`,
                 width: `${timeToPixels(show.endTime) - timeToPixels(show.time)}px`,
@@ -42,7 +42,7 @@ const MovieBlock = (props) => {
                 </h1>
                 <div className='flex flex-col gap-1'>
                     {isOmdu && (
-                        <div className="text-xs bg-indigo-600 text-white rounded-full px-1.5 py-0.5 ml-[-0.2rem] w-fit">
+                        <div className="text-xs bg-rose-600 text-white rounded-full px-1.5 py-0.5 ml-[-0.2rem] w-fit">
                             <p className='font-semibold'>
                                 OmdU
                             </p>
