@@ -46,7 +46,7 @@ const MovieCard = (props) => {
                 className={`w-[85%] md:w-[90%] max-w-[900px]
                             h-[90%] md:h-[60%] 
                          transition-all duration-300 ease-in-out
-                         bg-zinc-900 rounded-2xl shadow-lg text-white
+                         bg-zinc-900 rounded-3xl shadow-lg text-white
                          absolute top-1/2 left-1/2
                          ${isVisible ? 'opacity-100 scale-100 -translate-x-1/2 -translate-y-1/2' :
                         'opacity-0 scale-95 -translate-x-1/2 -translate-y-[45%]'}
@@ -58,7 +58,7 @@ const MovieCard = (props) => {
                 >
                     <i class="fa-solid fa-xmark text-2xl "></i>
                 </button>
-                <div className='h-full w-full overflow-auto relative flex flex-col justify-start md:flex-row rounded-2xl'>
+                <div className='h-full w-full overflow-auto relative flex flex-col justify-start md:flex-row rounded-3xl'>
 
                     <div className='w-full md:h-full md:w-auto bg-zinc-800'>
                         <div className='relative w-full pb-[150%] 
@@ -113,24 +113,22 @@ const MovieCard = (props) => {
                         </p>
 
                     </div>
-                    <div className='w-full p-4 flex gap-2 justify-between bg-zinc-900 h-fit
+                    <div className='w-full py-2 px-2.5 flex justify-between bg-zinc-900 h-fit
                         sticky bottom-0 
                         md:absolute md:bottom-0 md:right-0 md:left-auto md:w-auto md:bg-transparent '>
                         <button>
                             <a href={showCard.movieInfo.trailerUrl} target="_blank" rel="noreferrer"
-                                className='flex justify-center items-center gap-2 px-3 py-2 h-10 bg-zinc-900 border-rose-600 border-2 text-rose-600 font-semibold rounded-full p-2 text-nowrap
+                                className='flex justify-center w-fit items-center gap-2 px-3 py-2 bg-zinc-900 border-rose-600 border-2 text-rose-600 font-semibold rounded-full p-2 text-nowrap
                                 hover:bg-rose-600 hover:text-white hover:border-rose-600 '>
-                                
-                                
                                     <i class="fa-brands fa-youtube"></i>
-                                    <p className='pl-1'>Trailer</p>    
+                                    <p className='pl-0'>Trailer</p>    
                                 
                             </a>
                         </button>
                         <button>
                             <a
                                 href={showCard.show.iframeUrl} target="_blank" rel="noreferrer"
-                                className='bg-rose-600 text-white rounded-full px-3 py-2 h-10 text-nowrap font-semibold hover:bg-rose-800 ' >
+                                className='w-fit bg-rose-600 text-white rounded-full px-3 py-2 text-nowrap font-semibold hover:bg-rose-800 ' >
                                 Tickets für {showCard.show.time}h kaufen
                             </a>
                         </button>
