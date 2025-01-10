@@ -8,7 +8,7 @@ const Header = (props) => {
 
 
     const linkClass = ({ isActive }) => {
-        return 'px-3 py-1.5 rounded-full font-semibold hover:bg-violet-700 transition-all duration-200 ' + (isActive ? ' bg-violet-700' : ' bg-violet-600 ')
+        return 'px-3 py-1.5 rounded-full font-semibold hover:bg-indigo-800 transition-all duration-200 ' + (isActive ? ' bg-indigo-800' : ' bg-indigo-600 ')
     }
     return (
         <div className='w-full sticky top-0  min-w-full h-fit flex justify-between items-center p-4 bg-slate-900 text-white z-40'>

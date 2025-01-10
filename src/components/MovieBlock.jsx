@@ -29,7 +29,7 @@ const MovieBlock = (props) => {
                 width: `${timeToPixels(show.endTime) - timeToPixels(show.time)}px`,
             }}
         >
-            <div className="h-24 shrink-0 rounded-l-xl">
+            <div className="h-24 shrink-0">
                 <img
                     src={movieInfo.posterUrl}
                     alt={movieInfo.title}
@@ -44,7 +44,7 @@ const MovieBlock = (props) => {
                     {isOmdu && (
                         <div className="text-xs bg-indigo-600 text-white rounded-full px-1.5 py-0.5 ml-[-0.2rem] w-fit">
                             <p className='font-semibold'>
-                                Omdu
+                                OmdU
                             </p>
                         </div>
                     )}
