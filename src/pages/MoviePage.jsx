@@ -18,7 +18,11 @@ const MoviePage = () => {
 
     const [showCard, setShowCard] = useState(false)
 
+    const today = new Date()
+    const TODAY_FORMATTED = today.toISOString().split('T')[0]
+
     const movieData = movieViewData.find((movie) => movie.title === selectedMovie)
+    movieData.dates = movieData.dates.filter(date => date.date >= TODAY_FORMATTED)
     console.log(movieData)
     return (
         <>

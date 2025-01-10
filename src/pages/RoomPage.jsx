@@ -4,20 +4,23 @@ import TopSection from '../components/TopSection'
 import SelectionButton from '../components/SelectionButton'
 import MovieCard from '../components/MovieCard'
 import { useState } from 'react'
-import { formatDateString, TIMELINE_WIDTH } from '../utils/utils'
+import { formatDateString, TIMELINE_WIDTH, TODAY_FORMATTED } from '../utils/utils'
 
 
 
 const RoomPage = () => {
 
-    const [selectedRoom, setSelectedRoom] = useState('Saal Spielberg')
+    const [selectedRoom, setSelectedRoom] = useState('Saal Tarantino')
 
     const [ showCard, setShowCard ] = useState(false)
 
     const roomData = roomViewData.map(theater => ({
         ...theater,
-        rooms: theater.rooms.filter(room => room.name === selectedRoom)
-    })).filter(theater => theater.rooms.length > 0);
+        rooms: theater.rooms.filter(room => room.name === selectedRoom).map(room => ({
+            ...room,
+            dates: room.dates.filter(date => date.date >= TODAY_FORMATTED)
+        }))
+    })).filter(theater => theater.rooms.length > 0 && theater.rooms.some(room => room.dates.length > 0));
     console.log(roomData)
 
 

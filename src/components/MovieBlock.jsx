@@ -3,11 +3,13 @@ import { timeToPixels } from '../utils/utils'
 import MovieCard from './MovieCard'
 import movieReference from '../data/movies-reference.json'
 
+
 const MovieBlock = (props) => {
     const { show, showIdx, showCard, setShowCard } = props
 
     const movieInfo = movieReference[show.movieId]
 
+    const isOmdu = show.attributes.includes('OmdU')
     // when clickineg on a movie block, show the movie card
     const handleClick = (e) => {
         setShowCard({
@@ -28,19 +30,30 @@ const MovieBlock = (props) => {
             }}
         >
             <div className="h-24 shrink-0 rounded-l-xl">
-                    <img 
-                        src={movieInfo.posterUrl} 
-                        alt={movieInfo.title} 
-                        className='h-full w-auto object-cover rounded-l-lg' 
-                    />
+                <img
+                    src={movieInfo.posterUrl}
+                    alt={movieInfo.title}
+                    className='h-full w-auto object-cover rounded-l-lg'
+                />
             </div>
             <div className='flex-grow flex flex-col justify-between px-3 pt-1 pb-1.5 text-left gap-2 overflow-auto'>
-                <h1 className='text-sm font-semibold'>
+                <h1 className='text-sm font-semibold overflow-scroll'>
                     {movieInfo.title}
                 </h1>
-                <p className='text-sm '>
-                    {show.time} - {show.endTime}
-                </p>
+                <div className='flex flex-col gap-1'>
+                    {isOmdu && (
+                        <div className="text-xs bg-indigo-600 text-white rounded-full px-1.5 py-0.5 ml-[-0.2rem] w-fit">
+                            <p className='font-semibold'>
+                                Omdu
+                            </p>
+                        </div>
+                    )}
+
+                    <p className='text-xs '>
+                        {show.time} - {show.endTime}
+                    </p>
+                </div>
+
             </div>
         </button>
     )

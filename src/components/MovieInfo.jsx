@@ -1,4 +1,5 @@
-import { useState } from "react"
+import React, { useState } from "react"
+import MovieAttributes from "./MovieAttributes"
 
 const MovieInfo = (props) => {
     const { movieData } = props
@@ -15,7 +16,7 @@ const MovieInfo = (props) => {
             >
                 <div className="h-80 shrink-0">
                     <img
-                        src={movieData.posterUrl}
+                        src={movieData.posterUrl.split('?')[0]}
                         alt={movieData.title}
                         className='h-full w-auto object-cover'
                     />
@@ -25,21 +26,26 @@ const MovieInfo = (props) => {
                         {movieData.title}
                     </h1>
                     
-                    <p className='text-sm'>
-                        {movieData.genre}
-                    </p>
-                    <p className='text-sm'>
-                        {movieData.duration}
-                    </p>
+                    <MovieAttributes 
+                        duration={movieData.duration.split(' ')[0]}
+                        genre={movieData.genre}
+                        actors={movieData.actors}
+                        attributes={movieData.attributes}
+                        director={movieData.director}
+                        releaseDate={movieData.releaseDate}
+                        originalTitle={movieData.originalTitle}
+                        fsk={movieData.fsk}
+                    />
+                    
                     <p className=" text-sm">
-                        {movieData.description}
+                        {movieData.description.split('<br>').map((line, index) => (
+                                <React.Fragment key={index}>
+                                    {line}
+                                    <br />
+                                </React.Fragment>
+                            ))}
                     </p>
-                    <p className='text-sm'>
-                        Regie: {movieData.director}
-                    </p>
-                    <p className='text-sm'>
-                        <span className="font-bold ">Darsteller:</span> {movieData.actors.join(', ')}
-                    </p>
+                    
                 </div>
             </div>
 
@@ -51,8 +57,8 @@ const MovieInfo = (props) => {
                     before:h-20 before:bg-gradient-to-t before:from-slate-900 before:via-slate-900 before:via-10% before:to-transparent
                     before:transition-all before:duration-500 before:ease-in-out before:-translate-y-2
                     ${!isExpanded
-                        ? 'before:opacity-100 h-1'
-                        : 'before:opacity-0 h-8'
+                        ? 'before:opacity-100 h-1 before:h-20'
+                        : 'before:opacity-0 h-8 before:h-8'
                     }
                 `}
             >
@@ -62,8 +68,8 @@ const MovieInfo = (props) => {
                     ${!isExpanded ? 'bg-opacity-100 -translate-y-14' : ''}
                 `}>
                     <i className={`
-                        fa-solid ${isExpanded ? 'fa-chevron-up text-indigo-500' : 'fa-chevron-down text-white'}  '}
-                        text-3xl transition-all duration-300 ease-in-out hover:scale-[1.3]
+                        fa-solid ${isExpanded ? 'fa-chevron-up ' : 'fa-chevron-down'}  '}
+                        text-3xl text-white transition-all duration-300 ease-in-out hover:scale-[1.3] hover:text-indigo-500
                     `}></i>
                 </p>
             </button>

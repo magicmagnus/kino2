@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import MovieAttributes from './MovieAttributes'
 
 const MovieCard = (props) => {
     const { showCard, setShowCard } = props
@@ -30,6 +31,9 @@ const MovieCard = (props) => {
     const [imageLoaded, setImageLoaded] = useState(false);
     const [imageError, setImageError] = useState(false);
 
+    
+
+
 
     return (
         <button
@@ -40,7 +44,7 @@ const MovieCard = (props) => {
             <div
                 onClick={(e) => e.stopPropagation()}
                 className={`w-[85%] md:w-[90%] max-w-[900px]
-                            h-[90%] md:h-[40%] 
+                            h-[90%] md:h-[60%] 
                          transition-all duration-300 ease-in-out
                          bg-slate-900 rounded-2xl shadow-lg text-white
                          absolute top-1/2 left-1/2
@@ -56,9 +60,9 @@ const MovieCard = (props) => {
                 </button>
                 <div className='h-full w-full overflow-auto relative flex flex-col justify-start md:flex-row rounded-2xl'>
 
-                    <div className='w-full md:h-full md:w-auto bg-slate-800'> 
+                    <div className='w-full md:h-full md:w-auto bg-slate-800'>
                         <div className='relative w-full pb-[150%] 
-                                        md:h-full md:pb-0 md:aspect-[2/3] md:w-auto'> 
+                                        md:h-full md:pb-0 md:aspect-[2/3] md:w-auto'>
                             {!imageLoaded && !imageError && (
                                 <div
                                     className='absolute top-0 left-0 w-full h-full bg-slate-800'
@@ -79,11 +83,24 @@ const MovieCard = (props) => {
                             />
                         </div>
                     </div>
-                    <div className='p-4 flex-1 flex flex-col justify-start gap-4'>
-                        <h2 className='text-2xl font-semibold text-left'>
+                    <div className='p-4 flex-1 flex flex-col justify-start gap-4 mb-6'>
+                        
+                        <h2 className='text-3xl font-semibold text-left'>
                             {showCard.movieInfo.title}
                         </h2>
-                        <p className='text-sm text-left pt-3 md:overflow-scroll md:h-[calc(100%-6rem)]'>
+
+                        <MovieAttributes 
+                            duration={showCard.movieInfo.duration.split(' ')[0]}
+                            genre={showCard.movieInfo.genre}
+                            actors={showCard.movieInfo.actors}
+                            attributes={showCard.show.attributes}
+                            director={showCard.movieInfo.director}
+                            releaseDate={showCard.movieInfo.releaseDate}
+                            originalTitle={showCard.movieInfo.originalTitle}
+                            fsk={showCard.movieInfo.fsk}
+                        />
+
+                        <p className='text-sm text-left md:overflow-scroll md:h-[calc(100%-6rem)]'>
                             {showCard.movieInfo.description.split('<br>').map((line, index) => (
                                 <React.Fragment key={index}>
                                     {line}
@@ -101,16 +118,15 @@ const MovieCard = (props) => {
                         md:absolute md:bottom-0 md:right-0 md:left-auto md:w-auto md:bg-transparent '>
                         <button>
                             <a href={showCard.movieInfo.trailerUrl} target="_blank" rel="noreferrer"
-                                className='bg-indigo-700 text-white rounded-md p-2 text-nowrap'>
-                                Watch Trailer
+                                className=' bg-slate-900 border-indigo-600 border-2 text-indigo-600 font-semibold rounded-md p-2 text-nowrap'>
+                                Trailer
                             </a>
                         </button>
                         <button>
                             <a
                                 href={showCard.show.iframeUrl} target="_blank" rel="noreferrer"
-                                className='bg-slate-900 border-indigo-600 border-2 text-indigo-600 font-semibold rounded-md p-2 text-nowrap'
-                            >
-                                Buy Ticket for {showCard.show.time}
+                                className='bg-indigo-700 text-white rounded-md p-2 text-nowrap font-semibold hover:bg-indigo-800 ' >
+                                Tickets für {showCard.show.time}h kaufen
                             </a>
                         </button>
 

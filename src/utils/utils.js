@@ -27,7 +27,13 @@ export const formatDateString = (date) => {
     let dateObj = new Date(date)
     if (date === TODAY_FORMATTED) {
         return 'Heute'
+    } else if (
+        dateObj.getDate() === new Date().getDate() + 1 &&
+        dateObj.getMonth() === new Date().getMonth()
+    ) {
+        return 'Morgen'
     }
+    
     return dateObj.toLocaleDateString('de-DE', {
         weekday: 'short',
         month: 'numeric',

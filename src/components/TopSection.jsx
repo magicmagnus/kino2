@@ -14,12 +14,12 @@ const TopSection = (props) => {
                 {/* dropdown + MovieInfo, or selection buttons, dynamic per view*/}
                 <div className='w-screen sticky top-0 left-0 flex justify-start z-30 items-center gap-2 px-2 py-2 overflow-visible'>
                     {movieData ? (
-                        <div className="flex w-full ">
+                        <div className="flex w-full">
                             {children}
                         </div>
                     ) : (
 
-                        <div className='flex overflow-auto space-x-2  no-scrollbar'>
+                        <div className='flex overflow-auto gap-1.5  no-scrollbar'>
                             {children}
                         </div>
 
