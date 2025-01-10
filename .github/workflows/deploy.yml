@@ -1,6 +1,9 @@
 
 name: Build and Deploy to GitHub Pages
-on: push
+on:
+  push:
+  repository_dispatch:
+    types: [deploy_trigger]
 
 permissions:
   contents: write  # This line gives the workflow permission to write to the repository
