@@ -11,10 +11,10 @@ const MovieInfo = (props) => {
                 className={`
                     flex w-screen overflow-hidden
                     transition-all duration-500 ease-in-out mb-2
-                    ${isExpanded ? 'h-80' : 'h-20'}
+                    ${isExpanded ? 'h-96' : 'h-20'}
                 `}
             >
-                <div className="h-80 shrink-0">
+                <div className={` transition-all duration-500 ease-in-out shrink-0 ${isExpanded ? 'h-52 ' : 'h-20'} `}>
                     <img
                         src={movieData.posterUrl.split('?')[0]}
                         alt={movieData.title}

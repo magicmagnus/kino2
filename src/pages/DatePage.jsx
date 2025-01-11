@@ -19,36 +19,7 @@ const DatePage = () => {
     // dynamically get the data for the selected date
     const dateData = dateViewData.find((date) => date.date === selectedDate)
 
-    // const firstMovieRef = useRef(null)
-    // useEffect(() => {
-    //     // Find the first MovieBlock's starting time across all theaters
-    //     let earliestTime = '24:00'
-    //     let earliestBlock = null
-
-    //     dateData.theaters.forEach(theater => {
-    //         theater.rooms.forEach(room => {
-    //             room.showings.forEach(show => {
-    //                 if (show.time < earliestTime) {
-    //                     earliestTime = show.time
-    //                     earliestBlock = show
-    //                 }
-    //             })
-    //         })
-    //     })
-
-    //     // If we found a MovieBlock, scroll to its position
-    //     if (earliestBlock) {
-    //         const hourOfShow = parseInt(earliestBlock.time.split(':')[0])
-    //         const scrollPosition = (hourOfShow - START_HOUR) * HOUR_WIDTH
-    //         const container = document.querySelector('.overflow-y-auto')
-    //         if (container) {
-    //             container.scrollTo({
-    //                 left: scrollPosition,
-    //                 behavior: 'smooth'
-    //             })
-    //         }
-    //     }
-    // }, [selectedDate, dateData]) // Re-run when date changes
+   
 
     // Scroll to the earliest showing when the page loads
     useScrollToEarliest([selectedDate])
@@ -80,6 +51,7 @@ const DatePage = () => {
                             parentGroupType="theater"
                             showCard={showCard}
                             setShowCard={setShowCard}
+                            date={selectedDate}
                         />
                     ))}
 

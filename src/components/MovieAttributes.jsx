@@ -13,11 +13,32 @@ const MovieAttributes = (props) => {
     let omduExplainer = ''
     if (isOmdu) {
         if (isOmdu === 'OmdU') {
-            omduExplainer = ' (Original mit deutschen Untertiteln)'
+            omduExplainer = (
+                <>
+                    <span className='font-bold'>O</span>riginal{" "}
+                    <span className='font-bold'>m</span>it{" "}
+                    <span className='font-bold'>d</span>eutschen{" "}
+                    <span className='font-bold'>U</span>ntertiteln
+                </>
+            )
         } else if (isOmdu === 'OmeU') {
-            omduExplainer = ' (Original mit englischen Untertiteln)'
+            omduExplainer = (
+                <>
+                    <span className='font-bold'>O</span>riginal{" "}
+                    <span className='font-bold'>m</span>it{" "}
+                    <span className='font-bold'>e</span>nglischen{" "}
+                    <span className='font-bold'>U</span>ntertiteln
+                    {")"}
+                </>
+            )
         } else if (isOmdu === 'OV') {
-            omduExplainer = ' (Original Version)'
+            omduExplainer = (
+                <>
+                    <span className='font-bold'>O</span>riginal{" "}
+                    <span className='font-bold'>V</span>ersion
+                    {")"}
+                </>
+            )
         } else {
             omduExplainer = ''
         }
@@ -38,6 +59,7 @@ const MovieAttributes = (props) => {
                     {durationText}
                 </p>
             </div>
+            
 
             {(genre != "Unknown Genre") ? (
                 <div className="flex items-center gap-2">
@@ -52,7 +74,7 @@ const MovieAttributes = (props) => {
                 <div className=" flex items-center gap-2 bg-rose-600 text-white rounded-full pl-1.5 pr-2 py-0.5 ml-[-0.2rem] w-fit">
                     <i class="fa-solid fa-language"></i>
                     <p className=''>
-                        {isOmdu + omduExplainer}
+                        {omduExplainer}
                     </p>
                 </div>
             )}

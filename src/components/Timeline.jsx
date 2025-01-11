@@ -2,9 +2,10 @@ import React from 'react'
 import HourMarkers from './HourMarkers'
 import MovieBlock from './MovieBlock'
 import { TIMELINE_WIDTH  } from '../utils/utils'
+import TimeIndicator from './TimeIndicator'
 
 const Timeline = (props) => {
-    const { schedule, scheduleIdx, isLast, title, showCard, setShowCard} = props
+    const { schedule, scheduleIdx, isLast, title, showCard, setShowCard, date} = props
     return (
         <div key={scheduleIdx} className="relative flex items-center justify-center text-center bg-zinc-900 w-fit " 
         >
@@ -29,6 +30,8 @@ const Timeline = (props) => {
             >
                 {/* Generate hour markers */}
                 <HourMarkers  />
+                {/* Time indicator */}
+                <TimeIndicator date={date} />
                 {/* MovieBlocks for this room */}
                 {schedule.showings.map((show, showIdx) => (
                     <MovieBlock key={showIdx}

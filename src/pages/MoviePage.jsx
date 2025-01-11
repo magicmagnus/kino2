@@ -2,30 +2,36 @@ import movieViewData from '../data/movie-view.json'
 import TimelineGroup from '../components/TimelineGroup'
 import TopSection from '../components/TopSection'
 import MovieCard from '../components/MovieCard'
-import SelectionButton from '../components/SelectionButton'
 
 import { Listbox } from '@headlessui/react'
+import { Navigate } from 'react-router-dom'
 
 import { useState } from 'react'
-import { formatDateString, TIMELINE_WIDTH } from '../utils/utils'
+import { useParams } from 'react-router-dom'
 import { useScrollToEarliest } from '../hooks/useScrollToEarliest'
+import { TIMELINE_WIDTH } from '../utils/utils'
 
 
 
 const MoviePage = () => {
-
-    const [selectedMovie, setSelectedMovie] = useState(movieViewData[0].title)
-    console.log(selectedMovie)
-
+    
+    const { movieSlug } = useParams() // Get movieslug from URL
+    const [selectedMovie, setSelectedMovie] = useState(movieSlug || movieViewData[0].slug)
     const [showCard, setShowCard] = useState(false)
 
     const today = new Date()
     const TODAY_FORMATTED = today.toISOString().split('T')[0]
 
-    const movieData = movieViewData.find((movie) => movie.title === selectedMovie)
-    movieData.dates = movieData.dates.filter(date => date.date >= TODAY_FORMATTED)
-    console.log(movieData)
+    // Add error handling for when movie is not found
+    const movieData = movieViewData.find((movie) => movie.slug === selectedMovie)
+    if (!movieData) {
+        return <Navigate to={"/404/"} />
+        
+    }
 
+    movieData.dates = movieData.dates.filter(date => date.date >= TODAY_FORMATTED)
+
+   
     useScrollToEarliest([selectedMovie])
     return (
         <>
@@ -41,7 +47,7 @@ const MoviePage = () => {
                                 <>
                                     <Listbox.Button className="w-full sm:w-96 bg-rose-600 text-sm text-white flex justify-center items-center transition-all duration-200
                                                              rounded-md px-2 py-1 h-fit hover:bg-rose-800 z-20 shadow-lg">
-                                        <p>{selectedMovie}</p>
+                                        <p>{movieData.title}</p>
                                         <i className={`fa-solid  pl-2 pb-0.5 transform transition-transform duration-200 ${open ? 'fa-chevron-up' : 'fa-chevron-down'}`}></i>
                                     </Listbox.Button>
                                     <Listbox.Options className={"absolute top-0 left-0 right-0  \
@@ -52,7 +58,7 @@ const MoviePage = () => {
                                         {movieViewData.map((movie, movieIndex) => (
                                             <Listbox.Option
                                                 key={movieIndex}
-                                                value={movie.title}
+                                                value={movie.slug}
                                                 className={({ active }) => `
                                                     px-3 py-2 cursor-pointer
                                                     ${active ? 'bg-rose-600' : 'bg-rose-800'}
@@ -73,6 +79,7 @@ const MoviePage = () => {
                             parentGroupType="date"
                             showCard={showCard}
                             setShowCard={setShowCard}
+                            date={date.date}
                         />
                     ))}
                 </div>

@@ -55,6 +55,7 @@ const RoomPage = () => {
                                     title={formatDateString(date.date)}
                                     showCard={showCard}
                                     setShowCard={setShowCard}
+                                    date={date.date}
                                 />
                             ))
                         ))

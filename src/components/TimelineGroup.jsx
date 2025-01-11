@@ -4,7 +4,7 @@ import { formatDateString } from '../utils/utils'
 
 const TimelineGroup = (props) => {
 
-    const { groupElement, groupElementIdx, parentGroupType, showCard, setShowCard} = props
+    const { groupElement, groupElementIdx, parentGroupType, showCard, setShowCard, date } = props
 
     let groupedList = [];
     // groupElement is either a room or a date
@@ -38,6 +38,7 @@ const TimelineGroup = (props) => {
                     title={schedule.name}
                     showCard={showCard}
                     setShowCard={setShowCard}
+                    date={date}
                 />
             ))) : <></>}
             {(parentGroupType === "date") ? 
@@ -50,6 +51,7 @@ const TimelineGroup = (props) => {
                         title={room.name}
                         showCard={showCard}
                         setShowCard={setShowCard}
+                        date={date}
                     />
                 ))
             ))) : <></>}

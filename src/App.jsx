@@ -7,13 +7,15 @@ import MoviePage from './pages/MoviePage'
 import NotFoundPage from './pages/NotFoundPage'
 import { useState } from 'react'
 
+
 const router = createBrowserRouter(
     createRoutesFromElements(
         <Route path='/' element={ <MainLayout/> }>
             <Route index element={ <Navigate to="/date" replace /> }/>
             <Route path='/date' element={ <DatePage /> }/>
             <Route path='/room' element={ <RoomPage /> }/>
-            <Route path='/movie' element={ <MoviePage /> }/>
+            <Route path='/movie/:movieSlug' element={<MoviePage />}/>
+            <Route path='/movie' element={<MoviePage />}/>
             <Route path='*' element={ <NotFoundPage/> }/>
         </Route>
     ),
