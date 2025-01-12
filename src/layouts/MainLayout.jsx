@@ -37,7 +37,7 @@ const MainLayout = () => {
                     <div
                         className="relative flex min-h-full flex-col"
                         style={{
-                            width: `${TIMELINE_WIDTH + 28 + 48}px`,
+                            width: `${TIMELINE_WIDTH + 28 + 48}px`, // 28px for ml-7 of timeline, 48px for ???-12
                             minWidth: `${TIMELINE_WIDTH + 28 + 48}px`,
                         }}
                     >

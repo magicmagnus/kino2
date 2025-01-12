@@ -26,8 +26,8 @@ const TimelineGroup = (props) => {
     return (
         <div key={groupElementIdx}>
             {/* sticky header */}
-            <div className="sticky left-0 z-10 flex h-fit w-screen items-center justify-start bg-zinc-950 text-left">
-                <h1 className="mx-0 w-fit text-nowrap py-1 pl-2 text-base font-semibold text-white">
+            <div className="sticky left-0 z-[11] flex h-fit w-screen items-center justify-start bg-zinc-950 text-left">
+                <h1 className="mx-0 w-fit text-nowrap py-1 pl-2 pr-2 text-base font-semibold text-white">
                     {/* could be theater name or date name */}
                     {parentGroupType === "theater"
                         ? groupElement.name

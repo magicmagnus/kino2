@@ -21,7 +21,7 @@ const Timeline = (props) => {
         >
             {/* children are Room name or Date as name - sticky left column  */}
             {/* Room name - sticky left column */}
-            <div className="sticky left-0 z-10 flex h-28 w-8 items-center justify-center text-center">
+            <div className="bg-pink sticky left-0 z-[11] flex h-28 w-8 items-center justify-center text-center">
                 <div
                     className={
                         "flex h-28 w-8 flex-col items-center justify-center bg-zinc-800 shadow-xl shadow-zinc-950" +
@@ -47,8 +47,7 @@ const Timeline = (props) => {
             >
                 {/* Generate hour markers */}
                 <HourMarkers />
-                {/* Time indicator */}
-                <TimeIndicator date={date} />
+
                 {/* MovieBlocks for this room */}
                 {schedule.showings.map((show, showIdx) => (
                     <MovieBlock
@@ -58,6 +57,8 @@ const Timeline = (props) => {
                         setShowCard={setShowCard}
                     />
                 ))}
+                {/* Time indicator */}
+                <TimeIndicator date={date} isLast={isLast} />
             </div>
         </div>
     );

@@ -10,6 +10,7 @@ const MovieAttributes = (props) => {
         director,
         releaseDate,
         originalTitle,
+        production,
         fsk,
     } = props;
 
@@ -99,6 +100,12 @@ const MovieAttributes = (props) => {
                             <div className="flex items-center gap-2 pt-2">
                                 <i class="fa-solid fa-book"></i>
                                 <p>Original Titel: "{originalTitle}"</p>
+                            </div>
+                        )}
+                        {production != "Unknown Production" && (
+                            <div className="flex items-start gap-2 pt-2">
+                                <i class="fa-solid fa-film pt-1"></i>
+                                <p>Produktion: {production}</p>
                             </div>
                         )}
                         {fsk != "Unknown" && (

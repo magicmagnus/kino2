@@ -30,6 +30,7 @@ const MovieInfo = (props) => {
                         director={movieData.director}
                         releaseDate={movieData.releaseDate}
                         originalTitle={movieData.originalTitle}
+                        production={movieData.production}
                         fsk={movieData.fsk}
                     />
 

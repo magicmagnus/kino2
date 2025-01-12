@@ -63,7 +63,7 @@ const MovieCard = (props) => {
         >
             <div
                 onClick={(e) => e.stopPropagation()}
-                className={`absolute left-1/2 top-1/2 h-[95%] w-[90%] max-w-[900px] rounded-3xl bg-zinc-950 text-white shadow-lg transition-all duration-300 ease-in-out sm:h-[70%] sm:w-[90%] ${
+                className={`absolute left-1/2 top-1/2 h-[95%] w-[90%] max-w-[900px] rounded-3xl bg-zinc-950 text-white shadow-lg transition-all duration-300 ease-in-out sm:h-[90%] sm:max-h-[500px] sm:w-[90%] ${
                     isVisible
                         ? "-translate-x-1/2 -translate-y-1/2 scale-100 opacity-100"
                         : "-translate-x-1/2 -translate-y-[45%] scale-95 opacity-0"
@@ -72,7 +72,10 @@ const MovieCard = (props) => {
                 {/* Rest of your card content remains the same */}
                 <button
                     onClick={handleClose}
-                    className="absolute right-0 top-0 z-20 flex h-8 w-8 items-center justify-center p-6"
+                    className="absolute right-0 top-0 z-20 m-2 flex h-10 w-10 items-center justify-center rounded-full bg-zinc-900 p-4 text-rose-500 transition-all duration-300 ease-in-out hover:scale-[1.2] hover:bg-zinc-700"
+                    style={{
+                        boxShadow: "0 0 10px 2px rgba(0,0,0,0.5)",
+                    }}
                 >
                     <i class="fa-solid fa-xmark text-2xl"></i>
                 </button>
@@ -99,7 +102,7 @@ const MovieCard = (props) => {
                             />
                         </div>
                     </div>
-                    <div className="mb-6 flex flex-1 flex-col justify-start gap-4 p-4">
+                    <div className="mb-4 flex flex-1 flex-col justify-start gap-4 p-4 sm:mb-12 sm:overflow-scroll">
                         <h2 className="text-left text-3xl font-semibold">
                             {showCard.movieInfo.title}
                         </h2>
@@ -112,10 +115,11 @@ const MovieCard = (props) => {
                             director={showCard.movieInfo.director}
                             releaseDate={showCard.movieInfo.releaseDate}
                             originalTitle={showCard.movieInfo.originalTitle}
+                            production={showCard.movieInfo.production}
                             fsk={showCard.movieInfo.fsk}
                         />
 
-                        <p className="text-left text-sm sm:h-[calc(100%-6rem)] sm:overflow-scroll">
+                        <p className="text-left text-sm">
                             {showCard.movieInfo.description
                                 .split("<br>")
                                 .map((line, index) => (
@@ -126,7 +130,7 @@ const MovieCard = (props) => {
                                 ))}
                         </p>
                     </div>
-                    <div className="sticky bottom-0 flex h-fit w-full flex-col justify-between gap-2 bg-zinc-800 px-2.5 py-2 shadow-xl shadow-black sm:absolute sm:bottom-0 sm:left-auto sm:right-0 sm:w-auto sm:gap-2 sm:bg-transparent">
+                    <div className="sticky bottom-0 flex h-fit w-full flex-col justify-between gap-2 bg-zinc-800 px-2.5 py-2 shadow-xl shadow-black sm:absolute sm:bottom-0 sm:left-auto sm:right-0 sm:w-fit sm:flex-row sm:gap-2 sm:bg-transparent">
                         <div className="flex h-fit w-full items-center justify-center gap-2 opacity-100">
                             <button
                                 onClick={handleAllShowsClick}
