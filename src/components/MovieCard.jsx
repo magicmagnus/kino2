@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import MovieAttributes from "./MovieAttributes";
-import { NavLink } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const MovieCard = (props) => {
     const { showCard, setShowCard } = props;
@@ -41,6 +41,21 @@ const MovieCard = (props) => {
         window.location.href = appLink;
     }
 
+    const navigate = useNavigate();
+
+    const handleAllShowsClick = () => {
+        // Navigate immediately (will be hidden behind the modal)
+        navigate(`/movie/${showCard.movieInfo.slug}`);
+
+        // Then start the fade out animation
+        setIsVisible(false);
+
+        // Finally remove the card from DOM after animation
+        setTimeout(() => {
+            setShowCard(null);
+        }, 200);
+    };
+
     return (
         <button
             onClick={handleClose}
@@ -48,7 +63,7 @@ const MovieCard = (props) => {
         >
             <div
                 onClick={(e) => e.stopPropagation()}
-                className={`absolute left-1/2 top-1/2 h-[90%] w-[85%] max-w-[900px] rounded-3xl bg-zinc-900 text-white shadow-lg transition-all duration-300 ease-in-out md:h-[60%] md:w-[90%] ${
+                className={`absolute left-1/2 top-1/2 h-[95%] w-[90%] max-w-[900px] rounded-3xl bg-zinc-950 text-white shadow-lg transition-all duration-300 ease-in-out sm:h-[70%] sm:w-[90%] ${
                     isVisible
                         ? "-translate-x-1/2 -translate-y-1/2 scale-100 opacity-100"
                         : "-translate-x-1/2 -translate-y-[45%] scale-95 opacity-0"
@@ -61,9 +76,9 @@ const MovieCard = (props) => {
                 >
                     <i class="fa-solid fa-xmark text-2xl"></i>
                 </button>
-                <div className="relative flex h-full w-full flex-col justify-start overflow-auto rounded-3xl md:flex-row">
-                    <div className="w-full bg-zinc-800 md:h-full md:w-auto">
-                        <div className="relative w-full pb-[150%] md:aspect-[2/3] md:h-full md:w-auto md:pb-0">
+                <div className="relative flex h-full w-full flex-col justify-start overflow-auto rounded-3xl sm:flex-row">
+                    <div className="w-full bg-zinc-800 sm:h-full sm:w-auto">
+                        <div className="relative w-full pb-[150%] sm:aspect-[2/3] sm:h-full sm:w-auto sm:pb-0">
                             {!imageLoaded && !imageError && (
                                 <div
                                     className="absolute left-0 top-0 h-full w-full bg-zinc-800"
@@ -100,7 +115,7 @@ const MovieCard = (props) => {
                             fsk={showCard.movieInfo.fsk}
                         />
 
-                        <p className="text-left text-sm md:h-[calc(100%-6rem)] md:overflow-scroll">
+                        <p className="text-left text-sm sm:h-[calc(100%-6rem)] sm:overflow-scroll">
                             {showCard.movieInfo.description
                                 .split("<br>")
                                 .map((line, index) => (
@@ -111,19 +126,18 @@ const MovieCard = (props) => {
                                 ))}
                         </p>
                     </div>
-                    <div className="sticky bottom-0 flex h-fit w-full flex-col justify-between gap-2 bg-zinc-900 shadow-2xl shadow-black px-2.5 py-2 md:absolute md:bottom-0 md:left-auto md:right-0 md:w-auto md:gap-2 md:bg-transparent">
-                        <div className="flex gap-2 w-full justify-center items-center h-fit opacity-100 ">
-                            <NavLink
-                                to={"/movie/" + showCard.movieInfo.slug}
-                                className="flex-1"
-                            >
-                                <button className=" w-full flex items-center justify-center gap-1 text-nowrap rounded-full border-2 border-rose-600 bg-zinc-900 p-2 px-2 py-1 text-xs font-semibold text-white hover:border-rose-600 hover:bg-rose-600 hover:text-white">
-                                    <i class="fa-solid fa-bars"></i>
-                                    <p className="pl-0">Alle Vorstellungen</p>
-                                </button>
-                            </NavLink>
+                    <div className="sticky bottom-0 flex h-fit w-full flex-col justify-between gap-2 bg-zinc-800 px-2.5 py-2 shadow-xl shadow-black sm:absolute sm:bottom-0 sm:left-auto sm:right-0 sm:w-auto sm:gap-2 sm:bg-transparent">
+                        <div className="flex h-fit w-full items-center justify-center gap-2 opacity-100">
                             <button
-                                className="flex-1 flex  items-center justify-center gap-1 text-nowrap rounded-full border-2 border-rose-600 bg-zinc-900 p-2 px-2 py-1 text-xs font-semibold text-white hover:border-rose-600 hover:bg-rose-600 hover:text-white"
+                                onClick={handleAllShowsClick}
+                                className="flex flex-1 items-center justify-center gap-1 text-nowrap rounded-full bg-rose-950 p-2 px-2 py-2 text-xs font-semibold text-rose-500 hover:opacity-80"
+                            >
+                                <i class="fa-solid fa-bars"></i>
+                                <p className="pl-0">Alle Vorstellungen</p>
+                            </button>
+
+                            <button
+                                className="flex flex-1 items-center justify-center gap-1 text-nowrap rounded-full bg-rose-950 p-2 px-2 py-2 text-xs font-semibold text-rose-500 hover:opacity-80"
                                 onClick={() =>
                                     openYouTube(showCard.movieInfo.trailerUrl)
                                 }
@@ -138,11 +152,11 @@ const MovieCard = (props) => {
                                 href={showCard.show.iframeUrl}
                                 target="_blank"
                                 rel="noreferrer"
-                                className="flex w-full items-center justify-center text-nowrap rounded-full border-2 border-rose-600 bg-rose-600 px-2 py-1 text-xs font-semibold text-white hover:border-rose-800 hover:bg-rose-800"
+                                className="flex w-full items-center justify-center text-nowrap rounded-full bg-rose-600 px-2 py-2 text-xs font-semibold text-white hover:opacity-80"
                             >
                                 <i className="fa-solid fa-ticket"></i>
                                 <p className="pl-1">
-                                    Tickets für {showCard.show.time}h
+                                    Tickets für {showCard.show.time}h kaufen
                                 </p>
                             </a>
                         </button>

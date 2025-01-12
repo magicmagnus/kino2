@@ -8,7 +8,7 @@ const TopSection = (props) => {
 
     return (
         <>
-            <div className="sticky top-0 z-20 bg-zinc-800">
+            <div className="sticky top-0 z-20 bg-zinc-900">
                 <div className="sticky left-0 top-0 z-30 flex w-screen items-center justify-start gap-2 overflow-visible px-2 py-2">
                     {movieData ? (
                         <div className="flex w-full">{children}</div>
@@ -21,21 +21,26 @@ const TopSection = (props) => {
                 {movieData && <MovieInfo movieData={movieData} />}
 
                 {/* Hour markers top*/}
-                <div className="flex bg-zinc-900 relative">
+                <div className="relative flex bg-zinc-800">
                     {/* pad for the corner where the two stickys meet */}
-                    <div className="sticky left-0 z-20 flex w-8 flex-shrink-0 items-center justify-center bg-zinc-900 text-center" />
+                    <div className="sticky left-0 z-20 flex w-8 flex-shrink-0 items-center justify-center bg-zinc-800 text-center" />
                     <div className="relative flex w-full">
                         {HOURS.map((hour) => (
                             <div
                                 key={hour}
-                                className="w-28 flex-shrink-0 px-3 py-1 text-left"
+                                className="w-28 flex-shrink-0 px-4 py-1 text-left"
                             >
-                                <p className="w-fit text-sm text-white">{hour}</p>
+                                <p className="w-fit text-xs text-white">
+                                    {hour}
+                                </p>
                             </div>
                         ))}
                         {/* Height adjusted to match header height */}
                         <div className="absolute inset-0 h-full">
-                            <TimeIndicator date={TODAY_FORMATTED} isTop={true}/>
+                            <TimeIndicator
+                                date={TODAY_FORMATTED}
+                                isTop={true}
+                            />
                         </div>
                     </div>
                 </div>

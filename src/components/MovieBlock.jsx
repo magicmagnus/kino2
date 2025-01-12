@@ -1,15 +1,12 @@
-import { useState } from 'react'
-import { timeToPixels } from '../utils/utils'
-import MovieCard from './MovieCard'
-import movieReference from '../data/movies-reference.json'
-
+import { timeToPixels, containsOmdu } from "../utils/utils";
+import movieReference from "../data/movies-reference.json";
 
 const MovieBlock = (props) => {
-    const { show, showIdx, showCard, setShowCard } = props
+    const { show, showIdx, setShowCard } = props;
 
-    const movieInfo = movieReference[show.movieId]
+    const movieInfo = movieReference[show.movieId];
 
-    const isOmdu = show.attributes.includes('OmdU')
+    const isOmdu = containsOmdu(show.attributes);
     // when clickineg on a movie block, show the movie card
     const handleClick = (e) => {
         setShowCard({
@@ -17,13 +14,13 @@ const MovieBlock = (props) => {
             movieInfo: movieInfo,
             top: e.clientY,
             left: e.clientX,
-        })
-    }
+        });
+    };
     return (
         <button
             onClick={handleClick}
             key={showIdx}
-            className="absolute flex h-24 top-0 mt-[7px] rounded-lg bg-zinc-800 text-white shadow-lg hover:bg-zinc-700 hover:scale-110 group transition-all duration-200 "
+            className="group absolute top-0 mt-[7px] flex h-24 rounded-lg bg-zinc-800 text-white shadow-lg transition-all duration-200 hover:scale-110 hover:bg-zinc-700"
             style={{
                 left: `${timeToPixels(show.time)}px`,
                 width: `${timeToPixels(show.endTime) - timeToPixels(show.time)}px`,
@@ -33,30 +30,27 @@ const MovieBlock = (props) => {
                 <img
                     src={movieInfo.posterUrl}
                     alt={movieInfo.title}
-                    className='h-full w-auto object-cover rounded-l-lg'
+                    className="h-full w-auto rounded-l-lg object-cover"
                 />
             </div>
-            <div className='flex-grow flex flex-col justify-between px-3 pt-1 pb-1.5 text-left gap-2 overflow-auto'>
-                <h1 className='text-sm font-semibold overflow-scroll'>
+            <div className="flex flex-grow flex-col justify-between gap-2 overflow-auto px-3 pb-1.5 pt-1 text-left">
+                <h1 className="overflow-scroll text-sm font-semibold">
                     {movieInfo.title}
                 </h1>
-                <div className='flex flex-col gap-1'>
+                <div className="flex flex-col gap-1">
                     {isOmdu && (
-                        <div className="text-xs bg-rose-600 text-white rounded-full px-1.5 py-0.5 ml-[-0.2rem] w-fit">
-                            <p className='font-semibold'>
-                                OmdU
-                            </p>
+                        <div className="ml-[-0.2rem] w-fit rounded-full bg-rose-700 px-1.5 py-0.5 text-xs text-rose-200">
+                            <p className="font-medium">OmdU</p>
                         </div>
                     )}
 
-                    <p className='text-xs '>
+                    <p className="text-xs">
                         {show.time} - {show.endTime}
                     </p>
                 </div>
-
             </div>
         </button>
-    )
-}
+    );
+};
 
-export default MovieBlock
+export default MovieBlock;

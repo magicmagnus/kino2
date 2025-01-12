@@ -1,19 +1,20 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
+import { Link } from "react-router-dom";
 
 const NotFoundPage = () => {
     return (
-        <section className="text-center flex flex-col text-white justify-center items-center h-full">
-            <i className="fas fa-exclamation-triangle text-rose-400 text-9xl mb-4"></i>
-            <h1 className="text-4xl font-bold mb-4">404 Not Found</h1>
-            <p className="text-xl mb-5">Diese Seite existiert nicht...</p>
+        <section className="flex h-full flex-col items-center justify-center text-center text-white">
+            <i className="fas fa-exclamation-triangle mb-4 text-9xl text-rose-400"></i>
+            <h1 className="mb-4 text-4xl font-bold">404 Not Found</h1>
+            <p className="mb-5 text-xl">Diese Seite existiert nicht...</p>
             <Link
                 to="/"
-                className="text-white font-semibold text-lg bg-rose-600 hover:bg-rose-900 rounded-full px-3 py-2 mt-4"
-            >Startseite
+                className="mt-4 rounded-full bg-rose-600 px-3 py-2 text-lg font-semibold text-white hover:bg-rose-900"
+            >
+                Startseite
             </Link>
         </section>
-    )
-}
+    );
+};
 
-export default NotFoundPage
+export default NotFoundPage;

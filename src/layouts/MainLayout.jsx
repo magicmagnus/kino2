@@ -1,19 +1,63 @@
-import { Outlet } from "react-router-dom"
-import Header from "../components/Header"
-import Footer from "../components/Footer"
-import { useState, useEffect } from "react"
-import { HOUR_WIDTH, START_HOUR } from '../utils/utils'
+import Header from "../components/Header";
+import MovieCard from "../components/MovieCard";
+import Footer from "../components/Footer";
+import { useState, useEffect } from "react";
+import { Outlet } from "react-router-dom";
+import { TIMELINE_WIDTH } from "../utils/utils";
 
 const MainLayout = () => {
-    
+    const [showCard, setShowCard] = useState(false);
+
+    // Handle mobile viewport and scrolling
+    useEffect(() => {
+        if (showCard) {
+            // Prevent scrolling and bouncing on iOS
+            document.body.style.overflow = "hidden";
+            document.body.style.position = "fixed";
+            document.body.style.width = "100%";
+        } else {
+            document.body.style.overflow = "unset";
+            document.body.style.position = "static";
+        }
+
+        return () => {
+            document.body.style.overflow = "unset";
+            document.body.style.position = "static";
+        };
+    }, [showCard]);
 
     return (
-        <div className="flex flex-col justify-start h-screen no-scrollbar bg-zinc-900">
+        <div className="flex min-h-[100dvh] flex-col bg-zinc-900">
             <Header />
-            <Outlet />
-            <Footer />
-        </div>
-    )
-}
 
-export default MainLayout
+            {/* Main content wrapper */}
+            <div className="relative flex-1">
+                {/* Scrollable content */}
+                <div className="no-scrollbar absolute inset-0 w-full overflow-y-auto">
+                    <div
+                        className="relative flex min-h-full flex-col"
+                        style={{
+                            width: `${TIMELINE_WIDTH + 28 + 48}px`,
+                            minWidth: `${TIMELINE_WIDTH + 28 + 48}px`,
+                        }}
+                    >
+                        <Outlet context={{ showCard, setShowCard }} />
+                        <Footer />
+                    </div>
+                </div>
+
+                {/* Movie card */}
+                {showCard && (
+                    <div className="fixed inset-0 z-50 h-[100dvh]">
+                        <MovieCard
+                            showCard={showCard}
+                            setShowCard={setShowCard}
+                        />
+                    </div>
+                )}
+            </div>
+        </div>
+    );
+};
+
+export default MainLayout;
