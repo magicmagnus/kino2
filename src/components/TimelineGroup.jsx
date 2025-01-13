@@ -27,7 +27,7 @@ const TimelineGroup = (props) => {
         <div key={groupElementIdx}>
             {/* sticky header */}
             <div className="sticky left-0 z-[12] flex h-fit w-screen items-center justify-start text-left">
-                <h1 className="mx-0 w-fit text-nowrap rounded-r-full bg-zinc-950 py-1 pl-2 pr-2 text-base font-semibold text-white">
+                <h1 className="mx-0 w-fit text-nowrap rounded-r-full bg-zinc-950 py-1 pl-2 pr-2 text-base font-semibold text-white shadow-[4px_0_4px_-4px_rgba(0,0,0,0.9)]">
                     {/* could be theater name or date name */}
                     {parentGroupType === "theater"
                         ? groupElement.name
@@ -59,6 +59,7 @@ const TimelineGroup = (props) => {
                             key={roomIdx}
                             schedule={room}
                             scheduleIdx={roomIdx}
+                            isFirst={roomIdx === 0}
                             isLast={roomIdx === theater.rooms.length - 1}
                             title={room.name}
                             showCard={showCard}
