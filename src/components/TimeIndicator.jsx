@@ -8,7 +8,7 @@ import {
 } from "../utils/utils";
 
 const TimeIndicator = (props) => {
-    const { date, isTop, isLast } = props;
+    const { date, isTop, isFirst } = props;
 
     const [position, setPosition] = useState(0);
     const [isVisible, setIsVisible] = useState(false);
@@ -34,7 +34,7 @@ const TimeIndicator = (props) => {
                 setIsVisible(true);
                 setPosition(timeToPixels(timeString));
                 if (isTop) {
-                    setPosition(timeToPixels(timeString) + 28);
+                    setPosition(timeToPixels(timeString));
                 }
             } else {
                 setIsVisible(false);
@@ -55,9 +55,9 @@ const TimeIndicator = (props) => {
     return (
         <div
             className={
-                "absolute bottom-0 top-0 z-[10] w-1 bg-rose-600 opacity-100 shadow-2xl" +
-                (isLast ? " h-28" : " h-28") +
-                (isTop ? " h-full" : " ")
+                "absolute bottom-0 z-[11] w-1 bg-rose-600 opacity-100 shadow-2xl" +
+                (isFirst ? " bottom-0 h-36" : isTop ? " h-6" : " h-32") +
+                " "
             }
             style={{
                 left: `${position}px`,

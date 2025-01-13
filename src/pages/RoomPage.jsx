@@ -72,6 +72,7 @@ const RoomPage = () => {
                             key={dateIdx}
                             schedule={date}
                             scheduleIdx={dateIdx}
+                            isFirst={dateIdx === 0}
                             isLast={dateIdx === room.dates.length - 1}
                             title={formatDateString(date.date)}
                             showCard={showCard}

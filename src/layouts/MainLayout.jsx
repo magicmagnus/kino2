@@ -28,7 +28,7 @@ const MainLayout = () => {
     }, [showCard]);
 
     return (
-        <div className="flex min-h-[100dvh] flex-col bg-zinc-900">
+        <div className="flex min-h-[100dvh] flex-col bg-zinc-950">
             <Header />
 
             {/* Main content wrapper */}
@@ -38,8 +38,8 @@ const MainLayout = () => {
                     <div
                         className="relative flex min-h-full flex-col"
                         style={{
-                            width: `${TIMELINE_WIDTH + 28 + 48}px`, // 28px for ml-7 of timeline, 48px for ???-12
-                            minWidth: `${TIMELINE_WIDTH + 28 + 48}px`,
+                            width: `${TIMELINE_WIDTH + 24 + 24}px`, // w-6 = 24px for timeline-title/name, ml-6 = 24px for timeline margin
+                            minWidth: `${TIMELINE_WIDTH + 24 + 24}px`,
                         }}
                     >
                         <Outlet

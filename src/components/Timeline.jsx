@@ -8,6 +8,7 @@ const Timeline = (props) => {
     const {
         schedule,
         scheduleIdx,
+        isFirst,
         isLast,
         title,
         showCard,
@@ -21,15 +22,14 @@ const Timeline = (props) => {
         >
             {/* children are Room name or Date as name - sticky left column  */}
             {/* Room name - sticky left column */}
-            <div className="bg-pink sticky left-0 z-[11] flex h-28 w-8 items-center justify-center text-center">
+            <div className="bg-pink sticky left-0 z-[12] flex h-28 w-6 items-center justify-center text-center">
                 <div
                     className={
-                        "flex h-28 w-8 flex-col items-center justify-center bg-zinc-800 shadow-xl shadow-zinc-950" +
+                        "flex h-28 w-6 flex-col items-center justify-center bg-zinc-800 shadow-[4px_0_4px_-4px_rgba(0,0,0,0.9)]" +
                         (isLast ? "" : " border-b-2 border-zinc-700")
                     }
                 >
                     <p className="-translate-x-0.5 -rotate-90 transform text-nowrap text-xs text-white">
-                        {/* could be "Saal Spielberg" or "2024-12-18" */}
                         {title}
                     </p>
                 </div>
@@ -37,7 +37,7 @@ const Timeline = (props) => {
             {/* Timeline container - now with fixed width */}
             <div
                 className={
-                    "relative ml-7 h-28 bg-zinc-900" +
+                    "relative ml-6 h-28 bg-zinc-900" +
                     (isLast ? "" : " border-b-2 border-zinc-700")
                 }
                 style={{
@@ -58,7 +58,7 @@ const Timeline = (props) => {
                     />
                 ))}
                 {/* Time indicator */}
-                <TimeIndicator date={date} isLast={isLast} />
+                <TimeIndicator date={date} isFirst={isFirst} />
             </div>
         </div>
     );

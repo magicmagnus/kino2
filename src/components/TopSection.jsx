@@ -8,29 +8,33 @@ const TopSection = (props) => {
 
     return (
         <>
-            <div className="sticky top-0 z-20 bg-zinc-900">
-                <div className="sticky left-0 top-0 z-30 flex w-screen items-center justify-start gap-2 overflow-visible bg-zinc-900 px-2 py-2">
-                    {/* {movieData ? (
+            {/* sticky-left (but not top) button container */}
+            <div className="sticky left-0 z-30 flex w-screen flex-col items-center justify-start gap-2 bg-zinc-900 py-2">
+                {/* {movieData ? (
                         <div className="flex w-full">{children}</div>
                     ) : ( */}
-                    <div className="no-scrollbar flex gap-1.5 overflow-auto">
-                        {children}
-                    </div>
-                    {/* )} */}
+                <div className="no-scrollbar flex w-screen gap-1.5 overflow-auto px-2">
+                    {children}
                 </div>
-                {movieData && <MovieInfo movieData={movieData} />}
+                {/* )} */}
+                <div className="flex w-screen justify-center bg-zinc-900">
+                    {movieData && <MovieInfo movieData={movieData} />}
+                </div>
+            </div>
 
+            {/* sticky-top hour markers */}
+            <div className="sticky top-0 z-20 bg-zinc-900">
                 {/* Hour markers top*/}
-                <div className="relative flex bg-zinc-800">
+                <div className="relative flex h-6 bg-zinc-800">
                     {/* pad for the corner where the two stickys meet */}
                     <div className="sticky left-0 z-20 flex w-8 flex-shrink-0 items-center justify-center bg-zinc-800 text-center" />
-                    <div className="relative flex w-full">
+                    <div className="relative ml-4 flex w-full">
                         {HOURS.map((hour) => (
                             <div
                                 key={hour}
-                                className="w-28 flex-shrink-0 px-4 py-1 text-left"
+                                className="w-28 flex-shrink-0 py-1 text-left"
                             >
-                                <p className="w-fit text-xs text-white">
+                                <p className="-ml-2.5 w-fit text-xs text-white">
                                     {hour}
                                 </p>
                             </div>
