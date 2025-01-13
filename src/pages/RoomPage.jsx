@@ -2,13 +2,14 @@ import roomViewData from "../data/room-view.json";
 import TopSection from "../components/TopSection";
 import SelectionButton from "../components/SelectionButton";
 import Timeline from "../components/Timeline";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useOutletContext } from "react-router-dom";
 import { formatDateString, TODAY_FORMATTED } from "../utils/utils";
 import { useScrollToEarliest } from "../hooks/useScrollToEarliest";
 
 const RoomPage = () => {
-    const { showCard, setShowCard } = useOutletContext();
+    const { showCard, setShowCard, firstDate, setFirstDate } =
+        useOutletContext();
 
     const [selectedRoom, setSelectedRoom] = useState("Saal Tarantino");
 
@@ -39,11 +40,18 @@ const RoomPage = () => {
         [],
     );
 
+    // Add useEffect to handle firstDate update
+    useEffect(() => {
+        if (filteredRoomData.length > 0) {
+            setFirstDate(filteredRoomData[0].rooms[0].dates[0].date);
+        }
+    }, [filteredRoomData, setFirstDate]);
+
     useScrollToEarliest([selectedRoom]);
 
     return (
         <>
-            <TopSection>
+            <TopSection date={firstDate}>
                 {/* Room buttons for Room View */}
                 {roomViewData.map((theater, theaterIdx) =>
                     theater.rooms.map((room, roomIdx) => (

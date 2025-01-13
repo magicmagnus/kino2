@@ -8,7 +8,8 @@ import { formatDateString, TODAY_FORMATTED } from "../utils/utils";
 import { useScrollToEarliest } from "../hooks/useScrollToEarliest";
 
 const DatePage = () => {
-    const { showCard, setShowCard } = useOutletContext();
+    const { showCard, setShowCard, firstDate, setFirstDate } =
+        useOutletContext();
 
     // Filter out dates before today
     const upcomingDateData = dateViewData.filter(
@@ -26,7 +27,7 @@ const DatePage = () => {
 
     return (
         <>
-            <TopSection>
+            <TopSection date={selectedDate}>
                 {/* Date buttons for Date View */}
                 {upcomingDateData.slice(0, 7).map((date, dateIndex) => (
                     <SelectionButton

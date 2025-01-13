@@ -7,6 +7,7 @@ import { TIMELINE_WIDTH } from "../utils/utils";
 
 const MainLayout = () => {
     const [showCard, setShowCard] = useState(false);
+    const [firstDate, setFirstDate] = useState(new Date());
 
     // Handle mobile viewport and scrolling
     useEffect(() => {
@@ -41,7 +42,14 @@ const MainLayout = () => {
                             minWidth: `${TIMELINE_WIDTH + 28 + 48}px`,
                         }}
                     >
-                        <Outlet context={{ showCard, setShowCard }} />
+                        <Outlet
+                            context={{
+                                showCard,
+                                setShowCard,
+                                firstDate,
+                                setFirstDate,
+                            }}
+                        />
                         <Footer />
                     </div>
                 </div>

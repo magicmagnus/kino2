@@ -4,19 +4,19 @@ import MovieInfo from "../components/MovieInfo";
 import TimeIndicator from "../components/TimeIndicator";
 
 const TopSection = (props) => {
-    const { children, movieData } = props;
+    const { children, movieData, date } = props;
 
     return (
         <>
             <div className="sticky top-0 z-20 bg-zinc-900">
-                <div className="sticky left-0 top-0 z-30 flex w-screen items-center justify-start gap-2 overflow-visible px-2 py-2">
-                    {movieData ? (
+                <div className="sticky left-0 top-0 z-30 flex w-screen items-center justify-start gap-2 overflow-visible bg-zinc-900 px-2 py-2">
+                    {/* {movieData ? (
                         <div className="flex w-full">{children}</div>
-                    ) : (
-                        <div className="no-scrollbar flex gap-1.5 overflow-auto">
-                            {children}
-                        </div>
-                    )}
+                    ) : ( */}
+                    <div className="no-scrollbar flex gap-1.5 overflow-auto">
+                        {children}
+                    </div>
+                    {/* )} */}
                 </div>
                 {movieData && <MovieInfo movieData={movieData} />}
 
@@ -37,10 +37,7 @@ const TopSection = (props) => {
                         ))}
                         {/* Height adjusted to match header height */}
                         <div className="absolute inset-0 h-full">
-                            <TimeIndicator
-                                date={TODAY_FORMATTED}
-                                isTop={true}
-                            />
+                            <TimeIndicator date={date} isTop={true} />
                         </div>
                     </div>
                 </div>

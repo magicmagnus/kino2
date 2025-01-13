@@ -17,21 +17,6 @@ const MovieCard = (props) => {
         setTimeout(() => setShowCard(null), 200);
     };
 
-    // Add these styles in your CSS or styled-components
-    const imageStyles = {
-        transition: "opacity 0.3s ease-in-out",
-    };
-
-    const placeholderStyles = {
-        backgroundColor: "#2c2c2c", // Dark placeholder
-        width: "100%",
-        height: "100%",
-    };
-
-    // Update the image element
-    const [imageLoaded, setImageLoaded] = useState(false);
-    const [imageError, setImageError] = useState(false);
-
     function openYouTube(videoId) {
         const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
         const appLink = isIOS
@@ -69,7 +54,7 @@ const MovieCard = (props) => {
                         : "-translate-x-1/2 -translate-y-[45%] scale-95 opacity-0"
                 } cursor-default`}
             >
-                {/* Rest of your card content remains the same */}
+                {/* close button */}
                 <button
                     onClick={handleClose}
                     className="absolute right-0 top-0 z-20 m-2 flex h-10 w-10 items-center justify-center rounded-full bg-zinc-900 p-4 text-rose-500 transition-all duration-300 ease-in-out hover:scale-[1.2] hover:bg-zinc-700"
@@ -77,66 +62,33 @@ const MovieCard = (props) => {
                         boxShadow: "0 0 10px 2px rgba(0,0,0,0.5)",
                     }}
                 >
-                    <i class="fa-solid fa-xmark text-2xl"></i>
+                    <i className="fa-solid fa-xmark text-2xl"></i>
                 </button>
-                <div className="relative flex h-full w-full flex-col justify-start overflow-auto rounded-3xl sm:flex-row">
-                    <div className="w-full bg-zinc-800 sm:h-full sm:w-auto">
-                        <div className="relative w-full pb-[150%] sm:aspect-[2/3] sm:h-full sm:w-auto sm:pb-0">
-                            {!imageLoaded && !imageError && (
-                                <div
-                                    className="absolute left-0 top-0 h-full w-full bg-zinc-800"
-                                    style={placeholderStyles}
-                                />
-                            )}
-                            <img
-                                src={showCard.movieInfo.posterUrl.split("?")[0]}
-                                style={{
-                                    ...imageStyles,
-                                    opacity: imageLoaded ? 1 : 0,
-                                    display: imageError ? "none" : "block",
-                                }}
-                                onLoad={() => setImageLoaded(true)}
-                                onError={() => setImageError(true)}
-                                alt={showCard.movieInfo.title}
-                                className="absolute left-0 top-0 h-full w-full object-cover"
-                            />
-                        </div>
-                    </div>
-                    <div className="mb-4 flex flex-1 flex-col justify-start gap-4 p-4 sm:mb-12 sm:overflow-scroll">
-                        <h2 className="text-left text-3xl font-semibold">
-                            {showCard.movieInfo.title}
-                        </h2>
 
-                        <MovieAttributes
-                            duration={showCard.movieInfo.duration.split(" ")[0]}
-                            genre={showCard.movieInfo.genre}
-                            actors={showCard.movieInfo.actors}
-                            attributes={showCard.show.attributes}
-                            director={showCard.movieInfo.director}
-                            releaseDate={showCard.movieInfo.releaseDate}
-                            originalTitle={showCard.movieInfo.originalTitle}
-                            production={showCard.movieInfo.production}
-                            fsk={showCard.movieInfo.fsk}
-                        />
-
-                        <p className="text-left text-sm">
-                            {showCard.movieInfo.description
-                                .split("<br>")
-                                .map((line, index) => (
-                                    <React.Fragment key={index}>
-                                        {line}
-                                        <br />
-                                    </React.Fragment>
-                                ))}
-                        </p>
-                    </div>
+                {/* container poster, title, attributes, descripction button container*/}
+                <MovieAttributes
+                    title={showCard.movieInfo.title}
+                    posterUrl={showCard.movieInfo.posterUrl}
+                    duration={showCard.movieInfo.duration.split(" ")[0]}
+                    genre={showCard.movieInfo.genre}
+                    director={showCard.movieInfo.director}
+                    actors={showCard.movieInfo.actors}
+                    releaseDate={showCard.movieInfo.releaseDate}
+                    originalTitle={showCard.movieInfo.originalTitle}
+                    production={showCard.movieInfo.production}
+                    fsk={showCard.movieInfo.fsk}
+                    attributes={showCard.show.attributes}
+                    description={showCard.movieInfo.description}
+                    isCard={true}
+                >
+                    {/* sticky button container */}
                     <div className="sticky bottom-0 flex h-fit w-full flex-col justify-between gap-2 bg-zinc-800 px-2.5 py-2 shadow-xl shadow-black sm:absolute sm:bottom-0 sm:left-auto sm:right-0 sm:w-fit sm:flex-row sm:gap-2 sm:bg-transparent">
                         <div className="flex h-fit w-full items-center justify-center gap-2 opacity-100">
                             <button
                                 onClick={handleAllShowsClick}
                                 className="flex flex-1 items-center justify-center gap-1 text-nowrap rounded-full bg-rose-950 p-2 px-2 py-2 text-xs font-semibold text-rose-500 hover:opacity-80"
                             >
-                                <i class="fa-solid fa-bars"></i>
+                                <i className="fa-solid fa-bars"></i>
                                 <p className="pl-0">Alle Vorstellungen</p>
                             </button>
 
@@ -146,7 +98,7 @@ const MovieCard = (props) => {
                                     openYouTube(showCard.movieInfo.trailerUrl)
                                 }
                             >
-                                <i class="fa-brands fa-youtube"></i>
+                                <i className="fa-brands fa-youtube"></i>
                                 <p className="pl-0">Trailer</p>
                             </button>
                         </div>
@@ -165,7 +117,7 @@ const MovieCard = (props) => {
                             </a>
                         </button>
                     </div>
-                </div>
+                </MovieAttributes>
             </div>
         </button>
     );

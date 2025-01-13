@@ -4,9 +4,9 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Roboto', 'sans-serif'],
-            }
+                sans: ["Roboto", "sans-serif"],
+            },
         },
     },
-    plugins: [],
+    plugins: [require("@tailwindcss/line-clamp")],
 };

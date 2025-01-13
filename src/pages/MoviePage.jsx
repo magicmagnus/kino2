@@ -2,13 +2,15 @@ import movieViewData from "../data/movie-view.json";
 import TopSection from "../components/TopSection";
 import TimelineGroup from "../components/TimelineGroup";
 import { Listbox } from "@headlessui/react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useOutletContext, useParams, Navigate } from "react-router-dom";
 import { TODAY_FORMATTED } from "../utils/utils";
 import { useScrollToEarliest } from "../hooks/useScrollToEarliest";
+import MovieSelectionButton from "../components/MovieSelectionButton";
 
 const MoviePage = () => {
-    const { showCard, setShowCard } = useOutletContext();
+    const { showCard, setShowCard, firstDate, setFirstDate } =
+        useOutletContext();
 
     const { movieSlug } = useParams(); // Get movieslug from URL
 
@@ -32,13 +34,19 @@ const MoviePage = () => {
         dates: movieData.dates.filter((date) => date.date >= TODAY_FORMATTED),
     };
 
+    useEffect(() => {
+        if (filteredMovieData.dates.length > 0) {
+            setFirstDate(filteredMovieData.dates[0].date);
+        }
+    }, [filteredMovieData.dates, setFirstDate]);
+
     useScrollToEarliest([selectedMovie]);
 
     return (
         <>
-            <TopSection movieData={movieData}>
+            <TopSection date={firstDate} movieData={movieData}>
                 {/* dropdown menu with "seach" btn aside */}
-                <Listbox value={selectedMovie} onChange={setSelectedMovie}>
+                {/* <Listbox value={selectedMovie} onChange={setSelectedMovie}>
                     {({ open }) => (
                         <>
                             <Listbox.Button className="z-20 flex h-fit w-full items-center justify-center rounded-md bg-rose-600 px-2 py-1 text-sm text-white shadow-lg transition-all duration-200 hover:bg-rose-800 sm:w-96">
@@ -66,7 +74,16 @@ const MoviePage = () => {
                             </Listbox.Options>
                         </>
                     )}
-                </Listbox>
+                </Listbox> */}
+                {movieViewData.map((movie, movieIndex) => (
+                    <MovieSelectionButton
+                        key={movieIndex}
+                        onClick={() => setSelectedMovie(movie.slug)}
+                        selected={selectedMovie === movie.slug}
+                        text={movie.title}
+                        img={movie.posterUrl}
+                    />
+                ))}
             </TopSection>
             {/* All Timeline Groups */}
             {filteredMovieData.dates.map((date, dateIdx) => (

@@ -33,8 +33,13 @@ const MovieBlock = (props) => {
                     className="h-full w-auto rounded-l-lg object-cover"
                 />
             </div>
-            <div className="flex flex-grow flex-col justify-between gap-2 overflow-auto px-3 pb-1.5 pt-1 text-left">
-                <h1 className="overflow-scroll text-sm font-semibold">
+            <div className="flex flex-grow flex-col justify-between gap-2 overflow-hidden px-3 pb-1.5 pt-1 text-left">
+                <h1
+                    className={
+                        "text-sm font-semibold" +
+                        (isOmdu ? " line-clamp-2" : " line-clamp-3")
+                    }
+                >
                     {movieInfo.title}
                 </h1>
                 <div className="flex flex-col gap-1">
