@@ -1,500 +1,5 @@
 [
   {
-    "date": "2025-02-19",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:24",
-                "movieId": 19,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12834?mode=widget&layout=movies&design=new&rb=0&showId=12834"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:24",
-                "movieId": 45,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12834?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:21",
-                "movieId": 20,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12844?mode=widget&layout=movies&design=new&rb=0&showId=12844"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:21",
-                "movieId": 46,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12844?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-02-20",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:06",
-                "movieId": 20,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12854?mode=widget&layout=movies&design=new&rb=0&showId=12854"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:06",
-                "movieId": 46,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12854?mode=widget"
-              },
-              {
-                "time": "19:45",
-                "endTime": "21:27",
-                "movieId": 24,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12859?mode=widget&layout=movies&design=new&rb=0&showId=12859"
-              },
-              {
-                "time": "19:45",
-                "endTime": "21:27",
-                "movieId": 47,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12859?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:55",
-                "movieId": 28,
-                "movieTitle": "Baby",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12848?mode=widget&layout=movies&design=new&rb=0&showId=12848"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:55",
-                "movieId": 48,
-                "movieTitle": "Baby",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12848?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-02-21",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:00",
-                "endTime": "17:09",
-                "movieId": 23,
-                "movieTitle": "She Said",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12866?mode=widget&layout=movies&design=new&rb=0&showId=12866"
-              },
-              {
-                "time": "15:00",
-                "endTime": "17:09",
-                "movieId": 49,
-                "movieTitle": "She Said",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12866?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:42",
-                "movieId": 24,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12860?mode=widget&layout=movies&design=new&rb=0&showId=12860"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:42",
-                "movieId": 47,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12860?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:24",
-                "movieId": 19,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12851?mode=widget&layout=movies&design=new&rb=0&showId=12851"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:24",
-                "movieId": 45,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12851?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-02-22",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:45",
-                "endTime": "17:06",
-                "movieId": 20,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12855?mode=widget&layout=movies&design=new&rb=0&showId=12855"
-              },
-              {
-                "time": "15:45",
-                "endTime": "17:06",
-                "movieId": 46,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12855?mode=widget"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:39",
-                "movieId": 19,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12852?mode=widget&layout=movies&design=new&rb=0&showId=12852"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:39",
-                "movieId": 45,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12852?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:12",
-                "movieId": 24,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12861?mode=widget&layout=movies&design=new&rb=0&showId=12861"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:12",
-                "movieId": 47,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12861?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-02-23",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "12:00",
-                "endTime": "13:48",
-                "movieId": 22,
-                "movieTitle": "Hundreds of Beavers",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12853?mode=widget&layout=movies&design=new&rb=0&showId=12853"
-              },
-              {
-                "time": "12:00",
-                "endTime": "13:48",
-                "movieId": 50,
-                "movieTitle": "Hundreds of Beavers",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12853?mode=widget"
-              },
-              {
-                "time": "14:30",
-                "endTime": "15:51",
-                "movieId": 20,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12856?mode=widget&layout=movies&design=new&rb=0&showId=12856"
-              },
-              {
-                "time": "14:30",
-                "endTime": "15:51",
-                "movieId": 46,
-                "movieTitle": "Hundschuldig",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12856?mode=widget"
-              },
-              {
-                "time": "16:30",
-                "endTime": "18:12",
-                "movieId": 24,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12862?mode=widget&layout=movies&design=new&rb=0&showId=12862"
-              },
-              {
-                "time": "16:30",
-                "endTime": "18:12",
-                "movieId": 47,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12862?mode=widget"
-              },
-              {
-                "time": "19:00",
-                "endTime": "20:54",
-                "movieId": 19,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12867?mode=widget&layout=movies&design=new&rb=0&showId=12867"
-              },
-              {
-                "time": "19:00",
-                "endTime": "20:54",
-                "movieId": 45,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12867?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-02-24",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:39",
-                "movieId": 19,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12849?mode=widget&layout=movies&design=new&rb=0&showId=12849"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:39",
-                "movieId": 45,
-                "movieTitle": "Babygirl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12849?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:57",
-                "movieId": 24,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12863?mode=widget&layout=movies&design=new&rb=0&showId=12863"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:57",
-                "movieId": 47,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12863?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-02-25",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:39",
-                "movieId": 21,
-                "movieTitle": "Mutiny in Heaven - Nick Caves frühe Jahre",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12858?mode=widget&layout=movies&design=new&rb=0&showId=12858"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:39",
-                "movieId": 51,
-                "movieTitle": "Mutiny in Heaven - Nick Caves frühe Jahre",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12858?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:57",
-                "movieId": 24,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12864?mode=widget&layout=movies&design=new&rb=0&showId=12864"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:57",
-                "movieId": 47,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12864?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2025-02-26",
     "theaters": [
       {
@@ -506,18 +11,18 @@
               {
                 "time": "18:00",
                 "endTime": "19:21",
-                "movieId": 20,
+                "movieId": 23,
                 "movieTitle": "Hundschuldig",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12857?mode=widget&layout=movies&design=new&rb=0&showId=12857"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "18:00",
                 "endTime": "19:21",
-                "movieId": 46,
+                "movieId": 42,
                 "movieTitle": "Hundschuldig",
                 "attributes": [
                   "2D",
@@ -528,22 +33,495 @@
               {
                 "time": "20:00",
                 "endTime": "21:42",
-                "movieId": 24,
+                "movieId": 21,
                 "movieTitle": "Pfau - Bin ich echt?",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12865?mode=widget&layout=movies&design=new&rb=0&showId=12865"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "20:00",
                 "endTime": "21:42",
-                "movieId": 47,
+                "movieId": 41,
                 "movieTitle": "Pfau - Bin ich echt?",
                 "attributes": [
                   "2D"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12865?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-02-27",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:27",
+                "movieId": 21,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:27",
+                "movieId": 41,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12872?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:02",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:02",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12882?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-02-28",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "16:00",
+                "endTime": "17:42",
+                "movieId": 21,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "16:00",
+                "endTime": "17:42",
+                "movieId": 41,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12873?mode=widget"
+              },
+              {
+                "time": "18:15",
+                "endTime": "20:02",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:15",
+                "endTime": "20:02",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12878?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:24",
+                "movieId": 19,
+                "movieTitle": "Babygirl",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:24",
+                "movieId": 44,
+                "movieTitle": "Babygirl",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12868?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-01",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "14:00",
+                "endTime": "15:42",
+                "movieId": 41,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12874?mode=widget"
+              },
+              {
+                "time": "16:00",
+                "endTime": "17:42",
+                "movieId": 21,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:15",
+                "endTime": "20:03",
+                "movieId": 22,
+                "movieTitle": "Hundreds of Beavers",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:15",
+                "endTime": "20:03",
+                "movieId": 45,
+                "movieTitle": "Hundreds of Beavers",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12869?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:17",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:17",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12879?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-02",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "12:00",
+                "endTime": "13:47",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "12:00",
+                "endTime": "13:47",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12885?mode=widget"
+              },
+              {
+                "time": "14:30",
+                "endTime": "16:18",
+                "movieId": 22,
+                "movieTitle": "Hundreds of Beavers",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "14:30",
+                "endTime": "16:18",
+                "movieId": 45,
+                "movieTitle": "Hundreds of Beavers",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12870?mode=widget"
+              },
+              {
+                "time": "16:45",
+                "endTime": "18:27",
+                "movieId": 21,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "16:45",
+                "endTime": "18:27",
+                "movieId": 41,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12875?mode=widget"
+              },
+              {
+                "time": "19:00",
+                "endTime": "20:47",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "19:00",
+                "endTime": "20:47",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12883?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-03",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:48",
+                "movieId": 22,
+                "movieTitle": "Hundreds of Beavers",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:48",
+                "movieId": 45,
+                "movieTitle": "Hundreds of Beavers",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12871?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:02",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:02",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12880?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-04",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:42",
+                "movieId": 21,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:42",
+                "movieId": 41,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12876?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:02",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:02",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12884?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-05",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:32",
+                "movieId": 20,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:32",
+                "movieId": 43,
+                "movieTitle": "Sing Sing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12881?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:42",
+                "movieId": 21,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:42",
+                "movieId": 41,
+                "movieTitle": "Pfau - Bin ich echt?",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12877?mode=widget"
               }
             ]
           }
@@ -563,12 +541,12 @@
               {
                 "time": "22:00",
                 "endTime": "23:40",
-                "movieId": 36,
+                "movieId": 24,
                 "movieTitle": "Layla",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12775?mode=widget&layout=movies&design=new&rb=0&showId=12775"
+                "iframeUrl": "Unknown iframe URL"
               }
             ]
           }
