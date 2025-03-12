@@ -1,482 +1,5 @@
 [
   {
-    "date": "2025-03-05",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:32",
-                "movieId": 19,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12881?mode=widget&layout=movies&design=new&rb=0&showId=12881"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:32",
-                "movieId": 37,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12881?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:42",
-                "movieId": 20,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12877?mode=widget&layout=movies&design=new&rb=0&showId=12877"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:42",
-                "movieId": 38,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12877?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-03-06",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:15",
-                "endTime": "20:02",
-                "movieId": 19,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12901?mode=widget&layout=movies&design=new&rb=0&showId=12901"
-              },
-              {
-                "time": "18:15",
-                "endTime": "20:02",
-                "movieId": 37,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12901?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:40",
-                "movieId": 7,
-                "movieTitle": "Emilia Pérez",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12892?mode=widget&layout=movies&design=new&rb=0&showId=12892"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:40",
-                "movieId": 39,
-                "movieTitle": "EMILIA PEREZ",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12892?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-03-07",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:15",
-                "endTime": "19:02",
-                "movieId": 19,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12903?mode=widget&layout=movies&design=new&rb=0&showId=12903"
-              },
-              {
-                "time": "17:15",
-                "endTime": "19:02",
-                "movieId": 37,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12903?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:33",
-                "movieId": 10,
-                "movieTitle": "Maria",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12896?mode=widget&layout=movies&design=new&rb=0&showId=12896"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:33",
-                "movieId": 40,
-                "movieTitle": "MARIA",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12896?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:59",
-                "movieId": 8,
-                "movieTitle": "Bird",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12888?mode=widget&layout=movies&design=new&rb=0&showId=12888"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:59",
-                "movieId": 41,
-                "movieTitle": "Bird",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12888?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-03-08",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:45",
-                "endTime": "17:27",
-                "movieId": 20,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12899?mode=widget&layout=movies&design=new&rb=0&showId=12899"
-              },
-              {
-                "time": "15:45",
-                "endTime": "17:27",
-                "movieId": 38,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12899?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:50",
-                "movieId": 23,
-                "movieTitle": "Mein Platz ist hier",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12886?mode=widget&layout=movies&design=new&rb=0&showId=12886"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:50",
-                "movieId": 44,
-                "movieTitle": "Mein Platz ist hier",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12886?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:00",
-                "movieId": 14,
-                "movieTitle": "Der Lehrer, der uns das Meer versprach",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12889?mode=widget&layout=movies&design=new&rb=0&showId=12889"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:00",
-                "movieId": 42,
-                "movieTitle": "Der Lehrer, der uns das Meer versprach",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12889?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:18",
-                "movieId": 21,
-                "movieTitle": "Hundreds of Beavers",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12895?mode=widget&layout=movies&design=new&rb=0&showId=12895"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:18",
-                "movieId": 43,
-                "movieTitle": "Hundreds of Beavers",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12895?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-03-09",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "11:30",
-                "endTime": "13:33",
-                "movieId": 10,
-                "movieTitle": "Maria",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12897?mode=widget&layout=movies&design=new&rb=0&showId=12897"
-              },
-              {
-                "time": "11:30",
-                "endTime": "13:33",
-                "movieId": 40,
-                "movieTitle": "MARIA",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12897?mode=widget"
-              },
-              {
-                "time": "16:30",
-                "endTime": "18:15",
-                "movieId": 14,
-                "movieTitle": "Der Lehrer, der uns das Meer versprach",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12890?mode=widget&layout=movies&design=new&rb=0&showId=12890"
-              },
-              {
-                "time": "16:30",
-                "endTime": "18:15",
-                "movieId": 42,
-                "movieTitle": "Der Lehrer, der uns das Meer versprach",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12890?mode=widget"
-              },
-              {
-                "time": "19:00",
-                "endTime": "21:19",
-                "movieId": 5,
-                "movieTitle": "Anora",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12887?mode=widget&layout=movies&design=new&rb=0&showId=12887"
-              },
-              {
-                "time": "19:00",
-                "endTime": "21:19",
-                "movieId": 45,
-                "movieTitle": "ANORA",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12887?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-03-10",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:47",
-                "movieId": 19,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12902?mode=widget&layout=movies&design=new&rb=0&showId=12902"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:47",
-                "movieId": 37,
-                "movieTitle": "Sing Sing",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12902?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:40",
-                "movieId": 2,
-                "movieTitle": "Flow",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12893?mode=widget&layout=movies&design=new&rb=0&showId=12893"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:40",
-                "movieId": 46,
-                "movieTitle": "Flow",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12893?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-03-11",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:42",
-                "movieId": 20,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12900?mode=widget&layout=movies&design=new&rb=0&showId=12900"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:42",
-                "movieId": 38,
-                "movieTitle": "Pfau - Bin ich echt?",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12900?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:00",
-                "movieId": 14,
-                "movieTitle": "Der Lehrer, der uns das Meer versprach",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12891?mode=widget&layout=movies&design=new&rb=0&showId=12891"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:00",
-                "movieId": 42,
-                "movieTitle": "Der Lehrer, der uns das Meer versprach",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12891?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2025-03-12",
     "theaters": [
       {
@@ -488,7 +11,7 @@
               {
                 "time": "18:00",
                 "endTime": "19:25",
-                "movieId": 2,
+                "movieId": 4,
                 "movieTitle": "Flow",
                 "attributes": [
                   "2D"
@@ -498,7 +21,7 @@
               {
                 "time": "18:00",
                 "endTime": "19:25",
-                "movieId": 46,
+                "movieId": 32,
                 "movieTitle": "Flow",
                 "attributes": [
                   "2D"
@@ -508,7 +31,7 @@
               {
                 "time": "20:00",
                 "endTime": "22:03",
-                "movieId": 10,
+                "movieId": 17,
                 "movieTitle": "Maria",
                 "attributes": [
                   "2D",
@@ -519,7 +42,7 @@
               {
                 "time": "20:00",
                 "endTime": "22:03",
-                "movieId": 40,
+                "movieId": 33,
                 "movieTitle": "MARIA",
                 "attributes": [
                   "2D",
@@ -543,14 +66,460 @@
             "name": "Atelier",
             "showings": [
               {
-                "time": "22:00",
-                "endTime": "23:40",
-                "movieId": 22,
-                "movieTitle": "Layla",
+                "time": "18:00",
+                "endTime": "19:55",
+                "movieId": 1,
+                "movieTitle": "Köln 75",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12775?mode=widget&layout=movies&design=new&rb=0&showId=12775"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12915?mode=widget&layout=movies&design=new&rb=0&showId=12915"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:55",
+                "movieId": 34,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12915?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:47",
+                "movieId": 3,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12911?mode=widget&layout=movies&design=new&rb=0&showId=12911"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:47",
+                "movieId": 35,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12911?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-14",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:25",
+                "movieId": 4,
+                "movieTitle": "Flow",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12910?mode=widget&layout=movies&design=new&rb=0&showId=12910"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:25",
+                "movieId": 32,
+                "movieTitle": "Flow",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12910?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:55",
+                "movieId": 1,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12916?mode=widget&layout=movies&design=new&rb=0&showId=12916"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:55",
+                "movieId": 34,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12916?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-15",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:30",
+                "endTime": "17:15",
+                "movieId": 13,
+                "movieTitle": "Der Lehrer, der uns das Meer versprach",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12905?mode=widget&layout=movies&design=new&rb=0&showId=12905"
+              },
+              {
+                "time": "15:30",
+                "endTime": "17:15",
+                "movieId": 36,
+                "movieTitle": "Der Lehrer, der uns das Meer versprach",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12905?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:55",
+                "movieId": 1,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12917?mode=widget&layout=movies&design=new&rb=0&showId=12917"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:55",
+                "movieId": 34,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12917?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:02",
+                "movieId": 3,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12912?mode=widget&layout=movies&design=new&rb=0&showId=12912"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:02",
+                "movieId": 35,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12912?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-16",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "12:00",
+                "endTime": "13:11",
+                "movieId": 12,
+                "movieTitle": "Ein Tag ohne Frauen",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12908?mode=widget&layout=movies&design=new&rb=0&showId=12908"
+              },
+              {
+                "time": "12:00",
+                "endTime": "13:11",
+                "movieId": 37,
+                "movieTitle": "Ein Tag ohne Frauen",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12908?mode=widget"
+              },
+              {
+                "time": "14:00",
+                "endTime": "15:45",
+                "movieId": 13,
+                "movieTitle": "Der Lehrer, der uns das Meer versprach",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12906?mode=widget&layout=movies&design=new&rb=0&showId=12906"
+              },
+              {
+                "time": "14:00",
+                "endTime": "15:45",
+                "movieId": 36,
+                "movieTitle": "Der Lehrer, der uns das Meer versprach",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12906?mode=widget"
+              },
+              {
+                "time": "16:30",
+                "endTime": "18:25",
+                "movieId": 1,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12918?mode=widget&layout=movies&design=new&rb=0&showId=12918"
+              },
+              {
+                "time": "16:30",
+                "endTime": "18:25",
+                "movieId": 34,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12918?mode=widget"
+              },
+              {
+                "time": "19:00",
+                "endTime": "21:19",
+                "movieId": 7,
+                "movieTitle": "Anora",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12904?mode=widget&layout=movies&design=new&rb=0&showId=12904"
+              },
+              {
+                "time": "19:00",
+                "endTime": "21:19",
+                "movieId": 38,
+                "movieTitle": "ANORA",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12904?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-17",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:55",
+                "movieId": 1,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12919?mode=widget&layout=movies&design=new&rb=0&showId=12919"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:55",
+                "movieId": 34,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12919?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:47",
+                "movieId": 3,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12913?mode=widget&layout=movies&design=new&rb=0&showId=12913"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:47",
+                "movieId": 35,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12913?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-18",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:15",
+                "movieId": 13,
+                "movieTitle": "Der Lehrer, der uns das Meer versprach",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12907?mode=widget&layout=movies&design=new&rb=0&showId=12907"
+              },
+              {
+                "time": "17:30",
+                "endTime": "19:15",
+                "movieId": 36,
+                "movieTitle": "Der Lehrer, der uns das Meer versprach",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12907?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:55",
+                "movieId": 1,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12920?mode=widget&layout=movies&design=new&rb=0&showId=12920"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:55",
+                "movieId": 34,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12920?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-03-19",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "16:30",
+                "endTime": "17:41",
+                "movieId": 12,
+                "movieTitle": "Ein Tag ohne Frauen",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12909?mode=widget&layout=movies&design=new&rb=0&showId=12909"
+              },
+              {
+                "time": "16:30",
+                "endTime": "17:41",
+                "movieId": 37,
+                "movieTitle": "Ein Tag ohne Frauen",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12909?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:32",
+                "movieId": 3,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12914?mode=widget&layout=movies&design=new&rb=0&showId=12914"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:32",
+                "movieId": 35,
+                "movieTitle": "Heldin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12914?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:55",
+                "movieId": 1,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12921?mode=widget&layout=movies&design=new&rb=0&showId=12921"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:55",
+                "movieId": 34,
+                "movieTitle": "Köln 75",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12921?mode=widget"
               }
             ]
           }
