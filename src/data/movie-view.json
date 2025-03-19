@@ -1,6 +1,66 @@
 [
   {
     "id": 0,
+    "title": "Schneewittchen",
+    "slug": "schneewittchen",
+    "duration": "110 min",
+    "fsk": "0",
+    "genre": "Fantasy, Familie",
+    "originalTitle": "Disney´s Snow White",
+    "production": "Vereinigte Staaten",
+    "releaseDate": "20.03.2025",
+    "distributor": "Walt Disney",
+    "director": "Marc Webb",
+    "description": "Eine Live-Action-Adaption, lose basierend auf dem Zeichentrickfilm von 1937, über eine junge Prinzessin, die, während sie von einer eifersüchtigen Königin verfolgt wird, bei sieben magischen Wesen Schutz sucht.<br><br>Eine Live-Action-Musical-Neuinterpretation des klassischen Films von 1937. Das magische Musikabenteuer kehrt zurück zur zeitlosen Geschichte mit den beliebten Charakteren: Pimpel, Chef, Seppl, Brummbär, Happy, Schlafmütze und Hatschi.",
+    "posterUrl": "https://static.kinoheld.de/images/film/schneewittchen-64455.v17423045300086.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "n-2h5V9EN_Y",
+    "actors": [
+      "Gal Gadot",
+      "Andrew Burnap",
+      "Martin Klebba",
+      "Lukus Alexander"
+    ],
+    "attributes": [
+      "Apéro Film",
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": []
+      },
+      {
+        "date": "2025-04-02",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 1,
     "title": "Für immer hier",
     "slug": "fuer-immer-hier",
     "duration": "136 min",
@@ -25,37 +85,88 @@
     ],
     "dates": [
       {
-        "date": "2025-03-13",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      },
-      {
         "date": "2025-03-19",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
         "theaters": []
       }
     ]
   },
   {
-    "id": 1,
+    "id": 2,
+    "title": "Die Akademie",
+    "slug": "die-akademie",
+    "duration": "104 min",
+    "fsk": "16",
+    "genre": "Drama",
+    "originalTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "20.03.2025",
+    "distributor": "Weltkino Filmverleih",
+    "director": "Camilla Guttner",
+    "description": "Als die junge Jojo an einer der renommiertesten Kunstakademien angenommen wird, kann sie ihr Glück kaum fassen. Sie darf nun die Malereiklasse des weltberühmten Prof. Robert Copley besuchen, dessen Arbeit sie bewundert. Vor ihren Augen entfaltet sich nach und nach ein reiches Panorama der Kunst: Studierende, Künstler, Professoren, Galeristen – bunte und exzentrische Charaktere, die alle mit ihrer Arbeit, der Liebe und dem Leben ringen. Doch schon bald entpuppt sich diese so schillernde Welt als gnadenloses Terrain. Jojo versucht alles, um sich in diesem toxischen Umfeld treu zu bleiben.<br><br>Mit ihrem außergewöhnlichen Kinodebüt taucht Regisseurin Camilla Guttner, selbst Meisterschülerin des irischen Malers Sean Scully an der Akademie der Bildenden Künste München, tief in die faszinierende Welt der Kunsthochschulen ein und vermittelt ein authentisches wie schonungsloses Bild dieses einzigartigen Mikrokosmos. Witzig, skurril, humorvoll. Weltpremiere feierte DIE AKADEMIE in der Reihe „Neues Deutsches Kino“ auf dem Filmfest München 2024.",
+    "posterUrl": "https://static.kinoheld.de/images/film/die-akademie-69767.v17379826987600.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "YXWrGnLdt2Q",
+    "actors": [
+      "Maja Bons",
+      "Luise Aschenbrenner",
+      "Jean-Marc Barr",
+      "Andreas Lust"
+    ],
+    "attributes": [
+      "OmeU"
+    ],
+    "dates": [
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 3,
     "title": "Köln 75",
     "slug": "koeln-75",
     "duration": "115 min",
@@ -76,157 +187,9 @@
       "Jördis Triebel"
     ],
     "attributes": [
-      "Apéro Film"
+      "OmeU"
     ],
     "dates": [
-      {
-        "date": "2025-03-12",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:55",
-                    "movieId": 1,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12915?mode=widget&layout=movies&design=new&rb=0&showId=12915"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:00",
-                    "endTime": "21:55",
-                    "movieId": 1,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12916?mode=widget&layout=movies&design=new&rb=0&showId=12916"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:55",
-                    "movieId": 1,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12917?mode=widget&layout=movies&design=new&rb=0&showId=12917"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "16:30",
-                    "endTime": "18:25",
-                    "movieId": 1,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12918?mode=widget&layout=movies&design=new&rb=0&showId=12918"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:55",
-                    "movieId": 1,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12919?mode=widget&layout=movies&design=new&rb=0&showId=12919"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:00",
-                    "endTime": "21:55",
-                    "movieId": 1,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12920?mode=widget&layout=movies&design=new&rb=0&showId=12920"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
       {
         "date": "2025-03-19",
         "theaters": [
@@ -239,7 +202,7 @@
                   {
                     "time": "20:00",
                     "endTime": "21:55",
-                    "movieId": 1,
+                    "movieId": 3,
                     "attributes": [
                       "2D"
                     ],
@@ -250,11 +213,189 @@
             ]
           }
         ]
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:30",
+                    "endTime": "19:25",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12928?mode=widget&layout=movies&design=new&rb=0&showId=12928"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:15",
+                    "endTime": "22:10",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12929?mode=widget&layout=movies&design=new&rb=0&showId=12929"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "15:30",
+                    "endTime": "17:25",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12930?mode=widget&layout=movies&design=new&rb=0&showId=12930"
+                  },
+                  {
+                    "time": "20:15",
+                    "endTime": "22:10",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12931?mode=widget&layout=movies&design=new&rb=0&showId=12931"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:00",
+                    "endTime": "18:55",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12932?mode=widget&layout=movies&design=new&rb=0&showId=12932"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:30",
+                    "endTime": "19:25",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12933?mode=widget&layout=movies&design=new&rb=0&showId=12933"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:15",
+                    "endTime": "22:10",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D",
+                      "OmeU"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12935?mode=widget&layout=movies&design=new&rb=0&showId=12935"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:30",
+                    "endTime": "19:25",
+                    "movieId": 3,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12934?mode=widget&layout=movies&design=new&rb=0&showId=12934"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Like A Complete Unknown",
     "slug": "like-a-complete-unknown",
     "duration": "140 min",
@@ -279,41 +420,41 @@
     ],
     "dates": [
       {
-        "date": "2025-03-12",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      },
-      {
         "date": "2025-03-19",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
         "theaters": []
       }
     ]
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Heldin",
     "slug": "heldin",
     "duration": "92 min",
@@ -338,94 +479,6 @@
     ],
     "dates": [
       {
-        "date": "2025-03-12",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:15",
-                    "endTime": "21:47",
-                    "movieId": 3,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12911?mode=widget&layout=movies&design=new&rb=0&showId=12911"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:30",
-                    "endTime": "22:02",
-                    "movieId": 3,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12912?mode=widget&layout=movies&design=new&rb=0&showId=12912"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:15",
-                    "endTime": "21:47",
-                    "movieId": 3,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12913?mode=widget&layout=movies&design=new&rb=0&showId=12913"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      },
-      {
         "date": "2025-03-19",
         "theaters": [
           {
@@ -437,7 +490,7 @@
                   {
                     "time": "18:00",
                     "endTime": "19:32",
-                    "movieId": 3,
+                    "movieId": 5,
                     "attributes": [
                       "2D"
                     ],
@@ -448,11 +501,71 @@
             ]
           }
         ]
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": []
       }
     ]
   },
   {
-    "id": 4,
+    "id": 6,
+    "title": "Ein Mädchen namens Willow",
+    "slug": "ein-maedchen-namens-willow",
+    "duration": "99 min",
+    "fsk": "0",
+    "genre": "Abenteuer, Fantasy, Familie",
+    "originalTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "27.02.2025",
+    "distributor": "Constantin Film",
+    "director": "Mike Marzuk",
+    "description": "Was soll Willow denn mit einem Wald anfangen? Den hat sie nämlich von ihrer Großtante Alwina geerbt. Und nicht nur den – Alwina hat Willow auch noch ein kleines windschiefes Häuschen hinterlassen und vor allem: ihre Hexenkraft. Doch ob Willow dieses Erbe, mit allem was dazu gehört, wirklich annehmen möchte? Und dann soll sie auch noch drei Mädchen finden, die die Gabe des Hexens ebenfalls in sich tragen und gemeinsam mit ihnen den Wald retten. Nur wo? Und vor allem, wie? Zum Glück ist Willow nicht allein, denn Rufus, der Fuchs, weicht nicht mehr von ihrer Seite.",
+    "posterUrl": "https://static.kinoheld.de/images/film/ein-maedchen-namens-willow-68155.v17399796777047.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "OsvXKJ0RkOo",
+    "actors": [],
+    "attributes": [],
+    "dates": [
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 7,
     "title": "Flow",
     "slug": "flow",
     "duration": "85 min",
@@ -467,86 +580,44 @@
     "posterUrl": "https://static.kinoheld.de/images/film/flow-68217.v17346606068311.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Q5pZxlKyBrk",
     "actors": [],
-    "attributes": [
-      "Oscar-Gewinner"
-    ],
+    "attributes": [],
     "dates": [
       {
-        "date": "2025-03-12",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:25",
-                    "movieId": 4,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12894?mode=widget&layout=movies&design=new&rb=0&showId=12894"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:25",
-                    "movieId": 4,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12910?mode=widget&layout=movies&design=new&rb=0&showId=12910"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      },
-      {
         "date": "2025-03-19",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
         "theaters": []
       }
     ]
   },
   {
-    "id": 5,
+    "id": 8,
     "title": "Mickey 17",
     "slug": "mickey-17",
     "duration": "139 min",
@@ -557,7 +628,7 @@
     "releaseDate": "06.03.2025",
     "distributor": "Warner Bros. Pictures Germany",
     "director": "Bong Joon Ho",
-    "description": "Mickey Barnes (Robert Pattinson), der unvermutete Held der Geschichte, befindet sich in einer außergewöhnlichen Situation, denn sein Arbeitgeber verlangt von ihm die ultimative Hingabe an den Job: Mickey verdient sich seinen Lebensunterhalt, indem er stirbt ...<br><br>Mit „Mickey 17“ präsentiert Bong Joon Ho, der Oscar®-prämierte Autor und Regisseur von „Parasite“, sein nächstes bahnbrechendes Kino-Highlight.",
+    "description": "Nachdem seine Geschäftsidee scheitert, flieht ein naiver Mann vor seinem mafiösen Gläubiger auf eine Weltraummission. Er landet auf dem Raumschiff eines charismatischen Polit-Gurus, der auf einem fremden Planeten eine utopische Gesellschaft gründen will. Dort übernimmt er als „Entbehrlicher“ lebensgefährliche Aufgaben – mit der Garantie, im Todesfall per Bio-Drucker als Klon ersetzt zu werden. Doch ein fataler Fehler bringt das System ins Wanken: Durch einen Irrtum wird er geklont, während er noch lebt. Plötzlich existieren zwei Versionen von ihm – und just in diesem Moment eskaliert der Konflikt mit einer neuentdeckten Alien-Spezies. Die Ordnung an Bord droht zu zerbrechen.<br><br>Mit „Mickey 17“ präsentiert Bong Joon Ho, der Oscar®-prämierte Autor und Regisseur von „Parasite“, sein nächstes bahnbrechendes Kino-Highlight.",
     "posterUrl": "https://static.kinoheld.de/images/film/mickey-17-69677.v17389397656478.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "F9G7an4mf-M",
     "actors": [
@@ -571,77 +642,46 @@
     ],
     "dates": [
       {
-        "date": "2025-03-12",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      },
-      {
         "date": "2025-03-19",
         "theaters": []
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Der Brutalist",
-    "slug": "der-brutalist",
-    "duration": "215 min",
-    "fsk": "16",
-    "genre": "Drama",
-    "originalTitle": "The Brutalist",
-    "production": "Kanada, Vereinigtes Königreich, Vereinigte Staaten",
-    "releaseDate": "30.01.2025",
-    "distributor": "Universal Pictures International",
-    "director": "Brady Corbet",
-    "description": "Visionäre Ideen, ein radikaler Neuanfang und die Frage nach dem wahren Preis des Erfolgs: Die Geschichte des jüdisch-ungarischen Architekten László Toth, der nach den Schrecken des Zweiten Weltkriegs alles riskiert, um sein Leben in den USA neu aufzubauen. Auf dem Fundament vom Schmerz und Verlust findet Toth in der kalten und wuchtigen Kraft des Brutalismus den künstlerischen Ausdruck für seine zerrissene Seele. Dabei ist seine Architektur so kompromisslos wie er selbst, getrieben vom unbändigen Willen, die Welt zu prägen – selbst wenn sich sein bedeutendstes Werk als sein größter Fluch erweisen könnte.",
-    "posterUrl": "https://static.kinoheld.de/images/film/der-brutalist-68171.v17391847887037.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "N_ScT62x0iU",
-    "actors": [
-      "Adrien Brody",
-      "Felicity Jones",
-      "Guy Pearce",
-      "Joe Alwyn"
-    ],
-    "attributes": [
-      "OmdU"
-    ],
-    "dates": [
+      },
       {
-        "date": "2025-03-14",
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
         "theaters": []
       }
     ]
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "Anora",
     "slug": "anora",
     "duration": "139 min",
     "fsk": "16",
-    "genre": "Drama, Komödie, Lovestory",
+    "genre": "Komödie",
     "originalTitle": "Anora",
     "production": "Vereinigte Staaten",
     "releaseDate": "31.10.2024",
@@ -662,7 +702,7 @@
     ],
     "dates": [
       {
-        "date": "2025-03-16",
+        "date": "2025-03-23",
         "theaters": [
           {
             "name": "Kino Atelier",
@@ -671,106 +711,78 @@
                 "name": "Atelier",
                 "showings": [
                   {
-                    "time": "19:00",
-                    "endTime": "21:19",
-                    "movieId": 7,
+                    "time": "19:30",
+                    "endTime": "21:49",
+                    "movieId": 9,
                     "attributes": [
                       "2D",
                       "OmdU"
                     ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12904?mode=widget&layout=movies&design=new&rb=0&showId=12904"
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12927?mode=widget&layout=movies&design=new&rb=0&showId=12927"
                   }
                 ]
               }
             ]
           }
         ]
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Ein Mädchen namens Willow",
-    "slug": "ein-maedchen-namens-willow",
-    "duration": "99 min",
-    "fsk": "0",
-    "genre": "Abenteuer, Fantasy, Familie",
-    "originalTitle": "Unknown Original Title",
-    "production": "Deutschland",
-    "releaseDate": "27.02.2025",
-    "distributor": "Constantin Film",
-    "director": "Mike Marzuk",
-    "description": "Was soll Willow denn mit einem Wald anfangen? Den hat sie nämlich von ihrer Großtante Alwina geerbt. Und nicht nur den – Alwina hat Willow auch noch ein kleines windschiefes Häuschen hinterlassen und vor allem: ihre Hexenkraft. Doch ob Willow dieses Erbe, mit allem was dazu gehört, wirklich annehmen möchte? Und dann soll sie auch noch drei Mädchen finden, die die Gabe des Hexens ebenfalls in sich tragen und gemeinsam mit ihnen den Wald retten. Nur wo? Und vor allem, wie? Zum Glück ist Willow nicht allein, denn Rufus, der Fuchs, weicht nicht mehr von ihrer Seite.",
-    "posterUrl": "https://static.kinoheld.de/images/film/ein-maedchen-namens-willow-68155.v17399796777047.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "OsvXKJ0RkOo",
-    "actors": [],
-    "attributes": [],
-    "dates": [
-      {
-        "date": "2025-03-12",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Paddington in Peru",
-    "slug": "paddington-in-peru",
-    "duration": "103 min",
-    "fsk": "0",
-    "genre": "Komödie, Abenteuer, Familie",
-    "originalTitle": "Unknown Original Title",
-    "production": "Kanada, Frankreich, Vereinigtes Königreich, Vereinigte Staaten",
-    "releaseDate": "30.01.2025",
-    "distributor": "StudioCanal Deutschland",
-    "director": "Dougal Wilson",
-    "description": "Gemeinsam mit Familie Brown reist Paddington nach Peru, um seine geliebte Tante Lucy im Heim für Bären im Ruhestand zu besuchen. Doch Tante Lucy ist plötzlich verschwunden und für Paddington und die Browns beginnt eine atemberaubende Reise vom Dschungel des Amazonas bis hoch zu den Berggipfeln Perus.<br><br>Paddington ist endlich wieder da! Nach seinen ersten beiden erfolgreichen Leinwandabenteuern führt PADDINGTON IN PERU den tollpatschigen Bären jetzt in seine Heimat nach Südamerika zurück. Basierend auf dem Drehbuch von Mark Burton, Jon Foster und James Lamont inszeniert Dougal Wilson ein hinreißendes Familienabenteuer, in dem Paddington einmal mehr zeigen muss, dass mit britischem Understatement und einem leckeren Orangenmarmeladebrot unterm Hut kein Wald zu tief und kein Berg zu hoch ist, wenn man seine Familie beschützen will.",
-    "posterUrl": "https://static.kinoheld.de/images/film/paddington-in-peru-64449.v17258744904767.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "3vd0EzqqmmY",
-    "actors": [
-      "Antonio Banderas",
-      "Olivia Colman",
-      "Hugh Bonneville",
-      "Emily Mortimer"
-    ],
-    "attributes": [],
-    "dates": [
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
       }
     ]
   },
   {
     "id": 10,
+    "title": "Das Licht",
+    "slug": "das-licht",
+    "duration": "162 min",
+    "fsk": "12",
+    "genre": "Drama",
+    "originalTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "20.03.2025",
+    "distributor": "X Verleih",
+    "director": "Tom Tykwer",
+    "description": "Eine typisch deutsche Familie in einer Welt, die ins Wanken geraten ist: Tim (Lars Eidinger), Milena (Nicolette Krebitz), die gemeinsamen Zwillinge Frieda (Elke Biesendorfer) und Jon (Julius Gause) sowie Milenas Sohn Dio (Elyas Eldridge) – das sind die Engels. Eine Familie, die mehr nebeneinander als miteinander lebt und die nichts mehr zusammenhält, als die Haushälterin Farrah (Tala Al-Deen) in ihr Leben tritt. Die geheimnisvolle Frau aus Syrien stellt die Welt der Engels auf eine unerwartete Probe und bringt Gefühle ans Licht, die lange verborgen waren. Dabei verfolgt sie einen ganz eigenen Plan, der das Leben der Familie Engels für immer verändern wird.<br><br>Nach sieben Jahren und vier Staffeln mit der TV-Serie „Babylon Berlin“ hat Autor und Regisseur Tom Tykwer mit DAS LICHT wieder einen Film für die große Leinwand gedreht. Mit DAS LICHT kehrt Tykwer zurück in die Gegenwart und zu Figuren, die ihm persönlich sehr nahe sind. Er zeichnet das Portrait einer Familie und behandelt dabei die großen Themen unserer Zeit in einer Welt, die taumelt. Im Chaos der zerbrechenden bürgerlichen Ordnung erkundet Tykwer das Bedürfnis der Menschen nach Halt und Zugehörigkeit. DAS LICHT ist ein nachdenklicher Film, der berührt, aufwühlt, fasziniert. Ein Dokument unserer heutigen Zeit, das zum Dialog auffordert.",
+    "posterUrl": "https://static.kinoheld.de/images/film/yeelen-58473.v17377262006391.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "g3ruwO46siA",
+    "actors": [
+      "Lars Eidinger",
+      "Nicolette Krebitz",
+      "Tala Al Deen",
+      "Julius Gause"
+    ],
+    "attributes": [],
+    "dates": [
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 11,
     "title": "Bridget Jones - Verrückt nach ihm",
     "slug": "bridget-jones-verrueckt-nach-ihm",
     "duration": "125 min",
@@ -795,41 +807,13 @@
     ],
     "dates": [
       {
-        "date": "2025-03-12",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      },
-      {
         "date": "2025-03-19",
         "theaters": []
       }
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Wunderschöner",
     "slug": "wunderschoener",
     "duration": "136 min",
@@ -852,41 +836,41 @@
     "attributes": [],
     "dates": [
       {
-        "date": "2025-03-12",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-13",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": []
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": []
-      },
-      {
         "date": "2025-03-19",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
         "theaters": []
       }
     ]
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Ein Tag ohne Frauen",
     "slug": "ein-tag-ohne-frauen",
     "duration": "71 min",
@@ -908,31 +892,6 @@
     ],
     "dates": [
       {
-        "date": "2025-03-16",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "12:00",
-                    "endTime": "13:11",
-                    "movieId": 12,
-                    "attributes": [
-                      "2D",
-                      "OmdU"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12908?mode=widget&layout=movies&design=new&rb=0&showId=12908"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "date": "2025-03-19",
         "theaters": [
           {
@@ -944,7 +903,7 @@
                   {
                     "time": "16:30",
                     "endTime": "17:41",
-                    "movieId": 12,
+                    "movieId": 13,
                     "attributes": [
                       "2D",
                       "OmdU"
@@ -960,134 +919,7 @@
     ]
   },
   {
-    "id": 13,
-    "title": "Der Lehrer, der uns das Meer versprach",
-    "slug": "der-lehrer-der-uns-das-meer-versprach",
-    "duration": "105 min",
-    "fsk": "12",
-    "genre": "Drama, Historie",
-    "originalTitle": "El maestro que prometió el mar",
-    "production": "Spanien",
-    "releaseDate": "06.02.2025",
-    "distributor": "24 Bilder",
-    "director": "Patricia Font",
-    "description": "Spanien 1935: Der junge Lehrer Antoni Benaiges (Enric Auquer) übernimmt kurz vor Ausbruch des spanischen Bürgerkriegs die Grundschule eines kleinen, abgelegenen Dorfes in der Provinz Burgos. Dank seiner fortschrittlichen, antiautoritären Unterrichtsmethoden baut er schnell eine vertrauensvolle Beziehung zu seiner Klasse auf. Doch der freundschaftliche Umgang mit den Kindern wird von Eltern und Dorfvorstehern argwöhnisch beobachtet. Und dann gibt Benaiges seinen Schülern ein Versprechen: In den Sommerferien will er ihnen das Meer zeigen, das die Kinder noch nie gesehen haben. Bei den Eltern der Kinder stößt diese Idee auf große Skepsis... 75 Jahre später, im Jahr 2010, recherchiert Ariadna (Laia Costa), die Enkelin eines seiner damaligen Schüler, die bewegende Geschichte von Antoni Benaiges und entdeckt dabei, mit welch großen Widerständen dieser charismatische Mann zu kämpfen hatte.<br><br>DER LEHRER, DER UNS DAS MEER VERSPRACH ist ein Appell an die Menschlichkeit und ein Kinoerlebnis, dessen Botschaft in der heutigen Zeit aktueller und wichtiger ist denn je.",
-    "posterUrl": "https://static.kinoheld.de/images/film/der-lehrer-der-uns-das-meer-versprach-67211.v17385796146092.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "FAHuvGQ8eyg",
-    "actors": [
-      "Nicolás Calvo",
-      "Alba Hermoso",
-      "Gema Sala",
-      "Enric Auquer"
-    ],
-    "attributes": [],
-    "dates": [
-      {
-        "date": "2025-03-15",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "15:30",
-                    "endTime": "17:15",
-                    "movieId": 13,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12905?mode=widget&layout=movies&design=new&rb=0&showId=12905"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "14:00",
-                    "endTime": "15:45",
-                    "movieId": 13,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12906?mode=widget&layout=movies&design=new&rb=0&showId=12906"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "17:30",
-                    "endTime": "19:15",
-                    "movieId": 13,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12907?mode=widget&layout=movies&design=new&rb=0&showId=12907"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 14,
-    "title": "Beau Is Afraid",
-    "slug": "beau-is-afraid",
-    "duration": "179 min",
-    "fsk": "12",
-    "genre": "Komödie, Abenteuer, Fantasy",
-    "originalTitle": "Unknown Original Title",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "11.05.2023",
-    "distributor": "LEONINE Studios",
-    "director": "Ari Aster",
-    "description": "Beau will einfach nur seine Mutter besuchen. Seine Mutter, die ihn als größtes Geschenk ihres Lebens ansieht. Aber auf dem Weg lauern unendlich viele Gefahren. Dunkle Wälder. Menschen mit Waffen. Leute, die ihm Böses wollen, während sie freundlich lächeln. Andere Realitäten tun sich auf, die weit von Beaus eigener entfernt sind. Und Jahre, Jahrzehnte und Jahrhunderte vergehen. Aber eines bleibt gleich: Beau hat Angst.<br><br>Beau geht es nicht gut - seine Paranoia macht ihm das Leben schwer und die Medikamente, die ihm sein Therapeut verschreibt sind auch keine Lösung. Als Beau aufbricht, um seine Mutter zu besuchen, beginnt eine epische Odyssee, auf der er mit seiner Vergangenheit, Gegenwart und Zukunft konfrontiert wird. Am Ende muss Beau erkennen, dass er seine dunkelsten Abgründe überwinden muss, um seine Träume zu erfüllen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/beau-is-afraid-44113.v17381693833937.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "OPT3V4DRne8",
-    "actors": [
-      "Joaquin Phoenix",
-      "Nathan Lane",
-      "Amy Ryan"
-    ],
-    "attributes": [
-      "Film & Psychoanalyse"
-    ],
-    "dates": [
-      {
-        "date": "2025-03-12",
-        "theaters": []
-      }
-    ]
-  },
-  {
-    "id": 15,
     "title": "The Last Showgirl",
     "slug": "the-last-showgirl",
     "duration": "89 min",
@@ -1108,17 +940,46 @@
       "Brenda Song"
     ],
     "attributes": [
-      "Apéro Film"
+      "Apéro Film",
+      "OmdU"
     ],
     "dates": [
       {
         "date": "2025-03-19",
         "theaters": []
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": []
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": []
       }
     ]
   },
   {
-    "id": 16,
+    "id": 15,
     "title": "Niki de Saint Phalle",
     "slug": "niki-de-saint-phalle",
     "duration": "98 min",
@@ -1139,42 +1000,108 @@
       "Quentin Dolmaire"
     ],
     "attributes": [
-      "Apéro Film"
-    ],
-    "dates": [
-      {
-        "date": "2025-03-26",
-        "theaters": []
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Maria",
-    "slug": "maria",
-    "duration": "123 min",
-    "fsk": "6",
-    "genre": "Drama",
-    "originalTitle": "Maria",
-    "production": "Deutschland, Chile, Italien, Vereinigte Staaten",
-    "releaseDate": "06.02.2025",
-    "distributor": "StudioCanal Deutschland",
-    "director": "Pablo Larraín",
-    "description": "Paris, September 1977: Maria Callas (Angelina Jolie) hat sich seit Jahren aus der Öffentlichkeit zurückgezogen. Die legendäre Operndiva singt nicht mehr und lebt entrückt in ihrer riesigen Wohnung, hinter schweren Vorhängen, in einer Welt voller Erinnerungen. Nur ihr treuer Kammerdiener Ferruccio (Pierfrancesco Favino) und die Köchin Bruna (Alba Rohrwacher) stehen ihr nah, und beide machen sich zunehmend Sorgen um die Gesundheit ihrer Hausherrin. Als der TV-Reporter Mandrax (Kodi Smit-McPhee) auftaucht, blüht Maria Callas auf. Die Interviews mit dem jungen Mann führen Maria zurück in bessere, in große, in legendäre Zeiten. Sie beschließt, noch ein letztes Mal auf die Bühne zurückzukehren.<br><br>MARIA ist nach „Jackie“ und „Spencer“ der Abschluss von Larraíns Trilogie über faszinierende Frauen des 20. Jahrhunderts.",
-    "posterUrl": "https://static.kinoheld.de/images/film/maria-67151.v17358098258413.png?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "ptmebUGNoN4",
-    "actors": [
-      "Angelina Jolie",
-      "Kodi Smit-McPhee",
-      "Haluk Bilginer",
-      "Pierfrancesco Favino"
-    ],
-    "attributes": [
+      "Apéro Film",
       "OmdU"
     ],
     "dates": [
       {
-        "date": "2025-03-12",
+        "date": "2025-03-20",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "19:45",
+                    "endTime": "21:23",
+                    "movieId": 15,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12936?mode=widget&layout=movies&design=new&rb=0&showId=12936"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "18:00",
+                    "endTime": "19:38",
+                    "movieId": 15,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12937?mode=widget&layout=movies&design=new&rb=0&showId=12937"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "18:00",
+                    "endTime": "19:38",
+                    "movieId": 15,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12938?mode=widget&layout=movies&design=new&rb=0&showId=12938"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "15:00",
+                    "endTime": "16:38",
+                    "movieId": 15,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12939?mode=widget&layout=movies&design=new&rb=0&showId=12939"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-24",
         "theaters": [
           {
             "name": "Kino Atelier",
@@ -1184,13 +1111,61 @@
                 "showings": [
                   {
                     "time": "20:00",
-                    "endTime": "22:03",
-                    "movieId": 17,
+                    "endTime": "21:38",
+                    "movieId": 15,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12940?mode=widget&layout=movies&design=new&rb=0&showId=12940"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "18:00",
+                    "endTime": "19:38",
+                    "movieId": 15,
                     "attributes": [
                       "2D",
                       "OmdU"
                     ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12898?mode=widget&layout=movies&design=new&rb=0&showId=12898"
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12942?mode=widget&layout=movies&design=new&rb=0&showId=12942"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:00",
+                    "endTime": "21:38",
+                    "movieId": 15,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12941?mode=widget&layout=movies&design=new&rb=0&showId=12941"
                   }
                 ]
               }
@@ -1201,39 +1176,7 @@
     ]
   },
   {
-    "id": 18,
-    "title": "Joan Baez: I Am a Noise",
-    "slug": "joan-baez-i-am-a-noise",
-    "duration": "113 min",
-    "fsk": "12",
-    "genre": "Dokumentarfilm, Musik",
-    "originalTitle": "Unknown Original Title",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "28.12.2023",
-    "distributor": "Die Filmagentinnen",
-    "director": "Karen O'Connor, Miri Navasky, Maeve O'Boyle",
-    "description": "Seit mehr als 60 Jahren ist Joan Baez eine der bekanntesten Stimmen der populären Kultur, hat mit ihren Liedern, aber auch ihrer aufrechten, kämpferischen Haltung Generationen von maßgeblichen Künstlern sowie Menschen auf der ganzen Welt beeinflusst. Nun blickt die wichtigste amerikanische Folksängerin zurück auf ihre Karriere und ihr Leben: von ihren lebenslangen emotionalen Problemen, über ihr Engagement in der Bürgerrechtsbewegung mit Martin Luther King, bis hin zu der schmerzlichen Beziehung mit dem jungen Bob Dylan. In offenen, ungeschminkt ehrlichen Gesprächen, die ungeahnte persönliche Kämpfe und innere Dämonen zu Tage fördern, gewährt sie einen tiefen Blick in ihre Seele. Das Ergebnis ist ein filmisches Dokument von mitreißender Power, das einer außergewöhnlichen Frau ein würdiges Denkmal setzt.<br><br>JOAN BAEZ I Am A Noise ist weder konventionelles Biopic noch traditioneller Konzertfilm. Mehrere Jahre folgten die Regisseurinnen Karen O’Connor, Miri Navasky und Maeve O’Boyle der ikonischen Künstlerin.  Im Laufe des Films zieht Baez schonungslos Bilanz und enthüllt auf bemerkenswert intime Weise ihr Leben auf und abseits der Bühne. So entstand eine immersive Dokumentation, die fließend durch die Zeit gleitet, die legendäre Musikerin auf ihrer letzten Tour begleitet und auf bis heute nie gesehene Archivaufnahmen zurückgreift: Aus Home-Movies, Tagebucheinträgen, Kunst, Therapie-Bändern und anderen Audio-Aufnahmen formt sich das Bild einer einzigartigen Frau, die nur mit einer Gitarre bewaffnet und ihrer unverwechselbaren, glasklaren Stimme, Musik- und Weltgeschichte geschrieben hat.",
-    "posterUrl": "https://static.kinoheld.de/images/film/joan-baez-i-am-a-noise-503231693467316169346731716975377721697653536169767345316976734671697673470169767347516976734831697759635169784641316979329731698018450169805643916980564471698191993169827806616.v17041554941116.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "L2k9zfZ_lqg",
-    "actors": [
-      "Joan Baez",
-      "Mimi Fariña",
-      "Bob Dylan",
-      "David Harris"
-    ],
-    "attributes": [
-      "Rewind",
-      "OmdU"
-    ],
-    "dates": [
-      {
-        "date": "2025-03-13",
-        "theaters": []
-      }
-    ]
-  },
-  {
-    "id": 19,
+    "id": 16,
     "title": "The Room Next Door",
     "slug": "the-room-next-door",
     "duration": "110 min",
@@ -1254,7 +1197,8 @@
       "Alvise Rigo"
     ],
     "attributes": [
-      "Rewind"
+      "Rewind",
+      "OmdU"
     ],
     "dates": [
       {
@@ -1264,35 +1208,102 @@
     ]
   },
   {
-    "id": 20,
-    "title": "The Guide",
-    "slug": "the-guide",
-    "duration": "0",
-    "fsk": "Unknown",
-    "genre": "Unknown Genre",
-    "originalTitle": "The Guide",
-    "production": "Unknown Production",
-    "releaseDate": "Unknown Release Date",
-    "distributor": "Unknown Distributor",
-    "director": "Diana Galimzyanova",
-    "description": "",
-    "posterUrl": "https://static.kinoheld.de/images/film/beau-is-afraid-44113.v17381693833937.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "id": 17,
+    "title": "The Outrun",
+    "slug": "the-outrun",
+    "duration": "118 min",
+    "fsk": "12",
+    "genre": "Drama",
+    "originalTitle": "Unknown Original Title",
+    "production": "Deutschland, Vereinigtes Königreich",
+    "releaseDate": "05.12.2024",
+    "distributor": "Studiocanal GmbH",
+    "director": "Nora Fingscheidt",
+    "description": "Nach mehr als einem Jahrzehnt kehrt Rona (Saoirse Ronan) in ihre Heimat auf den entlegenen Orkney-Inseln zurück. Während sie die einzigartige Landschaft, in der sie aufgewachsen ist, wiederentdeckt, vermischen sich ihre Kindheitserinnerungen mit der letzten, von Sucht geprägten Zeit. Ihr damaliger Aufbruch in die Stadt und die folgenden ausschweifenden Jahre in London endeten in einem schmerzhaften Absturz. Doch nach und nach wird die Begegnung mit der rauen Natur der Inseln zu einer Chance auf ein neues Leben.<br><br>Amy Liptrots Buch stand wochenlang auf den britischen Bestsellerlisten und wurde 2016 mit dem Wainright Prize und 2017 mit dem PEN Ackerley Prize ausgezeichnet. Es wurde allein in Großbritannien über 110.000-mal verkauft und später in fünfzehn Sprachen übersetzt. In Deutschland ist „Nachtlichter“ 2017 im btb Verlag erschienen. Der Verlag Canongate nahm „Nachtlichter“ in die Liste der modernen Klassiker „The Canons“ auf.",
+    "posterUrl": "https://static.kinoheld.de/images/film/the-outrun-65207.v17291791486872.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "d3PdpKhbgHE",
     "actors": [
-      "Albane Sophia Chateau",
-      "Rashid Aitouganov"
+      "Saoirse Ronan",
+      "Paapa Essiedu",
+      "Nabil Elouahabi",
+      "Izuka Hoyle"
     ],
     "attributes": [
-      "Ukrainian cinema"
+      "Rewind",
+      "OmdU"
     ],
     "dates": [
       {
-        "date": "2025-03-16",
+        "date": "2025-03-27",
         "theaters": []
       }
     ]
   },
   {
-    "id": 21,
+    "id": 18,
+    "title": "Nosferatu - Der Untote",
+    "slug": "nosferatu-der-untote",
+    "duration": "134 min",
+    "fsk": "16",
+    "genre": "Horror",
+    "originalTitle": "Nosferatu",
+    "production": "Vereinigte Staaten",
+    "releaseDate": "02.01.2025",
+    "distributor": "Universal Pictures",
+    "director": "Robert Eggers",
+    "description": "Der junge Thomas Hutter wird von seinem Arbeitgeber zum Schloss des Grafen Orlok geschickt. Während seines Aufenthalts dort beginnt er zu vermuten, dass Orlok ein Vampir sein könnte. Bevor er fliehen kann, sieht Graf Orlok ein Foto von Hutters Frau Ellen und bemerkt ihre Schönheit, insbesondere die Schönheit ihres Halsausschnitts. Darauf entwickelt er eine Obsession mit Ellen und beginnt, sie zu verfolgen.",
+    "posterUrl": "https://static.kinoheld.de/images/film/nosferatu-der-untote-58511.v17339261580247.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "ZvR4_3Y9_OY",
+    "actors": [
+      "Nicholas Hoult",
+      "Bill Skarsgård",
+      "Willem Dafoe",
+      "Aaron Taylor-Johnson"
+    ],
+    "attributes": [
+      "Rewind"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-03",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Perfect Days",
+    "slug": "perfect-days",
+    "duration": "123 min",
+    "fsk": "0",
+    "genre": "Drama",
+    "originalTitle": "Unknown Original Title",
+    "production": "Deutschland, Japan",
+    "releaseDate": "21.12.2023",
+    "distributor": "DCM",
+    "director": "Wim Wenders",
+    "description": "Hirayama arbeitet als Reinigungskraft für öffentliche Toiletten in Tokio. Er führt ein einfaches und zurückgezogenes Leben, das ihn scheinbar vollkommen zufriedenstellt. Abseits seines äußerst strukturierten Alltags widmet er sich leidenschaftlich seiner Musik, die er von Audiokassetten genießt, und seiner Liebe zur Literatur, die er abends in gebrauchten Taschenbüchern vertieft. Doch durch unerwartete Begegnungen kommen nach und nach Details seiner Vergangenheit ans Licht, die er längst zu vergessen geglaubt hatte.",
+    "posterUrl": "https://static.kinoheld.de/images/film/perfect-days-51275170169437917016943791701694380170169690817016982601701698997.v5.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "z-E2Z2l_BEA",
+    "actors": [
+      "Arisa Nakano",
+      "Kôji Yakusho",
+      "Tomokazu Miura",
+      "Sayuri Ishikawa"
+    ],
+    "attributes": [
+      "Rewind",
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-10",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 20,
     "title": "I Work at the Cemetery",
     "slug": "i-work-at-the-cemetery",
     "duration": "100 min",
@@ -1317,34 +1328,85 @@
     ]
   },
   {
-    "id": 22,
-    "title": "Die glorreichen Sieben",
-    "slug": "die-glorreichen-sieben",
-    "duration": "133 min",
-    "fsk": "16",
-    "genre": "Abenteuer, Action, Western",
-    "originalTitle": "The Magnificent Seven",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "22.09.2016",
-    "distributor": "Sony Pictures Releasing GmbH",
-    "director": "Antoine Fuqua",
-    "description": "Der Geschäftsmann Bartholomew Bogue bestimmt mit eiserner Faust die Geschicke der Stadt Rose Creek und ihrer Bewohner. Als diese nicht mehr bereit sind, den jahrelang auf sie ausgeübten Terror und die ständige Furcht vor Repressalien länger zu ertragen, heuern sie eine Söldnertruppe an, die sie beschützen soll. Der bunt zusammengewürfelten Gruppe von Outlaws wird allerdings bald klar, dass die Situation sich zuspitzt und sie bereiten sich und die Stadt auf den baldigen Ausbruch blutiger Gewalt vor, der in der Luft liegt... (v.f.)",
-    "posterUrl": "https://static.kinoheld.de/images/film/4/die-glorreichen-sieben-3233.v17264592904969.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "rCjOTm5ndFM",
+    "id": 21,
+    "title": "Das Kind (L'enfant)",
+    "slug": "das-kind-lenfant",
+    "duration": "95 min",
+    "fsk": "12",
+    "genre": "Dokumentation",
+    "originalTitle": "L'enfant",
+    "production": "Unknown Production",
+    "releaseDate": "17.05.2005",
+    "distributor": "Unknown Distributor",
+    "director": "Jean-Pierre Dardenne, Luc Dardenne",
+    "description": "Irma und ihr Sohn Andre unternehmen eine Reise quer durch Europa, sie wollen fast vergessene Erinnerungen von vergangenen Ereignissen wieder aufleben lassen...",
+    "posterUrl": "https://static.kinoheld.de/images/film/das-kind-l-enfant-72217.v17422901764593.png?w=352&h=528&fm=webp&q=90&fit=crop",
     "actors": [
-      "Denzel Washington",
-      "Chris Pratt",
-      "Ethan Hawke",
-      "Vincent d'Onofrio"
+      "Jérémie Renier",
+      "Déborah François",
+      "Jérémie Segard",
+      "Fabrizio Rongione"
     ],
     "attributes": [
-      "Mein Lieblingsfilm",
+      "Ciné Mon Amour",
       "OmdU"
     ],
     "dates": [
       {
-        "date": "2025-03-16",
+        "date": "2025-03-24",
         "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Stelios",
+    "slug": "stelios",
+    "duration": "132 min",
+    "fsk": "12",
+    "genre": "Drama, Musik, Historie",
+    "originalTitle": "Υπάρχω",
+    "production": "Griechenland",
+    "releaseDate": "03.04.2025",
+    "distributor": "Unknown Distributor",
+    "director": "Giorgos Tsemperopoulos",
+    "description": "Der Film erzählt die bewegende Geschichte eines Kindes aus einer pontischen Flüchtlingsfamilie, das sich trotz aller Schwierigkeiten behauptete und dank seines immensen Talents und seiner Widerstandsfähigkeit überlebte und zu Erfolg kam.",
+    "posterUrl": "https://static.kinoheld.de/images/film/stelios-71389.v17413527439112.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "k9BoQ_GBaNY",
+    "actors": [
+      "Christos Mastoras",
+      "Menia Voulioti",
+      "Agoritsa Oikonomou",
+      "Klelia Renesi"
+    ],
+    "attributes": [
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-03",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:00",
+                    "endTime": "22:12",
+                    "movieId": 22,
+                    "attributes": [
+                      "2D",
+                      "OmdU"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12922?mode=widget&layout=movies&design=new&rb=0&showId=12922"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -1376,9 +1438,396 @@
   },
   {
     "id": 24,
-    "title": "Sneak Preview",
-    "slug": "sneak-preview",
-    "duration": "0",
+    "title": "Layla",
+    "slug": "layla",
+    "duration": "100 min",
+    "fsk": "12",
+    "genre": "Drama, Komödie, Lovestory",
+    "originalTitle": "Unknown Original Title",
+    "production": "Vereinigtes Königreich",
+    "releaseDate": "29.01.2025",
+    "distributor": "Salzgeber & Co.",
+    "director": "Amrou Al-Kadhi",
+    "description": "London im Pride-Monat. Drag-Performer:in Layla tritt bei einem tristen Unternehmens¬event auf, das sich Queerfreundlichkeit nur aus Werbezwecken auf die Fahne geschrieben hat. Ausgerechnet hier wird Layla von dem jungen Marketing-Experten Max angeflirtet. Obwohl die beiden aus unterschiedlichen Welten kommen – Layla ist non-binär, hat palästinensische Wurzeln und lebt in einer aufregenden queeren Künstler:innen-Community; Max ist schwul, stammt aus einem konservativen britischen Elternhaus und hat vor allem Yuppie-Freunde – entwickelt sich zwischen ihnen ein regelrechter Liebesrausch. Doch als Layla versucht, sich der Lebenswelt von Max anzupassen, um für ihn „kompatibler“ zu sein, kommt es zu Konflikten. Max beginnt, sich und seine Privilegien als weißer cis Mann zum ersten Mal in Frage zu stellen. Hat ihre Liebe überhaupt eine Chance?<br><br>Was bedeutet es, jemanden zu lieben – und sollten wir dafür mitunter etwas von der eigenen Identität preisgeben? In „Layla“ erzählt Regisseur:in Amrou Al-Kadhi – selbst non-binär und Dragperformer:in in London mit irakischen Wurzeln – eine moderne Geschichte von zwei Menschen, die gerade wegen ihrer kulturellen, sozialen und sexuellen Differenzen zueinanderfinden und etwas Neues über sich selbst herausfinden. Ein mitreißendes Plädoyer dafür, zu sich selbst und füreinander einzustehen – allen (vermeintlichen) Erwartungen zum Trotz!",
+    "posterUrl": "https://static.kinoheld.de/images/film/layla-68231.v17329431039540.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "cTjWrwMaHkY",
+    "actors": [
+      "Bilal Hasna",
+      "Louis Greatorex",
+      "Safiyya Ingar",
+      "Terique Jarrett"
+    ],
+    "attributes": [
+      "Queerfilmnacht",
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-03-20",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "22:00",
+                    "endTime": "23:40",
+                    "movieId": 24,
+                    "attributes": [
+                      "2D",
+                      "OmdU"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12926?mode=widget&layout=movies&design=new&rb=0&showId=12926"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Λεσβία",
+    "slug": "lesbia",
+    "duration": "77 min",
+    "fsk": "18",
+    "genre": "Dokumentarfilm",
+    "originalTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "01.01.2025",
+    "distributor": "Salzgeber & Co.",
+    "director": "Tzeli Hadjidimitriou",
+    "description": "Seit den 1970er Jahren zieht es Lesben aus aller Welt auf die Insel Lesbos, zum Geburtsort der antiken griechischen Dichterin Sappho. In dem Küstendorf Eressos entstand in den folgenden Jahrzehnten eine aktive lesbische Gemeinschaft, in der Frauen endlich offen und frei leben und lieben konnten. Heute gibt es im Dorf eine Lesbenbar sowie mehrere Hotels und Restaurants, die ausschließlich von und für Frauen betrieben werden. Am Strand sind die Frauen unter sich. Auch wenn sich die meisten Einheimischen über die Jahre mit den Frauen solidarisierten, gab es auch immer wieder Konflikte mit konservativen Dorfbewohner:innen, die sich von den Lesben bedroht fühlten.",
+    "posterUrl": "https://static.kinoheld.de/images/film/lesvia-66471.v17391978113343.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "yTojNBGcCcQ",
+    "actors": [
+      "Tzeli Hadjidimitriou"
+    ],
+    "attributes": [
+      "Queerfilmnacht",
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-17",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "22:00",
+                    "endTime": "23:17",
+                    "movieId": 25,
+                    "attributes": [
+                      "2D",
+                      "OmdU"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12923?mode=widget&layout=movies&design=new&rb=0&showId=12923"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Blindgänger",
+    "slug": "blindgaenger",
+    "duration": "95 min",
+    "fsk": "Unknown",
+    "genre": "Drama",
+    "originalTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Kerstin Polte",
+    "description": "Bomben: Sie liegen einfach da. Nur ein paar Meter unter uns. Unsichtbar. Wir laufen auf ihnen, tanzen auf ihnen, leben mit ihnen",
+    "posterUrl": "https://static.kinoheld.de/images/film/blindgaenger-66885.v17307232007954.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "actors": [
+      "Anne Ratte-Polle",
+      "Haley Louise Jones",
+      "Bernhard Schütz",
+      "Claudia Michelsen"
+    ],
+    "attributes": [
+      "Queerfilmnacht"
+    ],
+    "dates": [
+      {
+        "date": "2025-05-15",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "22:00",
+                    "endTime": "23:35",
+                    "movieId": 26,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12924?mode=widget&layout=movies&design=new&rb=0&showId=12924"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "The Mattachine Family",
+    "slug": "the-mattachine-family",
+    "duration": "99 min",
+    "fsk": "12",
+    "genre": "Tragikkomödie, Queer",
+    "originalTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Andy Vallentine",
+    "description": "Fotograf Thomas und Schauspieler Oscar sind ein schwules Paar wie aus dem Bilderbuch. Als sich auch noch ihr langgehegter Kinderwunsch erfüllt, scheint ihr Glück perfekt. Doch dann entscheidet ein Gericht, dass ihr kleiner Adoptivsohn zu seiner leiblichen Mutter zurückkehren soll. Thomas fällt in eine tiefe Krise, Oscar stürzt sich in die Arbeit. Und plötzlich scheint ihre gemeinsame Zukunft gar nicht mehr so gewiss zu sein. Thomas stellt sich sogar die Frage, ob sie als Paar jemals die Familie aufbauen können, die er sich so sehnlich wünscht. Zum Glück können sich die beiden auf ihren Freundeskreis, vor allem auf Thomas‘ beste Freundin Leah und deren Partnerin verlassen.",
+    "posterUrl": "https://static.kinoheld.de/images/film/the-mattachine-family-58877.v17130694767808.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "actors": [
+      "Nico Tortorella",
+      "Juan Pablo Di Pace",
+      "Emily Hampshire",
+      "Heather Matarazzo"
+    ],
+    "attributes": [
+      "Queerfilmnacht",
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-06-19",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "22:00",
+                    "endTime": "23:39",
+                    "movieId": 27,
+                    "attributes": [
+                      "2D",
+                      "OmdU"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12925?mode=widget&layout=movies&design=new&rb=0&showId=12925"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Neil Young: Coastal",
+    "slug": "neil-young-coastal",
+    "duration": "105 min",
+    "fsk": "0",
+    "genre": "Dokumentarfilm, Musik",
+    "originalTitle": "Unknown Original Title",
+    "production": "Vereinigte Staaten",
+    "releaseDate": "17.04.2025",
+    "distributor": "LUF Kino",
+    "director": "Daryl Hannah",
+    "description": "Begleite Musiker Neil Young in der intimen Dokumentation Coastal auf seiner jüngsten Solotour entlang der Küste. Unter der Regie seiner Ehefrau, der renommierten Filmemacherin Daryl Hannah, gewährt der Film einen seltenen Blick hinter die Kulissen des ungeschönten Ikonoklasten. Von seinen alltäglichen Beobachtungen im Tourbus bis zu seinem charmant-ironischen Austausch mit dem Publikum fängt Coastal Youngs Rückkehr auf die Bühne nach der Corona-Pandemie ein. Zudem präsentiert der Film selten oder noch nie live gespielte Songs – in atemberaubend schönen Theatern.",
+    "posterUrl": "https://static.kinoheld.de/images/film/neil-young-coastal-71669.v17412628010024.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "actors": [
+      "Neil Young"
+    ],
+    "attributes": [
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-17",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Wochenendrebellen",
+    "slug": "wochenendrebellen",
+    "duration": "109 min",
+    "fsk": "6",
+    "genre": "Drama, Komödie",
+    "originalTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "28.09.2023",
+    "distributor": "LEONINE Studios",
+    "director": "Marc Rothemund",
+    "description": "Mirco (Florian David Fitz) ist beruflich viel unterwegs, während seine Frau Fatime (Aylin Tezel) das anspruchsvolle Familienleben organisiert. Ihr zehnjähriger Sohn Jason (Cecilio Andresen) ist Autist und sein Alltag besteht aus festgelegten Routinen und strengen Regeln. Als der Wechsel von Jason auf eine Förderschule empfohlen wird, schließt Mirco einen Pakt mit seinem Sohn: Jason verspricht, sich in der Schule nicht mehr provozieren zu lassen, wenn Mirco ihm hilft, seinen Lieblingsfußballverein zu finden. Allerdings möchte Jason sich erst für einen Verein entscheiden, nachdem er alle 56 Mannschaften der ersten, zweiten und dritten Liga in ihren jeweiligen Stadien live gesehen hat. Dabei hat er sehr individuelle Kriterien - von Maskottchen und Nachhaltigkeit bis hin zu den Ritualen der Spieler und den Farben ihrer Fußballschuhe. Während ihrer außergewöhnlichen Reisen durch Deutschland lassen Vater und Sohn ihre gewohnte Routine hinter sich und entdecken alles, wonach sie nie gesucht haben, aber definitiv gebraucht haben.",
+    "posterUrl": "https://static.kinoheld.de/images/film/wochenendrebellen-467631688478491168847849216884784931689503105170061378317006140821700614110170061448517006145771700614686170061495417006150111700615904170061614317006167781700616799170061681917006161701698680.v72.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "Bg7etDgdhe4",
+    "actors": [
+      "Andreas Leopold Schadt",
+      "Joachim Król",
+      "Aylin Tezel",
+      "Leslie Malton"
+    ],
+    "attributes": [],
+    "dates": [
+      {
+        "date": "2025-05-06",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Mittagsstunde",
+    "slug": "mittagsstunde",
+    "duration": "97 min",
+    "fsk": "12",
+    "genre": "Drama",
+    "originalTitle": "Mittagsstunde",
+    "production": "Deutschland",
+    "releaseDate": "22.09.2022",
+    "distributor": "Unknown Distributor",
+    "director": "Lars Jessen",
+    "description": "Ingwer Feddersen kehrt in sein Heimatdorf Brinkebüll zurück, als er sieht, dass seine Großeltern mit Problemen zu kämpfen haben. Sein Großvater will seine Kneipe nicht aufgeben und seine Großmutter wird immer verwirrter. Ingwer merkt schnell, dass das ganze Dorf nicht mehr so ist wie früher. Er fragt sich, wann genau der Niedergang begonnen hat. War es in den 70ern nach der Flurbereinigung, als Hecken und Vögel verschwanden? Oder liegt es an ihm, weil er für sein Studium nach Kiel ging und seinen Großvater allein ließ?",
+    "posterUrl": "https://static.kinoheld.de/images/film/1685579134.v375.mittagsstunde-2283516848015271684814527168497424516849873521685233208168524656316853193971685332941168540564416854193551685441637168544816116854514101685476949168549266616854926841685492714168549675516854967631685505766168?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "OfLvRZMCPOU",
+    "actors": [
+      "Charly Hübner",
+      "Lennard Conrad",
+      "Peter Franke",
+      "Rainer Bock"
+    ],
+    "attributes": [
+      "Film & Psychoanalyse"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-09",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Die purpurnen Flüsse",
+    "slug": "die-purpurnen-fluesse",
+    "duration": "106 min",
+    "fsk": "16",
+    "genre": "Thriller, Krimi, Mystery",
+    "originalTitle": "Les Rivières pourpres",
+    "production": "Frankreich",
+    "releaseDate": "19.04.2001",
+    "distributor": "Tobis Film",
+    "director": "Mathieu Kassovitz",
+    "description": "Am gleichen Tag, 300 Kilometer voneinander entfernt, sehen sich zwei Polizisten mit zwei Verbrechen konfrontiert. Kommissar Pierre Niémans, ein erfahrener Mann und Held der Anti-Gang, besitzt einen untrüglichen Instinkt, versteckt jedoch schmerzhafte Ängste. Er begibt sich nach Guernon, einer Universitäts-Stadt in den Alpen, um einem grausamen Mord nachzugehen. Max Kerkérian, ein lebhafter ehemaliger Autodieb und Einzelgänger, hat sich wegen der Liebe zur Nacht und zur Gefahr der Polizei angeschlossen. Er bricht auf nach Sarzac, um eine Grabschändung zu untersuchen. Bei der Leiche handelt es sich um ein kleines Mädchen, das im Jahr 1982 verschwand. Bald begegnen sich die beiden Ermittler und weitere Mordfälle kommen hinzu. Die Wahrheit übertrifft die kühnsten Vorstellungen der beiden Polizisten und führt sie nach oben in die Berge, an die Türen des Todes und des Eises.",
+    "posterUrl": "https://static.kinoheld.de/images/film/die-purpurnen-fluesse-66479.v17292252416453.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "ykfpZ1IPVDQ",
+    "actors": [
+      "Jean Reno",
+      "Vincent Cassel",
+      "Nadia Fares",
+      "Dominique Sanda"
+    ],
+    "attributes": [
+      "Best of Cinema",
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-01",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Red Heat",
+    "slug": "red-heat",
+    "duration": "104 min",
+    "fsk": "18",
+    "genre": "Action, Krimi",
+    "originalTitle": "Unknown Original Title",
+    "production": "Vereinigte Staaten",
+    "releaseDate": "05.10.1988",
+    "distributor": "StudioCanal Deutschland",
+    "director": "Walter Hill",
+    "description": "Der hartgesottene Moskauer Drogenfahnder Ivan Danko reist dem sowjetischen Drogenbaron Rostavili in die USA nach. Dort will er ihm das Handwerk legen. In Chicago versucht er, den Mega-Dealer zu stellen. Dabei wird ein amerikanischer Polizist getötet. Der schmierige Art Ridzik, Partner des toten Cops, wird dem Drogenfahnder zur Seite gestellt. Er ist ein Schlitzohr und löst Konflikte lieber mit seiner großen Klappe als mit brachialer Gewalt. Ganz im Gegensatz zum wortkargen Kraftmenschen Danko, dem zur Erfüllung seines Auftrags jedes Mittel recht ist.",
+    "posterUrl": "https://static.kinoheld.de/images/film/red-heat-65857.v17284469099883.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "_fp5N3WTowc",
+    "actors": [
+      "Laurence Fishburne",
+      "Gábor Németh",
+      "Mike Hagerty",
+      "Oleg Vidov"
+    ],
+    "attributes": [
+      "Best of Cinema",
+      "OmdU"
+    ],
+    "dates": [
+      {
+        "date": "2025-05-01",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Lola rennt",
+    "slug": "lola-rennt",
+    "duration": "79 min",
+    "fsk": "12",
+    "genre": "Drama, Action, Thriller",
+    "originalTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "20.08.1998",
+    "distributor": "X Verleih",
+    "director": "Tom Tykwer",
+    "description": "Lola erhält eines Morgens einen Anruf von ihrem Freund Manni, der gerade 100.000 DM verloren hat, die ihm nicht gehören. Um den Verbrechern das Geld übergeben zu können, hat er noch zwanzig Minuten Zeit. Lola rennt los, um ihm zu helfen, doch so sehr sie sich auch bemüht, ihr gehetzter Plan mißlingt. Doch es gibt mehrere Möglichkeiten für Lola und so dreht sich die Zeit um 20 Minuten zurück und der Wettlauf beginnt erneut...",
+    "posterUrl": "https://static.kinoheld.de/images/film/lola-rennt-65897.v17285215856047.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "jLyQB3IThDU",
+    "actors": [
+      "Peter Pauli",
+      "Franka Potente",
+      "Moritz Bleibtreu",
+      "Herbert Knaup"
+    ],
+    "attributes": [
+      "Best of Cinema"
+    ],
+    "dates": [
+      {
+        "date": "2025-06-03",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Arsenal Sneak",
+    "slug": "arsenal-sneak",
+    "duration": "100 min",
     "fsk": "18",
     "genre": "Unknown Genre",
     "originalTitle": "Unknown Original Title",
@@ -1386,21 +1835,46 @@
     "releaseDate": "01.01.2038",
     "distributor": "Unknown Distributor",
     "director": "Unknown Director",
-    "description": "In unseren Überraschungspreviews zeigen wir brandneue Produktionen aus Hollywood und der ganzen Welt. Manchmal eine Woche - manchmal Monate vor dem deutschen Filmstart. Aber: Der Filmtitel bleibt geheim, bis sich der Vorhang öffnet. Wir verraten nicht mal um welches Genre es sich handelt: Komödie, Drama, Action, Horror oder Dokumentation, alles ist möglich. Aufgrund der hohen Nachfrage empfehlen wir, rechtzeitig die Tickets direkt online zu kaufen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/sneak-preview-1.v1.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "description": "Auf euch wartet eine tolle Überraschung!",
+    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-117807.v17419438653563.png?w=352&h=528&fm=webp&q=90&fit=crop",
     "actors": [],
     "attributes": [
       "Arsenal Sneak"
     ],
     "dates": [
       {
-        "date": "2025-03-17",
+        "date": "2025-03-24",
         "theaters": []
       }
     ]
   },
   {
-    "id": 25,
+    "id": 35,
+    "title": "Tübinale 2025 - Kurzfilmfestival",
+    "slug": "tuebinale-2025-kurzfilmfestival",
+    "duration": "0",
+    "fsk": "Unknown",
+    "genre": "Unknown Genre",
+    "originalTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Unknown Director",
+    "description": "Am 28. April 2025 ist es wieder so weit: Die Tübinale, das Kurzfilmfestival der Universität Tübingen, lädt Filmbegeisterte ab 18:00 Uhr zu einem besonderen Kinoerlebnis im Kino Museum ein. Jedes Jahr präsentieren Studierende der Medienwissenschaft ihre selbst produzierten Kurzfilme auf der großen Leinwand. Die besten Werke werden von einer Fachjury ausgezeichnet und prämiert.\nDas diesjährige Motto „Macht der Bilder“ rückt die Wirkung visueller Medien in den Fokus. Die Studierenden setzen sich in ihren Filmen auf unterschiedliche Art und Weise mit dieser Thematik auseinander.\nZum Auftakt des Abends gibt es einen kostenlosen Sektempfang, bevor das Programm startet. \nTickets sind ab sofort für 9,99€ erhältlich, Studierende bekommen Tickets zum ermäßigten Preis für 7,99€.\nWir freuen uns auf einen spannenden Filmabend und zahlreiche Gäste!",
+    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-117991.v17422340071368.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "actors": [],
+    "attributes": [
+      "Lesung"
+    ],
+    "dates": [
+      {
+        "date": "2025-04-28",
+        "theaters": []
+      }
+    ]
+  },
+  {
+    "id": 36,
     "title": "Benefizveranstaltung - Rafik Schami liest \"Die Königin und der Kalligraph\"",
     "slug": "benefizveranstaltung-rafik-schami-liest-die-koenigin-und-der-kalligraph",
     "duration": "100 min",
@@ -1425,7 +1899,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 37,
     "title": "Stand-Up Comedy Slam Tübingen",
     "slug": "stand-up-comedy-slam-tuebingen",
     "duration": "150 min",
@@ -1454,7 +1928,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 38,
     "title": "Poetry Slam Tübingen",
     "slug": "poetry-slam-tuebingen",
     "duration": "120 min",
@@ -1466,7 +1940,7 @@
     "distributor": "Unknown Distributor",
     "director": "Unknown Director",
     "description": "DAS LITERATURSPEKTAKEL DER ANDEREN ART\nGastgeber Elias Raatz präsentiert jeden 2. Dienstag im Monat die Creme de la Creme der Slam Poets, Sprachakrobaten, Poesieschleifer und Zeilenbieger beim BEST OF POETRY SLAM. Erlebt das Beste aus Lyrik, Comedy, Poesie, Kabarett und Lesung an einem Abend. Das Event wird unterstützt durch die Stadtwerke Tübingen und das Ingenieurbüro für Energieeffizient PATAVO.\n\nWAS IST POETRY SLAM?\nPoetry Slam ist eine Art moderner Dichterwettstreit, bei dem Bühnenautor*innen ihre selbstverfassten Texte live mit vollem Stimm- und Körpereinsatz performen. Die Texte können ganz unterschiedlich gestaltet sein: lustig, lyrisch, kabarettistisch oder poetisch – und das mit so bunten und breit gefächerten Themen, dass selbst der schönste Pfau nur deprimiert auf sein eigenes Federkleid schauen kann.\n\nABWECHSLUNG IST PFLICHT!\nWer beim Begriff „Dichterwettstreit“ nun an Goethe-Lyrik denkt, liegt falsch! Poetry Slam ist vielmehr das Rock-Konzert unter den Literaturveranstaltungen: Von turbulentem Storytelling über Stand-Up-Comedy bis zum Kabarett, von Politik zu Gesellschaftskritik und Emotionen ist beim Dichterwettstreit deluxe alles erlaubt. Von jung bis alt erfreuen sich Poetry-Veranstaltungen mit frischer Literatur, Witz und viel Abwechslung einer großen Beliebtheit",
-    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-114865.v17358117809576.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/poetry-slam-tuebingen-69292.v17364153928367.png?w=352&h=528&fm=webp&q=90&fit=crop",
     "actors": [],
     "attributes": [
       "Poetry Slam"
@@ -1483,43 +1957,12 @@
     ]
   },
   {
-    "id": 28,
-    "title": "MET Opera 2024/25: Ludwig van Beethoven FIDELIO",
-    "slug": "met-opera-202425-ludwig-van-beethoven-fidelio",
-    "duration": "185 min",
-    "fsk": "6",
-    "genre": "Opera",
-    "originalTitle": "Unknown Original Title",
-    "production": "Unknown Production",
-    "releaseDate": "Unknown Release Date",
-    "distributor": "Unknown Distributor",
-    "director": "Jürgen Flimm",
-    "description": "Nach einer beeindruckenden Serie von Aufführungen an der Met spielt die Sopranistin Lise Davidsen die Rolle der Leonore, die alles riskiert, um ihren Ehemann aus den Klauen der Tyrannei zu retten. Zusammen mit Tenor David Butt Philip als politischem Gefangenen Florestan, Bass-Bariton Tomasz Konieczny als schurkischem Don Pizarro und Bass René Pape als Kerkermeister Rocco bildet sie das Ensemble. Susanna Mälkki dirigiert die moderne Produktion der Met, die moderne Parallelen in Beethovens ergreifendem Hymnus an die Freiheit findet.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2024-25-ludwig-van-beethoven-fidelio-59735.v17163838516624.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "L2BnblcOoT0",
-    "actors": [
-      "David Butt Philip",
-      "Lise Davidsen",
-      "Susanna Mälkki",
-      "Tomasz Konieczny"
-    ],
-    "attributes": [
-      "MET OPERA"
-    ],
-    "dates": [
-      {
-        "date": "2025-03-15",
-        "theaters": []
-      }
-    ]
-  },
-  {
-    "id": 29,
+    "id": 39,
     "title": "Met Opera 2024/25: Wolfgang Amadeus Mozart LE NOZZE DI FIGARO",
     "slug": "met-opera-202425-wolfgang-amadeus-mozart-le-nozze-di-figaro",
     "duration": "232 min",
     "fsk": "6",
-    "genre": "Opera",
+    "genre": "Oper",
     "originalTitle": "MET Opera: Le Nozze Di Figaro",
     "production": "Unknown Production",
     "releaseDate": "18.10.2014",
@@ -1545,12 +1988,12 @@
     ]
   },
   {
-    "id": 30,
+    "id": 40,
     "title": "MET Opera 2024/25: Richard Strauss SALOME",
     "slug": "met-opera-202425-richard-strauss-salome",
     "duration": "135 min",
     "fsk": "6",
-    "genre": "Opera",
+    "genre": "Musik",
     "originalTitle": "Unknown Original Title",
     "production": "Unknown Production",
     "releaseDate": "Unknown Release Date",
@@ -1576,12 +2019,12 @@
     ]
   },
   {
-    "id": 31,
+    "id": 41,
     "title": "MET Opera 2024/25: Gioachino Rossini IL BARBIERE DI SIVIGLIA",
     "slug": "met-opera-202425-gioachino-rossini-il-barbiere-di-siviglia",
     "duration": "215 min",
     "fsk": "6",
-    "genre": "Opera",
+    "genre": "Oper",
     "originalTitle": "MET Opera: Il Barbiere di Siviglia (2025)",
     "production": "Unknown Production",
     "releaseDate": "22.11.2014",
@@ -1607,125 +2050,7 @@
     ]
   },
   {
-    "id": 32,
-    "title": "Flow",
-    "slug": "flow",
-    "duration": "85 Minuten",
-    "fsk": "6",
-    "genre": "Animation, Abenteuer, Fantasy",
-    "originalTitle": "Straume",
-    "production": "Belgien, Frankreich, Lettland",
-    "releaseDate": "06.03.2025",
-    "distributor": "Unknown Distributor",
-    "director": "Gints Zilbalodis",
-    "description": "Eine Katze erwacht in einer von Wasser überfluteten, menschenleeren Welt. Zusammen mit anderen Tieren findet sie Schutz auf einem Boot, doch das Zusammenleben mit ihnen wird zur größeren Herausforderung als die Angst vor dem Wasser. Nun müssen sie lernen, ihre Unterschiede zu akzeptieren und sich an die veränderte Welt anzupassen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/flow-68217.v17346606068311.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "Q5pZxlKyBrk",
-    "actors": [],
-    "attributes": [],
-    "dates": [
-      {
-        "date": "2025-03-12",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:25",
-                    "movieId": 32,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12894?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:25",
-                    "movieId": 32,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12910?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "title": "MARIA",
-    "slug": "maria",
-    "duration": "123 Minuten",
-    "fsk": "6",
-    "genre": "Drama",
-    "originalTitle": "Maria",
-    "production": "Deutschland, Chile, Italien, Vereinigte Staaten",
-    "releaseDate": "06.02.2025",
-    "distributor": "StudioCanal Deutschland",
-    "director": "Pablo Larraín",
-    "description": "Paris, September 1977: Maria Callas (Angelina Jolie) hat sich seit Jahren aus der Öffentlichkeit zurückgezogen. Die legendäre Operndiva singt nicht mehr und lebt entrückt in ihrer riesigen Wohnung, hinter schweren Vorhängen, in einer Welt voller Erinnerungen. Nur ihr treuer Kammerdiener Ferruccio (Pierfrancesco Favino) und die Köchin Bruna (Alba Rohrwacher) stehen ihr nah, und beide machen sich zunehmend Sorgen um die Gesundheit ihrer Hausherrin. Als der TV-Reporter Mandrax (Kodi Smit-McPhee) auftaucht, blüht Maria Callas auf. Die Interviews mit dem jungen Mann führen Maria zurück in bessere, in große, in legendäre Zeiten. Sie beschließt, noch ein letztes Mal auf die Bühne zurückzukehren.<br><br>MARIA ist nach „Jackie“ und „Spencer“ der Abschluss von Larraíns Trilogie über faszinierende Frauen des 20. Jahrhunderts.",
-    "posterUrl": "https://static.kinoheld.de/images/film/maria-67151.v17358098258413.png?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "ptmebUGNoN4",
-    "actors": [
-      "Angelina Jolie",
-      "Kodi Smit-McPhee",
-      "Haluk Bilginer",
-      "Pierfrancesco Favino"
-    ],
-    "attributes": [],
-    "dates": [
-      {
-        "date": "2025-03-12",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:00",
-                    "endTime": "22:03",
-                    "movieId": 33,
-                    "attributes": [
-                      "2D",
-                      "OmdU"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12898?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 34,
+    "id": 42,
     "title": "Köln 75",
     "slug": "koeln-75",
     "duration": "115 Minuten",
@@ -1748,150 +2073,6 @@
     "attributes": [],
     "dates": [
       {
-        "date": "2025-03-13",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:55",
-                    "movieId": 34,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12915?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-14",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:00",
-                    "endTime": "21:55",
-                    "movieId": 34,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12916?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:55",
-                    "movieId": 34,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12917?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "16:30",
-                    "endTime": "18:25",
-                    "movieId": 34,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12918?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "18:00",
-                    "endTime": "19:55",
-                    "movieId": 34,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12919?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:00",
-                    "endTime": "21:55",
-                    "movieId": 34,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12920?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "date": "2025-03-19",
         "theaters": [
           {
@@ -1903,7 +2084,7 @@
                   {
                     "time": "20:00",
                     "endTime": "21:55",
-                    "movieId": 34,
+                    "movieId": 42,
                     "attributes": [
                       "2D"
                     ],
@@ -1914,11 +2095,188 @@
             ]
           }
         ]
+      },
+      {
+        "date": "2025-03-20",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:30",
+                    "endTime": "19:25",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12928?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:15",
+                    "endTime": "22:10",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12929?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "15:30",
+                    "endTime": "17:25",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12930?mode=widget"
+                  },
+                  {
+                    "time": "20:15",
+                    "endTime": "22:10",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12931?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:00",
+                    "endTime": "18:55",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12932?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:30",
+                    "endTime": "19:25",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12933?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:15",
+                    "endTime": "22:10",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12935?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "17:30",
+                    "endTime": "19:25",
+                    "movieId": 42,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12934?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   {
-    "id": 35,
+    "id": 43,
     "title": "Heldin",
     "slug": "heldin",
     "duration": "92 Minuten",
@@ -1941,78 +2299,6 @@
     "attributes": [],
     "dates": [
       {
-        "date": "2025-03-13",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:15",
-                    "endTime": "21:47",
-                    "movieId": 35,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12911?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-15",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:30",
-                    "endTime": "22:02",
-                    "movieId": 35,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12912?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-17",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "20:15",
-                    "endTime": "21:47",
-                    "movieId": 35,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12913?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "date": "2025-03-19",
         "theaters": [
           {
@@ -2024,7 +2310,7 @@
                   {
                     "time": "18:00",
                     "endTime": "19:32",
-                    "movieId": 35,
+                    "movieId": 43,
                     "attributes": [
                       "2D"
                     ],
@@ -2039,104 +2325,7 @@
     ]
   },
   {
-    "id": 36,
-    "title": "Der Lehrer, der uns das Meer versprach",
-    "slug": "der-lehrer-der-uns-das-meer-versprach",
-    "duration": "105 Minuten",
-    "fsk": "12",
-    "genre": "Drama, Historie",
-    "originalTitle": "El maestro que prometió el mar",
-    "production": "Spanien",
-    "releaseDate": "06.02.2025",
-    "distributor": "24 Bilder",
-    "director": "Patricia Font",
-    "description": "Spanien 1935: Der junge Lehrer Antoni Benaiges (Enric Auquer) übernimmt kurz vor Ausbruch des spanischen Bürgerkriegs die Grundschule eines kleinen, abgelegenen Dorfes in der Provinz Burgos. Dank seiner fortschrittlichen, antiautoritären Unterrichtsmethoden baut er schnell eine vertrauensvolle Beziehung zu seiner Klasse auf. Doch der freundschaftliche Umgang mit den Kindern wird von Eltern und Dorfvorstehern argwöhnisch beobachtet. Und dann gibt Benaiges seinen Schülern ein Versprechen: In den Sommerferien will er ihnen das Meer zeigen, das die Kinder noch nie gesehen haben. Bei den Eltern der Kinder stößt diese Idee auf große Skepsis... 75 Jahre später, im Jahr 2010, recherchiert Ariadna (Laia Costa), die Enkelin eines seiner damaligen Schüler, die bewegende Geschichte von Antoni Benaiges und entdeckt dabei, mit welch großen Widerständen dieser charismatische Mann zu kämpfen hatte.<br><br>DER LEHRER, DER UNS DAS MEER VERSPRACH ist ein Appell an die Menschlichkeit und ein Kinoerlebnis, dessen Botschaft in der heutigen Zeit aktueller und wichtiger ist denn je.",
-    "posterUrl": "https://static.kinoheld.de/images/film/der-lehrer-der-uns-das-meer-versprach-67211.v17385796146092.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "FAHuvGQ8eyg",
-    "actors": [
-      "Nicolás Calvo",
-      "Alba Hermoso",
-      "Gema Sala",
-      "Enric Auquer"
-    ],
-    "attributes": [],
-    "dates": [
-      {
-        "date": "2025-03-15",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "15:30",
-                    "endTime": "17:15",
-                    "movieId": 36,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12905?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-16",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "14:00",
-                    "endTime": "15:45",
-                    "movieId": 36,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12906?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "date": "2025-03-18",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "17:30",
-                    "endTime": "19:15",
-                    "movieId": 36,
-                    "attributes": [
-                      "2D"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12907?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 37,
+    "id": 44,
     "title": "Ein Tag ohne Frauen",
     "slug": "ein-tag-ohne-frauen",
     "duration": "71 Minuten",
@@ -2156,31 +2345,6 @@
     "attributes": [],
     "dates": [
       {
-        "date": "2025-03-16",
-        "theaters": [
-          {
-            "name": "Kino Atelier",
-            "rooms": [
-              {
-                "name": "Atelier",
-                "showings": [
-                  {
-                    "time": "12:00",
-                    "endTime": "13:11",
-                    "movieId": 37,
-                    "attributes": [
-                      "2D",
-                      "OmdU"
-                    ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12908?mode=widget"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "date": "2025-03-19",
         "theaters": [
           {
@@ -2192,7 +2356,7 @@
                   {
                     "time": "16:30",
                     "endTime": "17:41",
-                    "movieId": 37,
+                    "movieId": 44,
                     "attributes": [
                       "2D",
                       "OmdU"
@@ -2208,12 +2372,256 @@
     ]
   },
   {
-    "id": 38,
+    "id": 45,
+    "title": "Niki de Saint Phalle",
+    "slug": "niki-de-saint-phalle",
+    "duration": "98 Minuten",
+    "fsk": "12",
+    "genre": "Drama, Historie",
+    "originalTitle": "Unknown Original Title",
+    "production": "Belgien, Frankreich",
+    "releaseDate": "20.03.2025",
+    "distributor": "Neue Visionen Filmverleih",
+    "director": "Céline Sallette",
+    "description": "Zwischen Plastikblumen und Schießübungen: Niki de Saint Phalle wurde mit ihren Nana-Skulpturen weltberühmt, als jene Künstlerin, die mit Messern und Gewehren Gemälde beschoss. Ihre Lebensgeschichte steckt voller Abgründe. Um 1950 lässt die junge Niki alles hinter sich und zieht mit ihrem Mann und ihrer Tochter nach Frankreich. Als Modell und Schauspielerin träumt Niki von einem größeren Leben in Paris. Die Dämonen ihrer Kindheit trägt sie stets mit sich. Irgendwann bricht Niki zusammen und wird Zeit in einer Psychiatrie verbringen. Hier kämpft sie um nichts weniger als die Wahrheit ihres Lebens. Ein starker Wille und kreative Urgewalt lassen sie ausbrechen und eine neue Sprache der Kunst erfinden, die von Gewalt, Hoffnung und Weiblichkeit erzählt. Sie erschuf Nanas in allen Formen und Farben, die „Huren“ der Gegenwart, in die das Publikum ein- und ausgehen konnte. Ihre Kunst wird zu ihrer Waffe – poetisch, schöpferisch und zielsicher. Und sie traf: die Grenzen der etablierten Kunstwelt..<br><br>Als „Terroristin der Kunst“ schreibt Niki de Saint Phalle Kunstgeschichte. Sie war in den sechziger Jahren die einzige international erfolgreiche Künstlerin auf weiter Flur. Der Film NIKI DE SAINT PHALLE ist die Geschichte ihrer Geburt als subversive Künstlerin aus dem Trauma ihrer Kindheit, ein zutiefst bewegendes, aber auch kraftvolles und Kraft-gebendes filmisches Porträt.",
+    "posterUrl": "https://static.kinoheld.de/images/film/niki-de-saint-phalle-67139.v17404820097539.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "ZLKSbAVpbuw",
+    "actors": [
+      "Charlotte Le Bon",
+      "Damien Bonnard",
+      "John Robinson",
+      "Quentin Dolmaire"
+    ],
+    "attributes": [],
+    "dates": [
+      {
+        "date": "2025-03-20",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "19:45",
+                    "endTime": "21:23",
+                    "movieId": 45,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12936?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-21",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "18:00",
+                    "endTime": "19:38",
+                    "movieId": 45,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12937?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-22",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "18:00",
+                    "endTime": "19:38",
+                    "movieId": 45,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12938?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-23",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "15:00",
+                    "endTime": "16:38",
+                    "movieId": 45,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12939?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-24",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:00",
+                    "endTime": "21:38",
+                    "movieId": 45,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12940?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-25",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "18:00",
+                    "endTime": "19:38",
+                    "movieId": 45,
+                    "attributes": [
+                      "2D",
+                      "OmdU"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12942?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2025-03-26",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "20:00",
+                    "endTime": "21:38",
+                    "movieId": 45,
+                    "attributes": [
+                      "2D"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12941?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Layla",
+    "slug": "layla",
+    "duration": "100 Minuten",
+    "fsk": "12",
+    "genre": "Drama, Komödie, Lovestory",
+    "originalTitle": "Unknown Original Title",
+    "production": "Vereinigtes Königreich",
+    "releaseDate": "29.01.2025",
+    "distributor": "Salzgeber & Co.",
+    "director": "Amrou Al-Kadhi",
+    "description": "London im Pride-Monat. Drag-Performer:in Layla tritt bei einem tristen Unternehmens¬event auf, das sich Queerfreundlichkeit nur aus Werbezwecken auf die Fahne geschrieben hat. Ausgerechnet hier wird Layla von dem jungen Marketing-Experten Max angeflirtet. Obwohl die beiden aus unterschiedlichen Welten kommen – Layla ist non-binär, hat palästinensische Wurzeln und lebt in einer aufregenden queeren Künstler:innen-Community; Max ist schwul, stammt aus einem konservativen britischen Elternhaus und hat vor allem Yuppie-Freunde – entwickelt sich zwischen ihnen ein regelrechter Liebesrausch. Doch als Layla versucht, sich der Lebenswelt von Max anzupassen, um für ihn „kompatibler“ zu sein, kommt es zu Konflikten. Max beginnt, sich und seine Privilegien als weißer cis Mann zum ersten Mal in Frage zu stellen. Hat ihre Liebe überhaupt eine Chance?<br><br>Was bedeutet es, jemanden zu lieben – und sollten wir dafür mitunter etwas von der eigenen Identität preisgeben? In „Layla“ erzählt Regisseur:in Amrou Al-Kadhi – selbst non-binär und Dragperformer:in in London mit irakischen Wurzeln – eine moderne Geschichte von zwei Menschen, die gerade wegen ihrer kulturellen, sozialen und sexuellen Differenzen zueinanderfinden und etwas Neues über sich selbst herausfinden. Ein mitreißendes Plädoyer dafür, zu sich selbst und füreinander einzustehen – allen (vermeintlichen) Erwartungen zum Trotz!",
+    "posterUrl": "https://static.kinoheld.de/images/film/layla-68231.v17329431039540.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "cTjWrwMaHkY",
+    "actors": [
+      "Bilal Hasna",
+      "Louis Greatorex",
+      "Safiyya Ingar",
+      "Terique Jarrett"
+    ],
+    "attributes": [],
+    "dates": [
+      {
+        "date": "2025-03-20",
+        "theaters": [
+          {
+            "name": "Kino Atelier",
+            "rooms": [
+              {
+                "name": "Atelier",
+                "showings": [
+                  {
+                    "time": "22:00",
+                    "endTime": "23:40",
+                    "movieId": 46,
+                    "attributes": [
+                      "2D",
+                      "OmdU"
+                    ],
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12926?mode=widget"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
     "title": "ANORA",
     "slug": "anora",
     "duration": "139 Minuten",
     "fsk": "16",
-    "genre": "Drama, Komödie, Lovestory",
+    "genre": "Komödie",
     "originalTitle": "Anora",
     "production": "Vereinigte Staaten",
     "releaseDate": "31.10.2024",
@@ -2231,7 +2639,7 @@
     "attributes": [],
     "dates": [
       {
-        "date": "2025-03-16",
+        "date": "2025-03-23",
         "theaters": [
           {
             "name": "Kino Atelier",
@@ -2240,14 +2648,14 @@
                 "name": "Atelier",
                 "showings": [
                   {
-                    "time": "19:00",
-                    "endTime": "21:19",
-                    "movieId": 38,
+                    "time": "19:30",
+                    "endTime": "21:49",
+                    "movieId": 47,
                     "attributes": [
                       "2D",
                       "OmdU"
                     ],
-                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12904?mode=widget"
+                    "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12927?mode=widget"
                   }
                 ]
               }
@@ -2256,5 +2664,96 @@
         ]
       }
     ]
+  },
+  {
+    "id": 48,
+    "title": "Stelios",
+    "slug": "stelios",
+    "duration": "132 Minuten",
+    "fsk": "12",
+    "genre": "Drama, Musik, Historie",
+    "originalTitle": "Υπάρχω",
+    "production": "Griechenland",
+    "releaseDate": "03.04.2025",
+    "distributor": "Unknown Distributor",
+    "director": "Giorgos Tsemperopoulos",
+    "description": "Der Film erzählt die bewegende Geschichte eines Kindes aus einer pontischen Flüchtlingsfamilie, das sich trotz aller Schwierigkeiten behauptete und dank seines immensen Talents und seiner Widerstandsfähigkeit überlebte und zu Erfolg kam.",
+    "posterUrl": "https://static.kinoheld.de/images/film/stelios-71389.v17413527439112.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "k9BoQ_GBaNY",
+    "actors": [
+      "Christos Mastoras",
+      "Menia Voulioti",
+      "Agoritsa Oikonomou",
+      "Klelia Renesi"
+    ],
+    "attributes": [],
+    "dates": []
+  },
+  {
+    "id": 49,
+    "title": "Λεσβία",
+    "slug": "lesbia",
+    "duration": "77 Minuten",
+    "fsk": "18",
+    "genre": "Dokumentarfilm",
+    "originalTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "01.01.2025",
+    "distributor": "Salzgeber & Co.",
+    "director": "Tzeli Hadjidimitriou",
+    "description": "Seit den 1970er Jahren zieht es Lesben aus aller Welt auf die Insel Lesbos, zum Geburtsort der antiken griechischen Dichterin Sappho. In dem Küstendorf Eressos entstand in den folgenden Jahrzehnten eine aktive lesbische Gemeinschaft, in der Frauen endlich offen und frei leben und lieben konnten. Heute gibt es im Dorf eine Lesbenbar sowie mehrere Hotels und Restaurants, die ausschließlich von und für Frauen betrieben werden. Am Strand sind die Frauen unter sich. Auch wenn sich die meisten Einheimischen über die Jahre mit den Frauen solidarisierten, gab es auch immer wieder Konflikte mit konservativen Dorfbewohner:innen, die sich von den Lesben bedroht fühlten.",
+    "posterUrl": "https://static.kinoheld.de/images/film/lesvia-66471.v17391978113343.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "yTojNBGcCcQ",
+    "actors": [
+      "Tzeli Hadjidimitriou"
+    ],
+    "attributes": [],
+    "dates": []
+  },
+  {
+    "id": 50,
+    "title": "Blindgänger",
+    "slug": "blindgaenger",
+    "duration": "95 Minuten",
+    "fsk": "Unknown",
+    "genre": "Drama",
+    "originalTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Kerstin Polte",
+    "description": "Bomben: Sie liegen einfach da. Nur ein paar Meter unter uns. Unsichtbar. Wir laufen auf ihnen, tanzen auf ihnen, leben mit ihnen",
+    "posterUrl": "https://static.kinoheld.de/images/film/blindgaenger-66885.v17307232007954.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "actors": [
+      "Anne Ratte-Polle",
+      "Haley Louise Jones",
+      "Bernhard Schütz",
+      "Claudia Michelsen"
+    ],
+    "attributes": [],
+    "dates": []
+  },
+  {
+    "id": 51,
+    "title": "The Mattachine Family",
+    "slug": "the-mattachine-family",
+    "duration": "99 Minuten",
+    "fsk": "12",
+    "genre": "Tragikkomödie, Queer",
+    "originalTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Andy Vallentine",
+    "description": "Fotograf Thomas und Schauspieler Oscar sind ein schwules Paar wie aus dem Bilderbuch. Als sich auch noch ihr langgehegter Kinderwunsch erfüllt, scheint ihr Glück perfekt. Doch dann entscheidet ein Gericht, dass ihr kleiner Adoptivsohn zu seiner leiblichen Mutter zurückkehren soll. Thomas fällt in eine tiefe Krise, Oscar stürzt sich in die Arbeit. Und plötzlich scheint ihre gemeinsame Zukunft gar nicht mehr so gewiss zu sein. Thomas stellt sich sogar die Frage, ob sie als Paar jemals die Familie aufbauen können, die er sich so sehnlich wünscht. Zum Glück können sich die beiden auf ihren Freundeskreis, vor allem auf Thomas‘ beste Freundin Leah und deren Partnerin verlassen.",
+    "posterUrl": "https://static.kinoheld.de/images/film/the-mattachine-family-58877.v17130694767808.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "actors": [
+      "Nico Tortorella",
+      "Juan Pablo Di Pace",
+      "Emily Hampshire",
+      "Heather Matarazzo"
+    ],
+    "attributes": [],
+    "dates": []
   }
 ]
