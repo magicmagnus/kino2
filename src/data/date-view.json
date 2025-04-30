@@ -1,6 +1,6 @@
 [
   {
-    "date": "2025-04-02",
+    "date": "2025-04-30",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -9,101 +9,44 @@
             "name": "Atelier",
             "showings": [
               {
-                "time": "17:30",
-                "endTime": "19:25",
-                "movieId": 17,
-                "movieTitle": "Köln 75",
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 24,
+                "movieTitle": "Oslo-Stories: Liebe",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12951?mode=widget&layout=movies&design=new&rb=0&showId=12951&sessid=53cjpgqarjqdkotlrl7je099lo"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
-                "time": "17:30",
-                "endTime": "19:25",
-                "movieId": 70,
-                "movieTitle": "Köln 75",
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 61,
+                "movieTitle": "Oslo-Stories: Liebe",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12951?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:38",
-                "movieId": 16,
-                "movieTitle": "Niki de Saint Phalle",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12957?mode=widget&layout=movies&design=new&rb=0&showId=12957&sessid=53cjpgqarjqdkotlrl7je099lo"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13021?mode=widget"
               },
               {
                 "time": "20:00",
-                "endTime": "21:38",
-                "movieId": 71,
-                "movieTitle": "Niki de Saint Phalle",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12957?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-04-03",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 8,
-                "movieTitle": "Funny Birds",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12962?mode=widget&layout=movies&design=new&rb=0&showId=12962&sessid=ukk0hmii8dut8mq8mjvmin1ccu"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 72,
-                "movieTitle": "Funny Birds",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12962?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:12",
+                "endTime": "21:26",
                 "movieId": 25,
-                "movieTitle": "Stelios",
+                "movieTitle": "Was Marielle weiß",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12922?mode=widget&layout=movies&design=new&rb=0&showId=12922&sessid=58qb4i0j8214t0igaoshce1dob"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "20:00",
-                "endTime": "22:12",
-                "movieId": 73,
-                "movieTitle": "Stelios",
+                "endTime": "21:26",
+                "movieId": 60,
+                "movieTitle": "Was Marielle weiß",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12922?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13031?mode=widget"
               }
             ]
           }
@@ -112,7 +55,7 @@
     ]
   },
   {
-    "date": "2025-04-04",
+    "date": "2025-05-01",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -121,119 +64,44 @@
             "name": "Atelier",
             "showings": [
               {
-                "time": "17:30",
-                "endTime": "19:25",
-                "movieId": 17,
-                "movieTitle": "Köln 75",
+                "time": "18:15",
+                "endTime": "19:41",
+                "movieId": 25,
+                "movieTitle": "Was Marielle weiß",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12966?mode=widget&layout=movies&design=new&rb=0&showId=12966&sessid=53cjpgqarjqdkotlrl7je099lo"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
-                "time": "17:30",
-                "endTime": "19:25",
-                "movieId": 70,
-                "movieTitle": "Köln 75",
+                "time": "18:15",
+                "endTime": "19:41",
+                "movieId": 60,
+                "movieTitle": "Was Marielle weiß",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12966?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:28",
-                "movieId": 58,
-                "movieTitle": "Pandoras Vermächtnis",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12975?mode=widget&layout=movies&design=new&rb=0&showId=12975&sessid=58qb4i0j8214t0igaoshce1dob"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:28",
-                "movieId": 74,
-                "movieTitle": "Pandoras Vermächtnis",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12975?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-04-05",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "16:00",
-                "endTime": "17:33",
-                "movieId": 8,
-                "movieTitle": "Funny Birds",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12963?mode=widget&layout=movies&design=new&rb=0&showId=12963&sessid=ukk0hmii8dut8mq8mjvmin1ccu"
-              },
-              {
-                "time": "16:00",
-                "endTime": "17:33",
-                "movieId": 72,
-                "movieTitle": "Funny Birds",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12963?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 16,
-                "movieTitle": "Niki de Saint Phalle",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12971?mode=widget&layout=movies&design=new&rb=0&showId=12971&sessid=53cjpgqarjqdkotlrl7je099lo"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 71,
-                "movieTitle": "Niki de Saint Phalle",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12971?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13047?mode=widget"
               },
               {
                 "time": "20:15",
-                "endTime": "22:10",
-                "movieId": 17,
-                "movieTitle": "Köln 75",
+                "endTime": "22:19",
+                "movieId": 6,
+                "movieTitle": "Klandestin",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12967?mode=widget&layout=movies&design=new&rb=0&showId=12967&sessid=53cjpgqarjqdkotlrl7je099lo"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "20:15",
-                "endTime": "22:10",
-                "movieId": 70,
-                "movieTitle": "Köln 75",
+                "endTime": "22:19",
+                "movieId": 62,
+                "movieTitle": "Klandestin",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12967?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13034?mode=widget"
               }
             ]
           }
@@ -242,7 +110,7 @@
     ]
   },
   {
-    "date": "2025-04-06",
+    "date": "2025-05-02",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -251,86 +119,66 @@
             "name": "Atelier",
             "showings": [
               {
-                "time": "12:00",
-                "endTime": "13:38",
-                "movieId": 16,
-                "movieTitle": "Niki de Saint Phalle",
+                "time": "16:30",
+                "endTime": "17:55",
+                "movieId": 20,
+                "movieTitle": "Flow",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12972?mode=widget&layout=movies&design=new&rb=0&showId=12972&sessid=53cjpgqarjqdkotlrl7je099lo"
-              },
-              {
-                "time": "12:00",
-                "endTime": "13:38",
-                "movieId": 71,
-                "movieTitle": "Niki de Saint Phalle",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12972?mode=widget"
-              },
-              {
-                "time": "14:30",
-                "endTime": "16:03",
-                "movieId": 8,
-                "movieTitle": "Funny Birds",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12964?mode=widget&layout=movies&design=new&rb=0&showId=12964&sessid=ukk0hmii8dut8mq8mjvmin1ccu"
-              },
-              {
-                "time": "14:30",
-                "endTime": "16:03",
-                "movieId": 72,
-                "movieTitle": "Funny Birds",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12964?mode=widget"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "16:30",
-                "endTime": "18:25",
-                "movieId": 17,
-                "movieTitle": "Köln 75",
+                "endTime": "17:55",
+                "movieId": 63,
+                "movieTitle": "Flow",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12968?mode=widget&layout=movies&design=new&rb=0&showId=12968&sessid=53cjpgqarjqdkotlrl7je099lo"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13032?mode=widget"
               },
               {
-                "time": "16:30",
-                "endTime": "18:25",
-                "movieId": 70,
-                "movieTitle": "Köln 75",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12968?mode=widget"
-              },
-              {
-                "time": "19:00",
-                "endTime": "21:02",
-                "movieId": 12,
-                "movieTitle": "Becoming Led Zeppelin",
+                "time": "18:15",
+                "endTime": "20:14",
+                "movieId": 24,
+                "movieTitle": "Oslo-Stories: Liebe",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12960?mode=widget&layout=movies&design=new&rb=0&showId=12960&sessid=7tmm4j2ba1rbpir1ps6003250k"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
-                "time": "19:00",
-                "endTime": "21:02",
-                "movieId": 75,
-                "movieTitle": "Becoming Led Zeppelin",
+                "time": "18:15",
+                "endTime": "20:14",
+                "movieId": 61,
+                "movieTitle": "Oslo-Stories: Liebe",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12960?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13042?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:34",
+                "movieId": 6,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:34",
+                "movieId": 62,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13035?mode=widget"
               }
             ]
           }
@@ -339,7 +187,272 @@
     ]
   },
   {
-    "date": "2025-04-07",
+    "date": "2025-05-03",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:00",
+                "endTime": "16:25",
+                "movieId": 20,
+                "movieTitle": "Flow",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "15:00",
+                "endTime": "16:25",
+                "movieId": 63,
+                "movieTitle": "Flow",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13033?mode=widget"
+              },
+              {
+                "time": "17:00",
+                "endTime": "18:26",
+                "movieId": 25,
+                "movieTitle": "Was Marielle weiß",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:00",
+                "endTime": "18:26",
+                "movieId": 60,
+                "movieTitle": "Was Marielle weiß",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13048?mode=widget"
+              },
+              {
+                "time": "19:00",
+                "endTime": "20:30",
+                "movieId": 23,
+                "movieTitle": "Voilà, Papa! - Der fast perfekte Schwiegersohn",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "19:00",
+                "endTime": "20:30",
+                "movieId": 64,
+                "movieTitle": "Voilà, Papa! - Der fast perfekte Schwiegersohn",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13044?mode=widget"
+              },
+              {
+                "time": "21:00",
+                "endTime": "23:04",
+                "movieId": 6,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "21:00",
+                "endTime": "23:04",
+                "movieId": 62,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13036?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-05-04",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "11:30",
+                "endTime": "12:55",
+                "movieId": 15,
+                "movieTitle": "Pink Floyd at Pompeii",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "11:30",
+                "endTime": "12:55",
+                "movieId": 65,
+                "movieTitle": "Pink Floyd at Pompeii – MCMLXXII",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13052?mode=widget"
+              },
+              {
+                "time": "13:45",
+                "endTime": "15:44",
+                "movieId": 24,
+                "movieTitle": "Oslo-Stories: Liebe",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "13:45",
+                "endTime": "15:44",
+                "movieId": 61,
+                "movieTitle": "Oslo-Stories: Liebe",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13041?mode=widget"
+              },
+              {
+                "time": "16:00",
+                "endTime": "17:30",
+                "movieId": 23,
+                "movieTitle": "Voilà, Papa! - Der fast perfekte Schwiegersohn",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "16:00",
+                "endTime": "17:30",
+                "movieId": 64,
+                "movieTitle": "Voilà, Papa! - Der fast perfekte Schwiegersohn",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13045?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:26",
+                "movieId": 25,
+                "movieTitle": "Was Marielle weiß",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:26",
+                "movieId": 60,
+                "movieTitle": "Was Marielle weiß",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13049?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "22:04",
+                "movieId": 6,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:00",
+                "endTime": "22:04",
+                "movieId": 62,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13037?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-05-05",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:49",
+                "movieId": 6,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:49",
+                "movieId": 62,
+                "movieTitle": "Klandestin",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13038?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:41",
+                "movieId": 25,
+                "movieTitle": "Was Marielle weiß",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:41",
+                "movieId": 60,
+                "movieTitle": "Was Marielle weiß",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13050?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -349,45 +462,45 @@
             "showings": [
               {
                 "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 8,
-                "movieTitle": "Funny Birds",
+                "endTime": "19:30",
+                "movieId": 23,
+                "movieTitle": "Voilà, Papa! - Der fast perfekte Schwiegersohn",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12965?mode=widget&layout=movies&design=new&rb=0&showId=12965&sessid=ukk0hmii8dut8mq8mjvmin1ccu"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 72,
-                "movieTitle": "Funny Birds",
+                "endTime": "19:30",
+                "movieId": 64,
+                "movieTitle": "Voilà, Papa! - Der fast perfekte Schwiegersohn",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12965?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13046?mode=widget"
               },
               {
-                "time": "20:00",
-                "endTime": "22:00",
-                "movieId": 59,
-                "movieTitle": "BOLERO",
+                "time": "20:15",
+                "endTime": "22:19",
+                "movieId": 6,
+                "movieTitle": "Klandestin",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12961?mode=widget&layout=movies&design=new&rb=0&showId=12961&sessid=58qb4i0j8214t0igaoshce1dob"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
-                "time": "20:00",
-                "endTime": "22:00",
-                "movieId": 76,
-                "movieTitle": "BOLERO",
+                "time": "20:15",
+                "endTime": "22:19",
+                "movieId": 62,
+                "movieTitle": "Klandestin",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12961?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13039?mode=widget"
               }
             ]
           }
@@ -396,64 +509,7 @@
     ]
   },
   {
-    "date": "2025-04-08",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 16,
-                "movieTitle": "Niki de Saint Phalle",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12974?mode=widget&layout=movies&design=new&rb=0&showId=12974&sessid=53cjpgqarjqdkotlrl7je099lo"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 71,
-                "movieTitle": "Niki de Saint Phalle",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12974?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:10",
-                "movieId": 17,
-                "movieTitle": "Köln 75",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12969?mode=widget&layout=movies&design=new&rb=0&showId=12969&sessid=53cjpgqarjqdkotlrl7je099lo"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:10",
-                "movieId": 70,
-                "movieTitle": "Köln 75",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12969?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-04-09",
+    "date": "2025-05-07",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -463,43 +519,43 @@
             "showings": [
               {
                 "time": "17:30",
-                "endTime": "19:25",
-                "movieId": 17,
-                "movieTitle": "Köln 75",
+                "endTime": "19:34",
+                "movieId": 6,
+                "movieTitle": "Klandestin",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12970?mode=widget&layout=movies&design=new&rb=0&showId=12970&sessid=53cjpgqarjqdkotlrl7je099lo"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "17:30",
-                "endTime": "19:25",
-                "movieId": 70,
-                "movieTitle": "Köln 75",
+                "endTime": "19:34",
+                "movieId": 62,
+                "movieTitle": "Klandestin",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12970?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13040?mode=widget"
               },
               {
                 "time": "20:00",
-                "endTime": "21:38",
-                "movieId": 16,
-                "movieTitle": "Niki de Saint Phalle",
+                "endTime": "21:26",
+                "movieId": 25,
+                "movieTitle": "Was Marielle weiß",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12973?mode=widget&layout=movies&design=new&rb=0&showId=12973&sessid=53cjpgqarjqdkotlrl7je099lo"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "20:00",
-                "endTime": "21:38",
-                "movieId": 71,
-                "movieTitle": "Niki de Saint Phalle",
+                "endTime": "21:26",
+                "movieId": 60,
+                "movieTitle": "Was Marielle weiß",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12973?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13051?mode=widget"
               }
             ]
           }
@@ -508,33 +564,7 @@
     ]
   },
   {
-    "date": "2025-04-17",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "22:00",
-                "endTime": "23:17",
-                "movieId": 34,
-                "movieTitle": "Lesvia (Λεσβία)",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12923?mode=widget&layout=movies&design=new&rb=0&showId=12923&sessid=58qb4i0j8214t0igaoshce1dob"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-05-15",
+    "date": "2025-05-22",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -545,12 +575,12 @@
               {
                 "time": "22:00",
                 "endTime": "23:35",
-                "movieId": 35,
+                "movieId": 40,
                 "movieTitle": "Blindgänger",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12924?mode=widget&layout=movies&design=new&rb=0&showId=12924&sessid=58qb4i0j8214t0igaoshce1dob"
+                "iframeUrl": "Unknown iframe URL"
               }
             ]
           }
@@ -570,13 +600,13 @@
               {
                 "time": "22:00",
                 "endTime": "23:39",
-                "movieId": 36,
+                "movieId": 41,
                 "movieTitle": "The Mattachine Family",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12925?mode=widget&layout=movies&design=new&rb=0&showId=12925&sessid=58qb4i0j8214t0igaoshce1dob"
+                "iframeUrl": "Unknown iframe URL"
               }
             ]
           }
