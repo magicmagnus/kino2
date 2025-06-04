@@ -40,500 +40,438 @@
         "name": "Atelier",
         "dates": [
           {
-            "date": "2025-05-21",
+            "date": "2025-06-04",
             "showings": [
               {
-                "time": "17:30",
-                "endTime": "19:20",
-                "movieId": 20,
-                "movieTitle": "Oslo-Stories: Träume",
+                "time": "18:00",
+                "endTime": "19:33",
+                "movieId": 16,
+                "movieTitle": "Black Bag - Doppeltes Spiel",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13077?mode=widget&layout=movies&design=new&rb=0&showId=13077"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:20",
-                "movieId": 49,
-                "movieTitle": "Oslo-Stories: Träume",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13077?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:00",
-                "movieId": 13,
-                "movieTitle": "Islands",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13089?mode=widget&layout=movies&design=new&rb=0&showId=13089"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:00",
-                "movieId": 48,
-                "movieTitle": "ISLANDS",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13089?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-05-22",
-            "showings": [
-              {
-                "time": "17:00",
-                "endTime": "19:00",
-                "movieId": 13,
-                "movieTitle": "Islands",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13095?mode=widget&layout=movies&design=new&rb=0&showId=13095"
-              },
-              {
-                "time": "17:00",
-                "endTime": "19:00",
-                "movieId": 48,
-                "movieTitle": "ISLANDS",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13095?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:28",
-                "movieId": 21,
-                "movieTitle": "Oslo Stories: Sehnsucht",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13107?mode=widget&layout=movies&design=new&rb=0&showId=13107"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:28",
-                "movieId": 50,
-                "movieTitle": "Oslo Stories: Sehnsucht",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13107?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:35",
-                "movieId": 36,
-                "movieTitle": "Blindgänger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13014?mode=widget&layout=movies&design=new&rb=0&showId=13014"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:35",
-                "movieId": 51,
-                "movieTitle": "Blindgänger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13014?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-05-23",
-            "showings": [
-              {
-                "time": "16:00",
-                "endTime": "17:36",
-                "movieId": 19,
-                "movieTitle": "Die Legende von Ochi",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13093?mode=widget&layout=movies&design=new&rb=0&showId=13093"
-              },
-              {
-                "time": "16:00",
-                "endTime": "17:36",
-                "movieId": 52,
-                "movieTitle": "Die Legende von Ochi",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13093?mode=widget"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "18:00",
-                "endTime": "19:58",
-                "movieId": 21,
-                "movieTitle": "Oslo Stories: Sehnsucht",
+                "endTime": "19:33",
+                "movieId": 43,
+                "movieTitle": "Black Bag - Doppeltes Spiel",
                 "attributes": [
-                  "2D"
+                  "2D",
+                  "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13103?mode=widget&layout=movies&design=new&rb=0&showId=13103"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13115?mode=widget"
               },
               {
-                "time": "18:00",
-                "endTime": "19:58",
-                "movieId": 50,
-                "movieTitle": "Oslo Stories: Sehnsucht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13103?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:15",
-                "movieId": 13,
-                "movieTitle": "Islands",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13096?mode=widget&layout=movies&design=new&rb=0&showId=13096"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:15",
-                "movieId": 48,
-                "movieTitle": "ISLANDS",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13096?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-05-24",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "17:06",
+                "time": "20:00",
+                "endTime": "21:50",
                 "movieId": 19,
-                "movieTitle": "Die Legende von Ochi",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13094?mode=widget&layout=movies&design=new&rb=0&showId=13094"
-              },
-              {
-                "time": "15:30",
-                "endTime": "17:06",
-                "movieId": 52,
-                "movieTitle": "Die Legende von Ochi",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13094?mode=widget"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:30",
-                "movieId": 13,
-                "movieTitle": "Islands",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13097?mode=widget&layout=movies&design=new&rb=0&showId=13097"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:30",
-                "movieId": 48,
-                "movieTitle": "ISLANDS",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13097?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:32",
-                "movieId": 7,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13090?mode=widget&layout=movies&design=new&rb=0&showId=13090"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:32",
-                "movieId": 53,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13090?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-05-25",
-            "showings": [
-              {
-                "time": "11:00",
-                "endTime": "12:50",
-                "movieId": 12,
                 "movieTitle": "Mein Platz ist hier",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13101?mode=widget&layout=movies&design=new&rb=0&showId=13101"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
-                "time": "11:00",
-                "endTime": "12:50",
-                "movieId": 54,
+                "time": "20:00",
+                "endTime": "21:50",
+                "movieId": 44,
                 "movieTitle": "Mein Platz ist hier",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13101?mode=widget"
-              },
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13126?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-05",
+            "showings": [
               {
-                "time": "15:30",
-                "endTime": "17:22",
+                "time": "17:45",
+                "endTime": "19:44",
                 "movieId": 10,
-                "movieTitle": "Transamazonia",
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 46,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13132?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 9,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 45,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13139?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-06",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 9,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 45,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13140?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 10,
+                "movieTitle": "On Swift Horses",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13108?mode=widget&layout=movies&design=new&rb=0&showId=13108"
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 46,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13136?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-07",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 9,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 45,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13141?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 10,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 46,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13133?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-08",
+            "showings": [
+              {
+                "time": "11:30",
+                "endTime": "14:07",
+                "movieId": 14,
+                "movieTitle": "Der Meister und Margarita",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "11:30",
+                "endTime": "14:07",
+                "movieId": 48,
+                "movieTitle": "Der Meister und Margarita",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13131?mode=widget"
+              },
+              {
+                "time": "15:00",
+                "endTime": "17:17",
+                "movieId": 17,
+                "movieTitle": "Blood & Sinners",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "15:00",
+                "endTime": "17:17",
+                "movieId": 47,
+                "movieTitle": "Blood & Sinners",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13129?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 9,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 45,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13142?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 10,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 46,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13137?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-09",
+            "showings": [
+              {
+                "time": "15:30",
+                "endTime": "17:29",
+                "movieId": 10,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "15:30",
-                "endTime": "17:22",
-                "movieId": 55,
-                "movieTitle": "Transamazonia",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13108?mode=widget"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:43",
-                "movieId": 21,
-                "movieTitle": "Oslo Stories: Sehnsucht",
+                "endTime": "17:29",
+                "movieId": 46,
+                "movieTitle": "On Swift Horses",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13104?mode=widget&layout=movies&design=new&rb=0&showId=13104"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13134?mode=widget"
               },
               {
-                "time": "17:45",
-                "endTime": "19:43",
-                "movieId": 50,
-                "movieTitle": "Oslo Stories: Sehnsucht",
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 9,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13104?mode=widget"
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 45,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13143?mode=widget"
               },
               {
                 "time": "20:15",
-                "endTime": "22:15",
-                "movieId": 13,
-                "movieTitle": "Islands",
+                "endTime": "22:32",
+                "movieId": 17,
+                "movieTitle": "Blood & Sinners",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13100?mode=widget&layout=movies&design=new&rb=0&showId=13100"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "20:15",
-                "endTime": "22:15",
-                "movieId": 48,
-                "movieTitle": "ISLANDS",
+                "endTime": "22:32",
+                "movieId": 47,
+                "movieTitle": "Blood & Sinners",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13100?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13130?mode=widget"
               }
             ]
           },
           {
-            "date": "2025-05-26",
+            "date": "2025-06-10",
             "showings": [
               {
-                "time": "17:15",
-                "endTime": "19:13",
-                "movieId": 21,
-                "movieTitle": "Oslo Stories: Sehnsucht",
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 10,
+                "movieTitle": "On Swift Horses",
                 "attributes": [
-                  "2D"
+                  "2D",
+                  "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13105?mode=widget&layout=movies&design=new&rb=0&showId=13105"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
-                "time": "17:15",
-                "endTime": "19:13",
-                "movieId": 50,
-                "movieTitle": "Oslo Stories: Sehnsucht",
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 46,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13138?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 9,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13105?mode=widget"
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 45,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13144?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-11",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:23",
+                "movieId": 9,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:23",
+                "movieId": 45,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13145?mode=widget"
               },
               {
                 "time": "20:00",
-                "endTime": "22:17",
-                "movieId": 7,
-                "movieTitle": "Blood & Sinners",
+                "endTime": "21:59",
+                "movieId": 10,
+                "movieTitle": "On Swift Horses",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13091?mode=widget&layout=movies&design=new&rb=0&showId=13091"
+                "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "20:00",
-                "endTime": "22:17",
-                "movieId": 53,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13091?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-05-27",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:35",
-                "movieId": 12,
-                "movieTitle": "Mein Platz ist hier",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13102?mode=widget&layout=movies&design=new&rb=0&showId=13102"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:35",
-                "movieId": 54,
-                "movieTitle": "Mein Platz ist hier",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13102?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:15",
-                "movieId": 13,
-                "movieTitle": "Islands",
+                "endTime": "21:59",
+                "movieId": 46,
+                "movieTitle": "On Swift Horses",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13098?mode=widget&layout=movies&design=new&rb=0&showId=13098"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:15",
-                "movieId": 48,
-                "movieTitle": "ISLANDS",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13098?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-05-28",
-            "showings": [
-              {
-                "time": "16:30",
-                "endTime": "18:30",
-                "movieId": 13,
-                "movieTitle": "Islands",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13099?mode=widget&layout=movies&design=new&rb=0&showId=13099"
-              },
-              {
-                "time": "16:30",
-                "endTime": "18:30",
-                "movieId": 48,
-                "movieTitle": "ISLANDS",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13099?mode=widget"
-              },
-              {
-                "time": "19:00",
-                "endTime": "20:58",
-                "movieId": 21,
-                "movieTitle": "Oslo Stories: Sehnsucht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13106?mode=widget&layout=movies&design=new&rb=0&showId=13106"
-              },
-              {
-                "time": "19:00",
-                "endTime": "20:58",
-                "movieId": 50,
-                "movieTitle": "Oslo Stories: Sehnsucht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13106?mode=widget"
-              },
-              {
-                "time": "21:30",
-                "endTime": "23:47",
-                "movieId": 7,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/13092?mode=widget&layout=movies&design=new&rb=0&showId=13092"
-              },
-              {
-                "time": "21:30",
-                "endTime": "23:47",
-                "movieId": 53,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13092?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13135?mode=widget"
               }
             ]
           },
@@ -543,13 +481,13 @@
               {
                 "time": "22:00",
                 "endTime": "23:39",
-                "movieId": 37,
+                "movieId": 32,
                 "movieTitle": "The Mattachine Family",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/show/12925?mode=widget&layout=movies&design=new&rb=0&showId=12925"
+                "iframeUrl": "Unknown iframe URL"
               }
             ]
           }

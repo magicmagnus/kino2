@@ -21,187 +21,6 @@
     ],
     "showtimes": [
       {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "14:30",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:45",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "13:45",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "16:30",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:15",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "17:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:45",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "17:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:45",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
         "date": "2025-06-04",
         "shows": [
           {
@@ -209,6 +28,188 @@
             "theater": "Blaue Brücke - Saal 1 | Tarantino",
             "attributes": [
               "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:45",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:45",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "15:15",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:45",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "15:15",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:45",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:30",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "14:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:45",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D",
+              "OmdU"
             ],
             "iframeUrl": "Unknown iframe URL"
           },
@@ -229,281 +230,35 @@
   },
   {
     "id": 1,
-    "title": "Lilo & Stitch / ЛІЛО І СТІЧ (ukrainische Sprachfassung)",
-    "duration": "108 min",
-    "fsk": "6",
-    "genre": "Komödie, Science Fiction, Familie",
+    "title": "From the World of John Wick: Ballerina",
+    "duration": "125 min",
+    "fsk": "18",
+    "genre": "Action, Thriller, Krimi",
     "origTitle": "Unknown Original Title",
     "production": "Vereinigte Staaten",
-    "releaseDate": "22.05.2025",
-    "distributor": "Walt Disney",
-    "director": "Dean Fleischer Camp",
-    "description": "«Ліло та Стіч» — це живий ремейк однойменного мультфільму студії Дісней 2002 року. Він розповідає смішну та зворушливу історію самотньої гавайської дівчинки та недовговічного інопланетянина, який допомагає їй врятувати свою зруйновану сім'ю. Режисер Деан Флейшер Камп, номінований на премію Оскар® режисер анімаційного фільму «Марсель, черепашка з черевичками», зіграли головні ролі: Майя Кеалоха, Сідней Елізабет Агудон, Біллі Магнассен, Тіа Каррере, Ханна Уддінг, Кріс Сандерс, Кортні Б. Ванс та Зак Галіфіанакіс. «Lilo & Stitch» продюсують Джонатан Еріх та Ден Лін, Том Піццман та Райан Халпрін виступають виконавчими продюсерами.<br><br>\"Lilo & Stitch“ ist eine Live-Action-Neuverfilmung des gleichnamigen Disney-Zeichentrickklassikers aus dem Jahr 2002. Er erzählt die witzige und rührende Geschichte eines einsamen hawaiianischen Mädchens und des flüchtigen Außerirdischen, der ihr hilft, ihre kaputte Familie zu retten. Unter der Regie von Dean Fleischer Camp, dem Oscar®-nominierten Filmemacher des Animationsfilms „Marcel the Shell with Shoes On“, spielen Maia Kealoha, Sydney Elizebeth Agudong, Billy Magnussen, Tia Carrere, Hannah Waddingham, Chris Sanders, Courtney B. Vance und Zach Galifianakis die Hauptrollen. „Lilo & Stitch“ wird von Jonathan Eirich und Dan Lin produziert, Tom Peitzman und Ryan Halprin fungieren als ausführende Produzenten.",
-    "posterUrl": "https://static.kinoheld.de/images/film/lilo-stitch-lilo-i-stich-ukrainische-sprachfassung-74987.v17476556053048.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/VWqJifMMgZE?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "releaseDate": "05.06.2025",
+    "distributor": "LEONINE Studios",
+    "director": "Len Wiseman",
+    "description": "Ana de Armas alias Eve Macarro schwört Vergeltung für den Mord an ihrer Familie. Der Film, der während der Ereignisse von „John Wick: Kapitel 3“ spielt, folgt der jungen Rächerin, die bei den berüchtigten Ruska-Roma ihre Ausbildung in der Kunst des Tötens beginnt.",
+    "posterUrl": "https://static.kinoheld.de/images/film/ballerina-74381.v17463314822749.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/MQZ236TzzKQ?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
-      "Zach Galifianakis",
-      "Courtney B. Vance",
-      "Billy Magnussen",
-      "Amy Hill"
+      "Gabriel Byrne",
+      "Anjelica Huston",
+      "Ana de Armas",
+      "Norman Reedus"
     ],
     "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "16:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 2,
-    "title": "Mission: Impossible - The Final Reckoning",
-    "duration": "170 min",
-    "fsk": "12",
-    "genre": "Abenteuer, Action, Thriller",
-    "origTitle": "Mission: Impossible - The Final Reckoning",
-    "production": "Vereinigtes Königreich, Vereinigte Staaten",
-    "releaseDate": "21.05.2025",
-    "distributor": "Paramount Pictures Germany GmbH",
-    "director": "Christopher McQuarrie",
-    "description": "Ethan Hunt kehrt ein letztes Mal zurück. Waghalsige Stunts, handgemachte Verfolgungsjagden, Verkleidungen, doppeltes Spiel und internationale Schauplätze inklusive.",
-    "posterUrl": "https://static.kinoheld.de/images/film/mission-impossible-the-final-reckoning-74593.v17467632674119.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/3eww-MnQJVc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Austin Haynes",
-      "Tom Cruise",
-      "Hayley Atwell",
-      "Ving Rhames"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "17:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "13:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "14:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "21:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "14:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "21:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "13:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "16:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "16:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "16:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
       {
         "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
         "shows": [
           {
-            "time": "16:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
             "attributes": [
               "2D",
               "OmdU"
@@ -511,8 +266,140 @@
             "iframeUrl": "Unknown iframe URL"
           },
           {
-            "time": "19:30",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "time": "20:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "18:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "21:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "18:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "21:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "18:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "21:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
             "attributes": [
               "2D"
             ],
@@ -526,7 +413,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Der Phönizische Meisterstreich",
     "duration": "101 min",
     "fsk": "12",
@@ -547,14 +434,10 @@
     ],
     "showtimes": [
       {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
+        "date": "2025-06-04",
         "shows": [
           {
-            "time": "15:00",
+            "time": "17:30",
             "theater": "Museum - Saal 1 | Almodóvar",
             "attributes": [
               "2D"
@@ -562,7 +445,103 @@
             "iframeUrl": "Unknown iframe URL"
           },
           {
-            "time": "17:15",
+            "time": "20:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "12:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "14:45",
             "theater": "Museum - Saal 1 | Almodóvar",
             "attributes": [
               "2D"
@@ -581,28 +560,33 @@
         ]
       },
       {
-        "date": "2025-05-30",
+        "date": "2025-06-09",
         "shows": [
           {
-            "time": "14:45",
+            "time": "17:30",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:45",
             "theater": "Museum - Saal 2 | Coppola",
             "attributes": [
               "2D",
               "OmdU"
             ],
             "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
           {
             "time": "20:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
+            "theater": "Museum - Saal 3 | Arsenal",
             "attributes": [
               "2D"
             ],
@@ -611,110 +595,7 @@
         ]
       },
       {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "15:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:30",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "14:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:30",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-04",
+        "date": "2025-06-11",
         "shows": [
           {
             "time": "17:30",
@@ -741,317 +622,188 @@
     ]
   },
   {
-    "id": 4,
-    "title": "Die Vorkosterinnen",
-    "duration": "123 min",
+    "id": 3,
+    "title": "Mission: Impossible - The Final Reckoning",
+    "duration": "170 min",
     "fsk": "12",
-    "genre": "Drama",
-    "origTitle": "Le assaggiatrici",
-    "production": "Deutschland, Schweiz, Belgien, Italien",
-    "releaseDate": "29.05.2025",
-    "distributor": "Busch Media Group",
-    "director": "Silvio Soldini",
-    "description": "Herbst 1943: Berlin wird bombadiert und die junge Rosa Sauer flüchtet ins ländliche Ostpreußen, während ihr Mann als Soldat an der Ostfront kämpft.\nIn der Nähe des Dorfes befindet sich jedoch Hitlers Hauptquartier „Wolfsschanze“: Rosa und andere Frauen werden von der SS zwangsrekrutiert und müssen als Vorkosterinnen für die Mahlzeiten dienen, die Hitler hier serviert werden. Die Situation eskaliert, als im Sommer 1944 das Attentat von Stauffenberg fehlschlägt und drakonische Maßnahmen die Folge sind. Den Frauen wird gewahr, dass das nächste Attentat auf Hitler vielleicht mit Gift erfolgen könnte und sie in Lebensgefahr schweben – zumal die rote Armee immer näher rückt. Als Rosa erfährt, dass eine der Frauen Jüdin ist, muss sie einen Weg finden, sich und ihre Freundin vor dem sicheren Tod zu retten.<br><br>Nach dem auf wahren Begebenheiten beruhenden italienischen Bestsellerroman inszenierte Regisseur Silvio Soldini (Brot & Tulpen) einen mitreißenden Film über weiblichen Widerstand in einem bisher kaum bekannten Kapitel der NS-Diktatur.",
-    "posterUrl": "https://static.kinoheld.de/images/film/die-vorkosterinnen-73233.v17442849984916.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/HYa1NJfSajM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "genre": "Abenteuer, Action, Thriller",
+    "origTitle": "Mission: Impossible - The Final Reckoning",
+    "production": "Vereinigtes Königreich, Vereinigte Staaten",
+    "releaseDate": "21.05.2025",
+    "distributor": "Paramount Pictures Germany GmbH",
+    "director": "Christopher McQuarrie",
+    "description": "Ethan Hunt kehrt ein letztes Mal zurück. Waghalsige Stunts, handgemachte Verfolgungsjagden, Verkleidungen, doppeltes Spiel und internationale Schauplätze inklusive.",
+    "posterUrl": "https://static.kinoheld.de/images/film/mission-impossible-the-final-reckoning-74593.v17467632674119.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/3eww-MnQJVc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
-      "Alessandro Passi",
-      "Paolo Grossi",
-      "Jürgen Wink",
-      "Berit Vander"
+      "Austin Haynes",
+      "Tom Cruise",
+      "Hayley Atwell",
+      "Ving Rhames"
     ],
     "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "15:45",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "15:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "11:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 5,
-    "title": "Alle lieben Touda",
-    "duration": "102 min",
-    "fsk": "16",
-    "genre": "Drama",
-    "origTitle": "في حب تودا",
-    "production": "Unknown Production",
-    "releaseDate": "29.05.2025",
-    "distributor": "Unknown Distributor",
-    "director": "Nabil Ayouch",
-    "description": "Die alleinerziehende Touda träumt nur von einem: eine Sheikha zu sein: eine traditionelle marokkanische Künstlerin, die von den Texten der kämpferischen Dichterinnen, die vor ihr lebten, gestärkt wird – mit ihren Liedern über Widerstand, Liebe und Emanzipation. Touda, die jeden Abend in den Bars der Provinz unter den lüsternen Blicken der Männer auftritt, plant, ihre kleine Stadt zu verlassen und in die hellen Lichter von Casablanca zu ziehen, wo sie hofft, als echte Künstlerin anerkannt zu werden und eine bessere Zukunft für sich und ihren Sohn zu sichern.",
-    "posterUrl": "https://static.kinoheld.de/images/film/everybody-loves-touda-64837.v17482799569193.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/xxyYMQytM50?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Nisrin Erradi",
-      "Jalila Talemsi",
-      "Joud Chamihy",
-      "El Moustafa Boutankite"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "OmdU"
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Monsieur Aznavour",
-    "duration": "134 min",
-    "fsk": "0",
-    "genre": "Musik, Historie",
-    "origTitle": "Unknown Original Title",
-    "production": "Frankreich",
-    "releaseDate": "22.05.2025",
-    "distributor": "Weltkino Filmverleih",
-    "director": "Grand Corps Malade, Mehdi Idir",
-    "description": "Paris in den 1930er Jahren. Als der kleine Charles für ein paar Münzen an einem Theaterstück mitwirkt, entdeckt er sein Talent für die Bühne und beschließt Sänger zu werden. Die Bedingungen dafür sind denkbar schlecht: Ohne Geld, als Sohn armenischer Einwanderer und mit einer ungewöhnlichen Stimme glaubt niemand an seinen Erfolg. Von unbändigem Ehrgeiz getrieben, scheut Charles weder Mühe noch Risiko und als die Chanson-Ikone Edith Piaf auf ihn aufmerksam wird, scheint der Ruhm zum Greifen nahe. Doch ist er für seinen Traum bereit, die Menschen zurückzulassen, die er liebt?<br><br>Mit weit mehr als 1000 Liedern, die in unzähligen Sprachen interpretiert wurden, hat Charles Aznavour Generationen begeistert. Tahar Rahim (DER MAURETANIER) verkörpert den legendären Chansonnier in diesem beeindruckenden Biopic intensiv und authentisch mit all seinen Facetten.",
-    "posterUrl": "https://static.kinoheld.de/images/film/monsieur-aznavour-74371.v17460721409387.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/ugCLJuLTVEw?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Tahar Rahim",
-      "Bastien Bouillon",
-      "Marie-Julie Baup",
-      "Luc Antoni"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "14:15",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "16:30",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "19:45",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
       {
         "date": "2025-06-04",
         "shows": [
           {
-            "time": "20:15",
-            "theater": "Museum - Saal 2 | Coppola",
+            "time": "16:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
             "attributes": [
               "2D",
               "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "16:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "17:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "21:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "17:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "21:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "16:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "18:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "16:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "16:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
             ],
             "iframeUrl": "Unknown iframe URL"
           }
@@ -1063,17 +815,17 @@
     ]
   },
   {
-    "id": 7,
+    "id": 4,
     "title": "Drachenzähmen leicht gemacht",
     "duration": "125 min",
     "fsk": "12",
-    "genre": "Abenteuer, Action",
+    "genre": "Action, Fantasy, Familie",
     "origTitle": "How to Train Your Dragon",
     "production": "Frankreich, Vereinigtes Königreich, Vereinigte Staaten",
     "releaseDate": "12.06.2025",
     "distributor": "Universal Pictures International",
     "director": "Dean Deblois",
-    "description": "Auf der schroffen Insel Berk, wo seit Generationen eine erbitterte Feindschaft zwischen Wikingern und Drachen wütet, erweist sich Hicks als Außenseiter. Der einfallsreiche, jedoch unterschätzte Sohn von Häuptling Haudrauf widersetzt sich jahrhundertealten Traditionen, als er sich mit dem gefürchteten Nachtschatten-Drachen Ohnezahn anfreundet. Ihre außergewöhnliche Verbindung enthüllt nicht nur die wahre Natur der Drachen – sie stellt die Werteordnung aller Wikinger in Frage. Mit der ehrgeizigen und kämpferischen Astrid und dem schrulligen Waffenschmied Grobian an seiner Seite stellt sich Hicks einer Welt, die von Angst und Missverständnissen zerfressen ist. Als eine alte Bedrohung sowohl Wikinger als auch Drachen in Gefahr bringt, wird seine Freundschaft zu Ohnezahn zum Schlüssel für eine bessere Zukunft.",
+    "description": "Auf der schroffen Insel Berk, wo seit Generationen eine erbitterte Feindschaft zwischen Wikingern und Drachen wütet, erweist sich Hicks als Außenseiter. Der einfallsreiche, jedoch unterschätzte Sohn von Häuptling Haudrauf widersetzt sich jahrhundertealten Traditionen, als er sich mit dem gefürchteten Nachtschatten-Drachen Ohnezahn anfreundet. Ihre außergewöhnliche Verbindung enthüllt nicht nur die wahre Natur der Drachen – sie stellt die Werteordnung aller Wikinger in Frage. Mit der ehrgeizigen und kämpferischen Astrid und dem schrulligen Waffenschmied Grobian an seiner Seite stellt sich Hicks einer Welt, die von Angst und Missverständnissen zerfressen ist.",
     "posterUrl": "https://static.kinoheld.de/images/film/drachenzaehmen-leicht-gemacht-68949.v17460131853750.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/K1jwE6VuKFU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
@@ -1083,6 +835,26 @@
       "Mason Thames"
     ],
     "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": []
+      },
       {
         "date": "2025-06-09",
         "shows": [
@@ -1103,7 +875,7 @@
             "iframeUrl": "Unknown iframe URL"
           },
           {
-            "time": "20:00",
+            "time": "19:45",
             "theater": "Blaue Brücke - Saal 1 | Tarantino",
             "attributes": [
               "2D",
@@ -1135,7 +907,992 @@
     ]
   },
   {
+    "id": 5,
+    "title": "Chaos und Stille",
+    "duration": "83 min",
+    "fsk": "12",
+    "genre": "Drama, Komödie",
+    "origTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "05.06.2025",
+    "distributor": "NEUE VISIONEN",
+    "director": "Anatol Schuster",
+    "description": "Jean ist Komponist, seine Frau Helena Pianistin. Von ihrer Musik können sie nicht leben und schon gar nicht ihre Tochter ernähren. Bis ihre Vermieterin Klara ihnen die Miete erlässt, ihren Job kündigt und fortan auf dem Hausdach lebt. Ein radikaler Schritt, der sich als Katalysator für Jeans Kreativität und Helenas soziales Engagement erweist. Schon bald wird das Haus zum lebendigen Epizentrum einer sich auf die ganze Stadt ausweitenden Sinnsuche. Doch während die Diskussionen über den Sinn des Lebens lauter werden, zieht sich Klara immer weiter in sich selbst zurück - bis sie eine wundersame Lösung für das nicht enden wollende Chaos entdeckt.",
+    "posterUrl": "https://static.kinoheld.de/images/film/chaos-und-stille-72345.v17470405059465.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/7zhIAFaRdWg?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Sabine Timoteo",
+      "Anton von Lucke",
+      "Michael Wittenborn",
+      "Maria Spanring"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "18:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "18:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 6,
+    "title": "Im Prinzip Familie",
+    "duration": "91 min",
+    "fsk": "0",
+    "genre": "Dokumentarfilm",
+    "origTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "05.06.2025",
+    "distributor": "Camino Filmverleih",
+    "director": "Daniel Abma",
+    "description": "In einem Haus am Ufer eines idyllischen Sees, umgeben von dichten Wäldern, arbeiten drei Erzieher:innen im Schichtdienst in einer Wohngruppe. Die Kinder nennen sie Herr Wagner, Frau Wagner und Herr Gerecke. Kochen, waschen, einkaufen und die Kinder mit dem Kleintransporter zur Schule und Freizeitaktivitäten zu bringen, gehört ebenso zu ihrem Alltag, wie zuhören, trösten, auf dem Sofa kuscheln, Filmabende und Gute-Nacht-Geschichten vorlesen. Die Betreuer:innen wollen keine Ersatzeltern sein, und dennoch zeigen, wie sich ein familiäres Miteinander anfühlen kann.\n\nAlle fünf Kinder, die hier leben, vereint vor allem eines: der Wunsch eines Tages nach Hause zurückzukehren. Dafür setzen sich die Erzieher:innen unermüdlich ein: sie sprechen mit Vormund, Eltern und Jugendamt, dokumentieren, organisieren, setzen gemeinsam Ziele und treffen Verabredungen – und sind nicht selten darüber enttäuscht, dass diese nicht eingehalten werden. Das erinnert an einen Kampf gegen Windmühlen, an den Grenzen eines überforderten Systems.<br><br>Was früher das Dorf war, ist heute der komplexe Apparat der Kinder- und Jugendhilfe. Spätestens seit der Pandemie gilt das Berufsfeld als systemrelevant, und dennoch bleibt die besondere wie herausfordernde Arbeit der Fachkräfte, ihr engagierter Einsatz zum Wohl der Kinder, meist unsichtbar. IM PRINZIP FAMILIE gewährt über ein Jahr lang einen intimen Einblick in den Alltag der Kinder- und Jugendhilfe und richtet den Fokus auf die Menschen im Hintergrund, die Tag für Tag daran arbeiten, den Kindern das zu geben, was sie am meisten brauchen: Geborgenheit und jemanden, der auf ihrer Seite steht.",
+    "posterUrl": "https://static.kinoheld.de/images/film/im-prinzip-familie-72113.v17422310054611.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/ZkNAyWZfCsg?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "13:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 7,
+    "title": "Akiko, der fliegende Affe",
+    "duration": "70 min",
+    "fsk": "0",
+    "genre": "Abenteuer",
+    "origTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "05.06.2025",
+    "distributor": "Farbfilm",
+    "director": "Veit Helmer",
+    "description": "Akiko ist ein mutiges Affenkind mit einer großen Mission: Er büxt aus dem Zoo aus, um die Affen zu finden, die im Wald in Freiheit leben. Dabei findet er viele neue Freunde wie einen Waschbären, ein Frettchen und ein Chamäleon, die ihm helfen, seinen Auftrag zu erfüllen. Um seine Familie zu befreien, geht er in die Lüfte – mit einem Modellflugzeug, mit einem Ballon und sogar auf dem Rücken eines Adlers! Diesen fliegenden Affen halten weder Zoowärter noch Polizei, und auch nicht die Schwerkraft auf…",
+    "posterUrl": "https://static.kinoheld.de/images/film/akiko-der-fliegende-affe-65353.v17445856100644.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/CO-XEhlM34s?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Benno Fürmann",
+      "Meret Becker",
+      "Heike Makatsch",
+      "Philipp Droste"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "14:45",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": []
+  },
+  {
     "id": 8,
+    "title": "Lioness – Die Löwin",
+    "duration": "85 min",
+    "fsk": "Unknown",
+    "genre": "Familie",
+    "origTitle": "Leeuwin",
+    "production": "Niederlande",
+    "releaseDate": "24.04.2025",
+    "distributor": "Der Filmverleih",
+    "director": "Raymond Grimbergen",
+    "description": "Rosi (Alyssa van Ommeren) hat ein perfektes Leben in Surinam: Sie wohnt in einem schönen Haus, hat viele Freunde und eine Leidenschaft für Fußball – bis sie plötzlich in die Niederlande ziehen muss und sich alles ändert. Durch ihre neue beste Freundin Jitte (Apollonia Sterckx) landet sie in der Mädchenfußballmannschaft der Schule. Nicht alle sind darüber glücklich, denn sie ist besser als die anderen. Wird sie es schaffen, ihren Traum, eine Orange Lioness zu werden, zu verwirklichen",
+    "posterUrl": "https://static.kinoheld.de/images/film/lioness-loewin-46841.v17442897665530.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/bs2z5VJdsFI?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Alyssa van Ommeren",
+      "Soumaya Ahouaoui",
+      "Apollonia Sterckx",
+      "Manou Jue Cardoso"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "16:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "16:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "14:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "16:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 9,
+    "title": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+    "duration": "98 min",
+    "fsk": "12",
+    "genre": "Drama, Abenteuer",
+    "origTitle": "Saint-Ex",
+    "production": "Belgien, Frankreich",
+    "releaseDate": "29.05.2025",
+    "distributor": "StudioCanal Deutschland",
+    "director": "Pablo Agüero",
+    "description": "Argentinien, 1930: Antoine de Saint-Exupéry ist Pilot des französischen Luftpostdienstes und fliegt an der Seite des legendären Flugkapitäns Henri Guillaumet. Auf der Suche nach immer kürzeren Flugrouten durch die Anden, wagt Guillaumet eine gefährliche Passage und stürzt mitten in den eisigen Bergen ab. Mithilfe von Guillaumets Frau Noëlle begibt sich Saint-Exupéry auf die gefährliche Suche nach seinem Freund. Getrieben von unerschütterlicher Entschlossenheit und voller Hoffnung, Guillaumet zu finden, entdeckt Saint-Exupéry, dass seine außergewöhnliche Vorstellungskraft seine größte Stärke ist. Zehn Jahre später veröffentlicht Saint-Exupéry eines der berühmtesten Bücher der Welt – „Der kleine Prinz“.<br><br>SAINT-EXUPÉRY ist ein fesselndes Rennen gegen die Zeit, ein filmisches Abenteuer in den atemberaubenden Landschaften der Anden und eine berührende Geschichte über eine unerschütterliche Freundschaft – einer Geschichte, die die Vorlage für eines der bekanntesten Bücher unserer Zeit bildet.",
+    "posterUrl": "https://static.kinoheld.de/images/film/saint-exupery-die-geschichte-vor-dem-kleinen-prinzen-71751.v17475025117306.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/OPJhwPx_sxU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Louis Garrel",
+      "Vincent Cassel",
+      "Diane Kruger",
+      "Sergej Onopko"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "Apéro Film",
+      "OmdU"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "On Swift Horses",
+    "duration": "119 min",
+    "fsk": "12",
+    "genre": "Drama, Lovestory",
+    "origTitle": "Unknown Original Title",
+    "production": "Vereinigte Staaten",
+    "releaseDate": "29.05.2025",
+    "distributor": "LEONINE Studios",
+    "director": "Daniel Minahan",
+    "description": "Kalifornien in den 50er Jahren. Muriel und ihr Mann Lee, der gerade als Soldat aus dem Korea-Krieg zurückgekehrt ist, wollen sich unter der kalifornischen Sonne ein Bilderbuchleben aufbauen. Ihren Traum wollen sie gemeinsam mit Lees Bruder verwirklichen, dem charismatischen Spieler Julius. Doch die unbeschwerte Dreiecksbeziehung endet abrupt, als Julius nach Las Vegas verschwindet. Dort hält er sich mit Poker und Glücksspiel über Wasser – und trifft auf Henry. Währenddessen fühlt sich Muriel in ihrem kalifornischen Alltag zunehmend gefangen und sehnt sich nach mehr im Leben. Bei heimlichen Pferdewetten hat sie Glück. Doch hält das Leben noch mehr für sie bereit?",
+    "posterUrl": "https://static.kinoheld.de/images/film/on-swift-horses-74369.v17460721177081.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/dAPXXE5Up8c?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Scott Lang",
+      "Ryan Fitzgerald",
+      "Anthony Palermo",
+      "Ted Barton"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "OmdU"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Die Vorkosterinnen",
+    "duration": "123 min",
+    "fsk": "12",
+    "genre": "Drama",
+    "origTitle": "Le assaggiatrici",
+    "production": "Deutschland, Schweiz, Belgien, Italien",
+    "releaseDate": "29.05.2025",
+    "distributor": "Busch Media Group",
+    "director": "Silvio Soldini",
+    "description": "Herbst 1943: Berlin wird bombadiert und die junge Rosa Sauer flüchtet ins ländliche Ostpreußen, während ihr Mann als Soldat an der Ostfront kämpft.\nIn der Nähe des Dorfes befindet sich jedoch Hitlers Hauptquartier „Wolfsschanze“: Rosa und andere Frauen werden von der SS zwangsrekrutiert und müssen als Vorkosterinnen für die Mahlzeiten dienen, die Hitler hier serviert werden. Die Situation eskaliert, als im Sommer 1944 das Attentat von Stauffenberg fehlschlägt und drakonische Maßnahmen die Folge sind. Den Frauen wird gewahr, dass das nächste Attentat auf Hitler vielleicht mit Gift erfolgen könnte und sie in Lebensgefahr schweben – zumal die rote Armee immer näher rückt. Als Rosa erfährt, dass eine der Frauen Jüdin ist, muss sie einen Weg finden, sich und ihre Freundin vor dem sicheren Tod zu retten.<br><br>Nach dem auf wahren Begebenheiten beruhenden italienischen Bestsellerroman inszenierte Regisseur Silvio Soldini (Brot & Tulpen) einen mitreißenden Film über weiblichen Widerstand in einem bisher kaum bekannten Kapitel der NS-Diktatur.",
+    "posterUrl": "https://static.kinoheld.de/images/film/die-vorkosterinnen-73233.v17442849984916.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/HYa1NJfSajM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Alessandro Passi",
+      "Paolo Grossi",
+      "Jürgen Wink",
+      "Berit Vander"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "17:30",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 12,
+    "title": "Alle lieben Touda",
+    "duration": "102 min",
+    "fsk": "16",
+    "genre": "Drama",
+    "origTitle": "في حب تودا",
+    "production": "Unknown Production",
+    "releaseDate": "29.05.2025",
+    "distributor": "Unknown Distributor",
+    "director": "Nabil Ayouch",
+    "description": "Die alleinerziehende Touda träumt nur von einem: eine Sheikha zu sein: eine traditionelle marokkanische Künstlerin, die von den Texten der kämpferischen Dichterinnen, die vor ihr lebten, gestärkt wird – mit ihren Liedern über Widerstand, Liebe und Emanzipation. Touda, die jeden Abend in den Bars der Provinz unter den lüsternen Blicken der Männer auftritt, plant, ihre kleine Stadt zu verlassen und in die hellen Lichter von Casablanca zu ziehen, wo sie hofft, als echte Künstlerin anerkannt zu werden und eine bessere Zukunft für sich und ihren Sohn zu sichern.",
+    "posterUrl": "https://static.kinoheld.de/images/film/everybody-loves-touda-64837.v17488765071922.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/xxyYMQytM50?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Nisrin Erradi",
+      "Jalila Talemsi",
+      "Joud Chamihy",
+      "El Moustafa Boutankite"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "OmdU"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Monsieur Aznavour",
+    "duration": "134 min",
+    "fsk": "0",
+    "genre": "Musik, Historie",
+    "origTitle": "Unknown Original Title",
+    "production": "Frankreich",
+    "releaseDate": "22.05.2025",
+    "distributor": "Weltkino Filmverleih",
+    "director": "Grand Corps Malade, Mehdi Idir",
+    "description": "Paris in den 1930er Jahren. Als der kleine Charles für ein paar Münzen an einem Theaterstück mitwirkt, entdeckt er sein Talent für die Bühne und beschließt Sänger zu werden. Die Bedingungen dafür sind denkbar schlecht: Ohne Geld, als Sohn armenischer Einwanderer und mit einer ungewöhnlichen Stimme glaubt niemand an seinen Erfolg. Von unbändigem Ehrgeiz getrieben, scheut Charles weder Mühe noch Risiko und als die Chanson-Ikone Edith Piaf auf ihn aufmerksam wird, scheint der Ruhm zum Greifen nahe. Doch ist er für seinen Traum bereit, die Menschen zurückzulassen, die er liebt?<br><br>Mit weit mehr als 1000 Liedern, die in unzähligen Sprachen interpretiert wurden, hat Charles Aznavour Generationen begeistert. Tahar Rahim (DER MAURETANIER) verkörpert den legendären Chansonnier in diesem beeindruckenden Biopic intensiv und authentisch mit all seinen Facetten.",
+    "posterUrl": "https://static.kinoheld.de/images/film/monsieur-aznavour-74371.v17460721409387.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/ugCLJuLTVEw?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Tahar Rahim",
+      "Bastien Bouillon",
+      "Marie-Julie Baup",
+      "Luc Antoni"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "15:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "12:45",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "15:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "14:45",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "OmdU"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Der Meister und Margarita",
+    "duration": "157 min",
+    "fsk": "12",
+    "genre": "Drama, Fantasy",
+    "origTitle": "Мастер и Маргарита",
+    "production": "Kroatien, Russland",
+    "releaseDate": "25.01.2024",
+    "distributor": "Capelight Pictures",
+    "director": "Michael Lockshin",
+    "description": "Moskau in den 1930er-Jahren: Das Werk eines bekannten Schriftstellers (Jewgeni Zyganow) wird vom sowjetischen Staat zensiert und die Premiere seines Theaterstücks abgesagt. Inspiriert von seiner Geliebten Margarita (Julia Snigir), beginnt er mit der Arbeit an einem neuen Roman, in dem er sämtliche Menschen aus seinem realen Leben in satirisch überspitzter Gestalt auftreten lässt. Im Mittelpunkt steht Woland (August Diehl) als mystisch-dunkle Macht, die Moskau besucht, um sich an all jenen zu rächen, die für den Ruin des Autors verantwortlich sind. Während der Meister, wie dieser sich fortan nennt, immer tiefer in seine Geschichte eintaucht, vermag er allmählich nicht mehr zwischen Realität und Fiktion zu unterscheiden …<br><br>DER MEISTER UND MARGARITA von Michael Lockshin („Silver Skates“) mit August Diehl als mysteriöse Teufelsfigur Woland basiert auf dem gleichnamigen Romanklassiker des Schriftstellers Michail Bulgakow, der darin Kritik am sowjetischen Überwachungsapparat übt. Wegen seines unverkennbaren Gegenwartsbezugs ist DER MEISTER UND MARGARITA vielleicht einer der mutigsten Filme überhaupt.",
+    "posterUrl": "https://static.kinoheld.de/images/film/der-meister-und-margarita-70547.v17430718194021.webp?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/Tp7nUypcsEo?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Claes Bang",
+      "Viktor Kim",
+      "Aleksandra Rozanova",
+      "Viktor Vorontsov"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "11:30",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 15,
     "title": "F1",
     "duration": "155 min",
     "fsk": "12",
@@ -1149,10 +1906,10 @@
     "posterUrl": "https://static.kinoheld.de/images/film/f1-72099.v17482686347859.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/3qxupuKRLHM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
+      "Lando Norris",
       "Brad Pitt",
       "Damson Idris",
-      "Kerry Condon",
-      "Javier Bardem"
+      "Kerry Condon"
     ],
     "showtimes": [
       {
@@ -1176,67 +1933,7 @@
     ]
   },
   {
-    "id": 9,
-    "title": "I Am The River, The River Is Me",
-    "duration": "88 min",
-    "fsk": "12",
-    "genre": "Dokumentarfilm",
-    "origTitle": "I Am the River, the River Is Me",
-    "production": "Niederlande, Norwegen",
-    "releaseDate": "08.05.2025",
-    "distributor": "Mindjazz Pictures UG",
-    "director": "Petr Lom",
-    "description": "Der Maori-Flusswächter Ned Tapa nimmt die Filmemacher:innen, internationale Wasservertreter:innen und Aktivist:innen mit auf eine Kanufahrt auf dem Whanganui River in Aotearoa, Neuseeland. Der 320 Kilometer lange Fluss ist der erste weltweit, der als juristische Person anerkannt wurde. Seit über 150 Jahren kämpfen die M?ori leidenschaftlich für den Schutz ihrer heiligen Lebensader. Auf diesem spirituellen Wasserweg teilen die Reisenden Geschichten von Widerstandskraft, Zerstörung und Heilung. Durch den Geist des Flusses als Begleiter und Erzähler reflektiert der Film über indigene Weisheit, die Verbundenheit allen Lebens und die globale Bewegung für die Rechte der Natur. Ein Aufruf, unsere Wertesysteme gegenüber der Natur und der Gemeinschaft zu überdenken - zum Wohle allen zukünftigen Lebens auf der Erde.",
-    "posterUrl": "https://static.kinoheld.de/images/film/i-am-the-river-the-river-is-me-64741.v17407048214973.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/JR3s3JG-p2k?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Ned Tapa",
-      "Desmond Canterbury",
-      "Richard Sidey",
-      "Justine Muller"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "11:30",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "OmdU"
-    ]
-  },
-  {
-    "id": 10,
+    "id": 16,
     "title": "Black Bag - Doppeltes Spiel",
     "duration": "93 min",
     "fsk": "12",
@@ -1257,108 +1954,6 @@
     ],
     "showtimes": [
       {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:30",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "19:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
         "date": "2025-06-04",
         "shows": [
           {
@@ -1371,6 +1966,45 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
       }
     ],
     "attributes": [
@@ -1378,7 +2012,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 17,
     "title": "Blood & Sinners",
     "duration": "137 min",
     "fsk": "16",
@@ -1392,17 +2026,33 @@
     "posterUrl": "https://static.kinoheld.de/images/film/blood-sinners-71953.v17430363704851.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/AL4BwibdBOc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
+      "Jack O'Connell",
       "Michael B. Jordan",
       "Hailee Steinfeld",
-      "Jack O'Connell",
       "Wunmi Mosaku"
     ],
     "showtimes": [
       {
-        "date": "2025-05-28",
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
         "shows": [
           {
-            "time": "21:30",
+            "time": "15:00",
             "theater": "Atelier",
             "attributes": [
               "2D",
@@ -1413,7 +2063,7 @@
         ]
       },
       {
-        "date": "2025-05-29",
+        "date": "2025-06-09",
         "shows": [
           {
             "time": "20:15",
@@ -1425,32 +2075,6 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "22:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
       }
     ],
     "attributes": [
@@ -1458,120 +2082,7 @@
     ]
   },
   {
-    "id": 12,
-    "title": "Tanz der Titanen",
-    "duration": "104 min",
-    "fsk": "16",
-    "genre": "Komödie, Horrorfilm",
-    "origTitle": "Rumours",
-    "production": "Deutschland, Kanada, Vereinigtes Königreich, Ungarn, Vereinigte Staaten",
-    "releaseDate": "15.05.2025",
-    "distributor": "Plaion Pictures",
-    "director": "Guy Maddin, Evan Johnson, Galen Johnson",
-    "description": "Mit Oscar®-Preisträgerin Cate Blanchett als deutscher Bundeskanzlerin: Die Regierungschefs der bedeutendsten Industriestaaten der westlichen Welt kommen aus Anlass einer globalen Krise in Dankerode zusammen. Zwischen Blitzlicht-Gewitter und teurem Wein sollen sie eine gemeinsame Erklärung formulieren. Doch als die Nacht hereinbricht, stellen die Volksvertreter fest, dass sie von ihren Bediensteten allein gelassen wurden. Mit Teamgeist und Entschlossenheit müssen sie allerlei Hindernisse überwinden, die sich jeglicher Diplomatie entziehen.<br><br>TANZ DER TITANEN ist ein Film wie kein anderer! Dem Regie-Trio Guy Maddin, Evan Johnson und Galen Johnson ist ein Geniestreich gelungen, der auf unvergleichliche Weise scharfsinnige Politsatire, schrägen Humor und die ultimative Apokalypse kombiniert. Eine wilde Reise, die das hochkarätige Ensemble um Cate Blanchett (TÁR), Alicia Vikander (EX MACHINA) und Charles Dance (GAME OF THRONES) mit sichtlich viel Spielfreude antritt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/tanz-der-titanen-72835.v17464510633820.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/xH8OqKozm5o?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Cate Blanchett",
-      "Roy Dupuis",
-      "Nikki Amuka-Bird",
-      "Charles Dance"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "OmdU"
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Moria Six",
-    "duration": "82 min",
-    "fsk": "12",
-    "genre": "Dokumentation",
-    "origTitle": "Unknown Original Title",
-    "production": "Deutschland",
-    "releaseDate": "22.05.2025",
-    "distributor": "Cine Global",
-    "director": "Jennifer Mallmann",
-    "description": "Nachdem ein Feuer das Camp Moria im September 2020 komplett vernichtet hatte, wurde es gespenstisch still. Nicht nur vor Ort, sondern auch im öffentlichen Diskurs. Weder die menschenrechtswidrigen Bedingungen in den weiteren Lagern an den Außengrenzen Europas noch die zahllosen Pushbacks im Mittelmeer schienen die Allgemeinheit näher zu beschäftigen. Auch die Verhaftung der sechs Jugendlichen, die man der Brandstiftung bezichtigte, blieb ohne weithin hörbares Echo – obwohl schon ein zweiter Blick auf die Umstände der Ermittlungen und den folgenden Strafprozess das Vorgehen der griechischen Justiz als fragwürdig offenbarte. Ganz zu schweigen von der zugrunde liegenden Flüchtlingspolitik der Europäischen Union.",
-    "posterUrl": "https://static.kinoheld.de/images/film/moria-six-73689.v17458347916832.webp?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/ywtMUaEbHk8?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "Specials"
-    ]
-  },
-  {
-    "id": 14,
+    "id": 18,
     "title": "Der Pinguin meines Lebens",
     "duration": "110 min",
     "fsk": "6",
@@ -1592,10 +2103,44 @@
     ],
     "showtimes": [
       {
-        "date": "2025-05-28",
+        "date": "2025-06-04",
         "shows": [
           {
-            "time": "20:15",
+            "time": "16:30",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "15:15",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "18:00",
             "theater": "Museum - Saal 1 | Almodóvar",
             "attributes": [
               "2D"
@@ -1605,44 +2150,10 @@
         ]
       },
       {
-        "date": "2025-05-29",
+        "date": "2025-06-07",
         "shows": [
           {
-            "time": "17:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "15:30",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:30",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "20:15",
+            "time": "20:00",
             "theater": "Museum - Saal 2 | Coppola",
             "attributes": [
               "2D"
@@ -1652,18 +2163,18 @@
         ]
       },
       {
-        "date": "2025-06-01",
+        "date": "2025-06-08",
         "shows": [
           {
             "time": "17:15",
-            "theater": "Museum - Saal 3 | Arsenal",
+            "theater": "Museum - Saal 1 | Almodóvar",
             "attributes": [
               "2D"
             ],
             "iframeUrl": "Unknown iframe URL"
           },
           {
-            "time": "19:45",
+            "time": "20:00",
             "theater": "Museum - Saal 3 | Arsenal",
             "attributes": [
               "2D",
@@ -1674,11 +2185,11 @@
         ]
       },
       {
-        "date": "2025-06-02",
+        "date": "2025-06-09",
         "shows": [
           {
-            "time": "17:30",
-            "theater": "Museum - Saal 3 | Arsenal",
+            "time": "17:15",
+            "theater": "Museum - Saal 2 | Coppola",
             "attributes": [
               "2D"
             ],
@@ -1687,11 +2198,11 @@
         ]
       },
       {
-        "date": "2025-06-03",
+        "date": "2025-06-10",
         "shows": [
           {
-            "time": "17:30",
-            "theater": "Museum - Saal 3 | Arsenal",
+            "time": "20:00",
+            "theater": "Museum - Saal 2 | Coppola",
             "attributes": [
               "2D"
             ],
@@ -1700,10 +2211,10 @@
         ]
       },
       {
-        "date": "2025-06-04",
+        "date": "2025-06-11",
         "shows": [
           {
-            "time": "16:30",
+            "time": "19:45",
             "theater": "Museum - Saal 3 | Arsenal",
             "attributes": [
               "2D"
@@ -1718,7 +2229,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 19,
     "title": "Mein Platz ist hier",
     "duration": "110 min",
     "fsk": "16",
@@ -1751,539 +2262,34 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
-      }
-    ],
-    "attributes": [
-      "OmdU"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "Islands",
-    "duration": "120 min",
-    "fsk": "6",
-    "genre": "Drama",
-    "origTitle": "Islands",
-    "production": "Deutschland, Spanien",
-    "releaseDate": "08.05.2025",
-    "distributor": "LEONINE",
-    "director": "Jan Ole Gerster",
-    "description": "Tom (Sam Riley) arbeitet als Tennistrainer in einem All-Inclusive-Hotel auf Fuerteventura. Was auf den ersten Blick wie der Traum vom endlosen Sommer wirkt, ist für den ehemaligen Profi längst monotone Routine geworden. Während die Touristen in einem nicht endenden Strom kommen und gehen, spielt er Woche für Woche hunderte Bälle übers Netz und füllt die Leere mit flüchtigen Affären und Alkohol.\nDoch dann taucht die geheimnisvolle Anne (Stacy Martin) im Hotel auf. Sie, ihr Mann Dave (Jack Farthing) und ihr siebenjähriger Sohn Anton (Dylan Torrell) entsprechen nicht dem Bild der üblichen Pauschaltouristen. Schnell kommt Tom der Familie näher: Er gibt Anton Tennisstunden und lädt sie zu einem Ausflug ein, um ihnen die raue Schönheit der Insel zu zeigen. Am nächsten Tag ist Dave spurlos verschwunden. Ebenso mysteriös wie Daves Verschwinden ist Annes Verhalten, das Tom vor Rätsel stellt. Ein Verdacht keimt in ihm auf…",
-    "posterUrl": "https://static.kinoheld.de/images/film/islands-71667.v17431536143510.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/yn2Zd3HLeXE?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Sam Riley",
-      "Stacy Martin",
-      "Jack Farthing",
-      "Dylan Torrell"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "16:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
       },
       {
-        "date": "2025-05-29",
+        "date": "2025-06-05",
         "shows": []
       },
       {
-        "date": "2025-05-30",
+        "date": "2025-06-06",
         "shows": []
       },
       {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-06-07",
+        "shows": []
       },
       {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "14:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-06-08",
+        "shows": []
       },
       {
-        "date": "2025-06-02",
+        "date": "2025-06-09",
         "shows": []
       }
     ],
     "attributes": [
-      "OmdU"
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Grüße vom Mars",
-    "duration": "90 min",
-    "fsk": "6",
-    "genre": "Familie",
-    "origTitle": "Greetings from Mars",
-    "production": "Deutschland",
-    "releaseDate": "03.06.2024",
-    "distributor": "Farbfilm",
-    "director": "Sarah Winkenstette",
-    "description": "Tom ist zehn und anders als die anderen Kinder. Er mag keine Veränderungen, keine roten Sachen, und alles, was laut ist, wird ihm schnell zu viel. Seine Spezialität ist der Weltraum. Er liebt es, in seinem Astronautenanzug herumzulaufen und trägt in schwierigen Situationen gerne einen Helm. Als seine Mutter unerwartet nach China muss, muss Tom mit seinen Geschwistern Nina (15) und Elmar (13) für sechs Wochen zu Oma und Opa aufs Land nach Lunau ziehen. Für Tom ist das eine Katastrophe. Damit er es trotzdem schafft, schenkt ihm seine Mutter ein Logbuch und schlägt ihm vor, die Reise zu den Großeltern als eine Probe-Marsmission zu sehen. Toms größter Wunsch ist es, der erste Mensch zu sein, der dorthin fliegt. \"Wenn du es bei Oma und Opa schaffst\", versichert ihm seine Mutter, \"schaffst du es auch auf dem Mars.\" Und so ernennt Tom kurzerhand seine ständig telefonierende Schwester Nina zur Funkerin und den hyperaktiven Elmar zum ersten Offizier. Gemeinsam mit seiner Crew versucht er, den Planeten Lunau zu erkunden und Oma und Opa zu verstehen, die nach ihren eigenen Regeln zu leben scheinen.<br><br>GRÜSSE VOM MARS ist eine witzige und anrührende Komödie über die großen Ziele eines Außenseiters, dessen Anderssein zugleich seine heimliche Stärke ist und der zwei Generationen zusammenführt, die sich zunächst wie Wesen von fremden Planeten gegenüberstehen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/gruesse-vom-mars-62157.v17425551864124.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/sQU4xElo9SQ?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Theo Kretschmer",
-      "Lilli Lacher",
-      "Anton Noltensmeier",
-      "Eva Löbau"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "13:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "14:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "14:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "16:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "13:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 18,
-    "title": "Thunderbolts",
-    "duration": "126 min",
-    "fsk": "12",
-    "genre": "Abenteuer, Action",
-    "origTitle": "Unknown Original Title",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "01.05.2025",
-    "distributor": "Walt Disney",
-    "director": "Jake Schreier",
-    "description": "Marvel Studios und eine Crew von Indie-Veteranen, die sich selbst verkauft haben, präsentieren Thunderbolts*, ein unkonventionelles Team bestehend aus der depressiven Attentäterin Yelena Belova (Florence Pugh) zusammen mit den sonderbarsten Außenseitern des MCU. Neben einigen spannenden neuen Gesichtern, bringt der Film außerdem die Marvel-Cinematic-Universe-Charaktere Bucky Barnes (Sebastian Stan), Red Guardian (David Harbour), John Walker (Wyatt Russell), Taskmaster (Olga Kurylenko), Ghost (Hannah John-Kamen) und Valentina Allegra de Fontaine (Julia Louis-Dreyfus) zurück auf die Leinwand. Jake Schreier führt Regie bei Thunderbolts*, Kevin Feige produziert. Louis D'Esposito, Brian Chapek, Jason Tamez und Scarlett Johansson fungieren als ausführende Produzenten.",
-    "posterUrl": "https://static.kinoheld.de/images/film/thunderbolts-71281.v17465345431375.jpeg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/jMNeEt0lv5w?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Florence Pugh",
-      "David Harbour",
-      "Olga Kurylenko",
-      "Sebastian Stan"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "OmdU"
-    ]
-  },
-  {
-    "id": 19,
-    "title": "On Swift Horses",
-    "duration": "119 min",
-    "fsk": "12",
-    "genre": "Drama, Lovestory",
-    "origTitle": "Unknown Original Title",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "29.05.2025",
-    "distributor": "LEONINE Studios",
-    "director": "Daniel Minahan",
-    "description": "Kalifornien in den 50er Jahren. Muriel und ihr Mann Lee, der gerade als Soldat aus dem Korea-Krieg zurückgekehrt ist, wollen sich unter der kalifornischen Sonne ein Bilderbuchleben aufbauen. Ihren Traum wollen sie gemeinsam mit Lees Bruder verwirklichen, dem charismatischen Spieler Julius. Doch die unbeschwerte Dreiecksbeziehung endet abrupt, als Julius nach Las Vegas verschwindet. Dort hält er sich mit Poker und Glücksspiel über Wasser – und trifft auf Henry. Währenddessen fühlt sich Muriel in ihrem kalifornischen Alltag zunehmend gefangen und sehnt sich nach mehr im Leben. Bei heimlichen Pferdewetten hat sie Glück. Doch hält das Leben noch mehr für sie bereit?",
-    "posterUrl": "https://static.kinoheld.de/images/film/on-swift-horses-74369.v17460721177081.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/dAPXXE5Up8c?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Scott Lang",
-      "Ryan Fitzgerald",
-      "Anthony Palermo",
-      "Ted Barton"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "20:30",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "20:30",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "19:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-04",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      }
-    ],
-    "attributes": [
-      "Apéro Film",
       "OmdU"
     ]
   },
   {
     "id": 20,
-    "title": "Oslo-Stories: Träume",
-    "duration": "110 min",
-    "fsk": "Unknown",
-    "genre": "Drama",
-    "origTitle": "Dreams",
-    "production": "Norwegen",
-    "releaseDate": "08.05.2025",
-    "distributor": "Alamode Filmverleih",
-    "director": "Dag Johan Haugerud",
-    "description": "Johanne verliebt sich zum ersten Mal, und zwar in ihre Lehrerin. Ihre intensiven Fantasien und Gefühle hält sie schriftlich fest, um sie nicht zu vergessen. Als ihre Mutter und Großmutter die Texte lesen, sind sie zunächst schockiert über den intimen Inhalt, erkennen aber bald das literarische Potenzial. Während sie darüber debattieren, ob sie es veröffentlichen sollen, werden alle drei Frauen mit ihren eigenen unerfüllten Träumen und Sehnsüchten konfrontiert.<br><br>Mit den OSLO STORIES legt der gefeierte norwegische Filmemacher und Schriftsteller Dag Johan Haugerud sein Meisterwerk vor: eine Filmtrilogie, wie es noch keine gab. LIEBE (Venedig Wettbewerb 2024), TRÄUME (Berlinale Goldener Bär 2025) und SEHNSUCHT (Berlinale Panorama 2024) sind drei jeweils eigenständige Filme mit neuen Figuren und einer unabhängigen Geschichte. Jeder ist ein Ereignis. Alle drei machen süchtig. Getrennt voneinander werfen sie jeweils einen neuen Blick auf die Dinge, die unser Leben bestimmen. Erzählen von Liebe, Sehnsucht und Träumen, hinterfragen Identität, Gender und Sexualität, entwerfen mit faszinierenden Charakteren und klugen Dialogen gewitzt und nahbar Utopien, wie wir auch zusammenleben könnten. Bei der Berlinale 2025 wurde Oslo Stories: TRÄUME mit dem Goldenen Bären für den besten Film ausgezeichnet.",
-    "posterUrl": "https://static.kinoheld.de/images/film/oslo-stories-traeume-71723.v17412515420109.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/stP262TdcI8?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Ella Øverbye",
-      "Selome Emnetu",
-      "Ane Dahl Torp",
-      "Anne Marit Jacobsen"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "17:30",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "14:30",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "14:45",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      }
-    ],
-    "attributes": [
-      "OmdU"
-    ]
-  },
-  {
-    "id": 21,
-    "title": "Oslo Stories: Sehnsucht",
-    "duration": "118 min",
-    "fsk": "12",
-    "genre": "Drama, Lovestory",
-    "origTitle": "Sex",
-    "production": "Norwegen",
-    "releaseDate": "22.05.2025",
-    "distributor": "Alamode Filmverleih",
-    "director": "Dag Johan Haugerud",
-    "description": "Zwei befreundete Schornsteinfeger, die in monogamen, heterosexuellen Ehen leben, geraten beide in Situationen, die ihre Ansichten über Sexualität und Geschlechterrollen in Frage stellen. Der eine hat eine sexuelle Begegnung mit einem anderen Mann, ohne dies als Ausdruck von Homosexualität oder Untreue zu betrachten, und bespricht dies anschließend mit seiner Frau. Der andere wird von einem sinnlichen Traum über David Bowie aus der Bahn geworfen.<br><br>Mit den OSLO STORIES legt der gefeierte norwegische Filmemacher und Schriftsteller Dag Johan Haugerud sein Meisterwerk vor: eine Filmtrilogie, wie es noch keine gab. LIEBE (Venedig Wettbewerb 2024), TRÄUME (Berlinale Goldener Bär 2025) und SEHNSUCHT (Berlinale Panorama 2024) sind drei jeweils eigenständige Filme mit neuen Figuren und einer unabhängigen Geschichte. Jeder ist ein Ereignis. Alle drei machen süchtig. Getrennt voneinander werfen sie jeweils einen neuen Blick auf die Dinge, die unser Leben bestimmen. Erzählen von Liebe, Sehnsucht und Träumen, hinterfragen Identität, Gender und Sexualität, entwerfen mit faszinierenden Charakteren und klugen Dialogen gewitzt und nahbar Utopien, wie wir auch zusammenleben könnten. Bei der Berlinale 2025 wurde Oslo Stories: TRÄUME mit dem Goldenen Bären für den besten Film ausgezeichnet.",
-    "posterUrl": "https://static.kinoheld.de/images/film/oslo-stories-sehnsucht-sex-72045.v17419517447483.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/X3VJEfZR1OQ?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Siri Jøntvedt",
-      "Arturo Scotti",
-      "Jan Gunnar Røise",
-      "Thorbjørn Harr"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "19:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "17:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 22,
     "title": "Moon, Der Panda",
     "duration": "100 min",
     "fsk": "6",
@@ -2322,7 +2328,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 21,
     "title": "Flow",
     "duration": "85 min",
     "fsk": "6",
@@ -2356,7 +2362,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 22,
     "title": "Sieben Tage",
     "duration": "115 min",
     "fsk": "12",
@@ -2377,14 +2383,22 @@
     ],
     "showtimes": [
       {
-        "date": "2025-05-28",
+        "date": "2025-06-04",
         "shows": []
       },
       {
-        "date": "2025-05-29",
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
         "shows": [
           {
-            "time": "19:30",
+            "time": "15:00",
             "theater": "Museum - Saal 3 | Arsenal",
             "attributes": [
               "2D",
@@ -2395,29 +2409,11 @@
         ]
       },
       {
-        "date": "2025-05-30",
+        "date": "2025-06-08",
         "shows": []
       },
       {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "19:15",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
+        "date": "2025-06-09",
         "shows": []
       }
     ],
@@ -2426,7 +2422,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 23,
     "title": "Stand-Up Comedy Slam Tübingen",
     "duration": "150 min",
     "fsk": "Unknown",
@@ -2494,7 +2490,7 @@
         ]
       },
       {
-        "date": "2025-05-12",
+        "date": "2026-05-12",
         "shows": [
           {
             "time": "20:00",
@@ -2512,7 +2508,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 24,
     "title": "Poetry Slam Tübingen",
     "duration": "120 min",
     "fsk": "12",
@@ -2611,7 +2607,41 @@
     ]
   },
   {
-    "id": 27,
+    "id": 25,
+    "title": "Classic Sneak",
+    "duration": "100 min",
+    "fsk": "18",
+    "genre": "Unknown Genre",
+    "origTitle": "Sneak Preview",
+    "production": "Deutschland",
+    "releaseDate": "01.01.2038",
+    "distributor": "Unknown Distributor",
+    "director": "Unknown Director",
+    "description": "Ab dem 19.06. bringen wir alle 14 Tage einen Klassiker zurück auf die große Leinwand. Ob ein Film von 1950 oder aus 2014 - wer weiß das schon. Denn der Clou ist: Ihr erfahrt den Filmtitel erst, wenn der Film schon läuft. \nLass dich überraschen!",
+    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-121643.v17484364409672.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "Unknown Trailer URL",
+    "actors": [],
+    "showtimes": [
+      {
+        "date": "2025-06-19",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "Classic Sneak"
+    ]
+  },
+  {
+    "id": 26,
     "title": "Arsenal Sneak",
     "duration": "0",
     "fsk": "18",
@@ -2622,32 +2652,32 @@
     "distributor": "Unknown Distributor",
     "director": "Unknown Director",
     "description": "In unseren Überraschungspreviews zeigen wir brandneue Produktionen aus Hollywood und der ganzen Welt. Manchmal eine Woche - manchmal Monate vor dem deutschen Filmstart. Aber: Der Filmtitel bleibt geheim, bis sich der Vorhang öffnet. Wir verraten nicht mal um welches Genre es sich handelt: Komödie, Drama, Action, Horror oder Dokumentation, alles ist möglich. Aufgrund der hohen Nachfrage empfehlen wir, rechtzeitig die Tickets direkt online zu kaufen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/sneak-preview-1.v1.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-121643.v17484364409672.png?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [],
     "showtimes": [
       {
-        "date": "2025-05-28",
+        "date": "2025-06-04",
         "shows": []
       },
       {
-        "date": "2025-05-29",
+        "date": "2025-06-05",
         "shows": []
       },
       {
-        "date": "2025-05-30",
+        "date": "2025-06-06",
         "shows": []
       },
       {
-        "date": "2025-05-31",
+        "date": "2025-06-07",
         "shows": []
       },
       {
-        "date": "2025-06-01",
+        "date": "2025-06-08",
         "shows": []
       },
       {
-        "date": "2025-06-02",
+        "date": "2025-06-09",
         "shows": [
           {
             "time": "20:00",
@@ -2665,7 +2695,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 27,
     "title": "UEFA Women's EURO 2025",
     "duration": "120 min",
     "fsk": "Unknown",
@@ -2725,11 +2755,11 @@
     ]
   },
   {
-    "id": 29,
+    "id": 28,
     "title": "Call Me by Your Name",
     "duration": "132 min",
     "fsk": "12",
-    "genre": "Drama, Lovestory",
+    "genre": "Drama, Romanze",
     "origTitle": "Call Me by Your Name",
     "production": "Frankreich, Italien",
     "releaseDate": "01.03.2018",
@@ -2764,87 +2794,7 @@
     ]
   },
   {
-    "id": 30,
-    "title": "Die Q ist ein Tier",
-    "duration": "81 min",
-    "fsk": "0",
-    "genre": "Drama, Komödie, Krimi, Mystery",
-    "origTitle": "Unknown Original Title",
-    "production": "Deutschland",
-    "releaseDate": "16.05.2024",
-    "distributor": "Unknown Distributor",
-    "director": "Tobias Schönenberg",
-    "description": "In einer Nacht-und-Nebel-Aktion werden dem Schlachthof-Betreiber Werner Haas Schlachtabfälle in seinen Vorgarten gekippt. Wutschnaubend erstattet er Anzeige gegen Unbekannt und löst damit eine Polizeiuntersuchung aus, bei der verschiedene Dorfbewohner und Tierwohl-Aktivisten ins Visier geraten. Die Polizei ermittelt, während eine engagierte Volontärin der Lokalzeitung auf Ungereimtheiten bei der Erweiterung des Schlachtbetriebs stößt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/die-q-ist-ein-tier-57849.v17155852230523.png?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/ZXTbya_D6UE?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Anna Pfingsten",
-      "Martin Timmy Haberger",
-      "Martin König",
-      "Annaleen Frage"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 31,
-    "title": "Mit Live-Band \"Padfoli\"",
-    "attributes": [
-      "Specials"
-    ],
-    "duration": "89 min",
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "13:30",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ]
-  },
-  {
-    "id": 32,
+    "id": 29,
     "title": "Gagarin - Einmal schwerelos und zurück",
     "duration": "98 min",
     "fsk": "12",
@@ -2885,149 +2835,18 @@
     ]
   },
   {
-    "id": 33,
-    "title": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-    "duration": "98 min",
-    "fsk": "12",
-    "genre": "Abenteuer",
-    "origTitle": "Saint-Ex",
-    "production": "Belgien, Frankreich",
-    "releaseDate": "29.05.2025",
-    "distributor": "StudioCanal Deutschland",
-    "director": "Pablo Agüero",
-    "description": "Argentinien, 1930: Antoine de Saint-Exupéry ist Pilot des französischen Luftpostdienstes und fliegt an der Seite des legendären Flugkapitäns Henri Guillaumet. Auf der Suche nach immer kürzeren Flugrouten durch die Anden, wagt Guillaumet eine gefährliche Passage und stürzt mitten in den eisigen Bergen ab. Mithilfe von Guillaumets Frau Noëlle begibt sich Saint-Exupéry auf die gefährliche Suche nach seinem Freund. Getrieben von unerschütterlicher Entschlossenheit und voller Hoffnung, Guillaumet zu finden, entdeckt Saint-Exupéry, dass seine außergewöhnliche Vorstellungskraft seine größte Stärke ist. Zehn Jahre später veröffentlicht Saint-Exupéry eines der berühmtesten Bücher der Welt – „Der kleine Prinz“.<br><br>SAINT-EXUPÉRY ist ein fesselndes Rennen gegen die Zeit, ein filmisches Abenteuer in den atemberaubenden Landschaften der Anden und eine berührende Geschichte über eine unerschütterliche Freundschaft – einer Geschichte, die die Vorlage für eines der bekanntesten Bücher unserer Zeit bildet.",
-    "posterUrl": "https://static.kinoheld.de/images/film/saint-exupery-die-geschichte-vor-dem-kleinen-prinzen-71751.v17475025117306.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/OPJhwPx_sxU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Louis Garrel",
-      "Vincent Cassel",
-      "Diane Kruger",
-      "Sergej Onopko"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "15:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "18:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-04",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      }
-    ],
-    "attributes": [
-      "Apéro Film",
-      "OmdU"
-    ]
-  },
-  {
-    "id": 34,
+    "id": 30,
     "title": "Das Fest geht weiter",
     "duration": "106 min",
     "fsk": "6",
-    "genre": "Drama, Komödie",
+    "genre": "Drama",
     "origTitle": "Et la fête continue!",
     "production": "Unknown Production",
     "releaseDate": "12.06.2025",
     "distributor": "Agat Films & Cie / Ex Nihilo",
     "director": "Robert Guédiguian",
     "description": "Nach „Das Haus am Meer“ und „Gloria Mundi“ der neue Film von Robert Guédiguian\n In Marseille hat die 60-jährige Rosa (Ariane Ascaride) ihr Leben sowohl ihrer Familie als auch der Gewerkschaftspolitik mit dem gleichen Sinn für Opferbereitschaft verschrieben. Alle halten sie für unerschütterlich.\n Rosa findet für alle Herausforderungen eine Lösung, bis sie sich eines Tages in Henri (Jean-Pierre Darroussin) verliebt. Zum ersten Mal seit Jahrzehnten hat Rosa Angst, sich zu binden. Soll sie etwas für sich selber einfordern und dafür in Familie und Gewerkschaft kürzer treten?",
-    "posterUrl": "https://static.kinoheld.de/images/film/das-fest-geht-weiter-60645.v17477850724700.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/der-meister-und-margarita-70547.v17430718194021.webp?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/vwHaIpoZuRI?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
       "Ariane Ascaride",
@@ -3041,7 +2860,7 @@
         "shows": [
           {
             "time": "18:00",
-            "theater": "Museum - Saal 3 | Arsenal",
+            "theater": "Museum - Saal 2 | Coppola",
             "attributes": [
               "2D"
             ],
@@ -3055,7 +2874,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 31,
     "title": "Meine stillen Gedanken - My Thoughts Are Silent",
     "duration": "104 min",
     "fsk": "Unknown",
@@ -3066,7 +2885,7 @@
     "distributor": "Unknown Distributor",
     "director": "Antonio Lukich",
     "description": "Vadim is twenty-two. He's a sound engineer and a downer. He's going to Canada in three months. Forever. Before the departure he's assigned to record the voice of a very rare bird, which dwells only in the Transcarpathian mountains of Ukraine.",
-    "posterUrl": "https://static.kinoheld.de/images/film/my-thoughts-are-silent-24245.v2.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/der-pinguin-meines-lebens-70101.v17416070044114.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [
       "Andrii Lidahovskyi",
@@ -3095,68 +2914,7 @@
     ]
   },
   {
-    "id": 36,
-    "title": "Dovbush",
-    "duration": "120 min",
-    "fsk": "Unknown",
-    "genre": "Drama, Historie",
-    "origTitle": "Довбуш",
-    "production": "Kanada, Polen, Ukraine",
-    "releaseDate": "24.08.2023",
-    "distributor": "Unknown Distributor",
-    "director": "Oles Sanin",
-    "description": "",
-    "posterUrl": "https://static.kinoheld.de/images/film/dovbush-ukrainisch-493611691650659169165066017006471781700703205170073924217007393491700739397.v17322907584220.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/2T9NzcVCopM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Serhiy Strelnykov",
-      "Darya Plakhtiy",
-      "Rostyslav Derzhypilskyi",
-      "Oleksii Hnatkovskyi"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "12:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "Ukrainian cinema",
-      "OmdU"
-    ]
-  },
-  {
-    "id": 37,
+    "id": 32,
     "title": "The Mattachine Family",
     "duration": "99 min",
     "fsk": "12",
@@ -3197,68 +2955,7 @@
     ]
   },
   {
-    "id": 38,
-    "title": "September 5",
-    "duration": "95 min",
-    "fsk": "12",
-    "genre": "Drama, Thriller",
-    "origTitle": "Unknown Original Title",
-    "production": "Deutschland",
-    "releaseDate": "09.01.2025",
-    "distributor": "Constantin Film",
-    "director": "Tim Fehlbaum",
-    "description": "München, 5. September 1972, zehnter Wettkampftag der Olympischen Sommerspiele. Erstmals seit 1936 wieder in Deutschland, sollten es die „heiteren Spiele“ werden und der Welt das Bild eines neuen, liberalen Deutschlands vermitteln. Doch um 4.40 Uhr hört die Frühschicht des amerikanischen Senders ABC Schüsse aus dem nahe gelegenen Olympischen Dorf. Eine Gruppe palästinensischer Terroristen hat elf Mitglieder der israelischen Mannschaft als Geiseln genommen. Gegen den Widerstand der eigenen Nachrichtenabteilung berichtet das ABC-Sports-Team Live über die 21-stündige Geiselnahme.<br><br>Erzählt wird die Geschichte von Geoff (John Magaro), einem jungen, ehrgeizigen Producer, der sich bei seinem Chef, dem legendären Roone Arledge (Peter Sarsgaard), beweisen will. Mit Hilfe der deutschen Dolmetscherin Marianne (Leonie Benesch) übernimmt Geoff unerwartet die Leitung der Live-Sendung. Während die Zeit drängt, widersprüchliche Gerüchte die Runde machen und das Leben der Geiseln auf dem Spiel steht, muss Geoff schwierige Entscheidungen treffen und sich mit seinem eigenen moralischen Kompass auseinandersetzen. Wie soll man über eine solche Situation berichten, wenn die Täter die mediale Aufmerksamkeit für ihre Zwecke nutzen?",
-    "posterUrl": "https://static.kinoheld.de/images/film/september-5-63585.v17339287060750.jpeg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/0q5JBHXBJWU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Ben Chaplin",
-      "Leonie Benesch",
-      "John Magaro",
-      "Zinedine Soualem"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "Rewind",
-      "OmdU"
-    ]
-  },
-  {
-    "id": 39,
+    "id": 33,
     "title": "Beating Hearts",
     "duration": "161 min",
     "fsk": "16",
@@ -3279,6 +2976,10 @@
     ],
     "showtimes": [
       {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
         "date": "2025-06-05",
         "shows": [
           {
@@ -3291,6 +2992,22 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": []
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
       }
     ],
     "attributes": [
@@ -3299,7 +3016,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 34,
     "title": "Bridget Jones - Verrückt nach ihm",
     "duration": "125 min",
     "fsk": "12",
@@ -3340,11 +3057,11 @@
     ]
   },
   {
-    "id": 41,
+    "id": 35,
     "title": "Maria",
     "duration": "123 min",
     "fsk": "6",
-    "genre": "Drama",
+    "genre": "Drama, Musik, Historie",
     "origTitle": "Maria",
     "production": "Deutschland, Chile, Italien, Vereinigte Staaten",
     "releaseDate": "06.02.2025",
@@ -3381,7 +3098,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 36,
     "title": "Für immer hier",
     "duration": "136 min",
     "fsk": "6",
@@ -3392,7 +3109,7 @@
     "distributor": "DCM Filmdistribution",
     "director": "Walter Salles",
     "description": "Rio de Janeiro, Anfang der 1970er Jahre. In einem gemieteten Haus am Strand lebt die Familie Paiva: Vater Rubens, Mutter Eunice und ihre fünf Kinder.  Auch mit der allgegenwärtigen Unterdrückung bewahren sie in ihrem Zuhause eine Atmosphäre der Liebe, des Humors und der Offenheit. Ihre Zuneigung zueinander wird zu einem stillen Akt des Widerstands gegen die Diktatur, die ihr Leben radikal verändert. Als Rubens verschwindet, wird Eunice zur treibenden Kraft, um ihrer Familie eine neue Zukunft aufzubauen. Den Herausforderungen dieser dunklen Zeit begegnet sie mit Mut, Entschlossenheit und dem unerschütterlichen Glauben an ihre Kinder. Diese bewegende Geschichte wirft ein Licht auf die verschwiegenen Kapitel der brasilianischen Geschichte und würdigt die Stärke einer Frau, die trotz widrigster Umstände niemals aufgibt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/ainda-estou-aqui-i-m-still-here-69523.v17387505983079.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/mein-platz-ist-hier-71371.v17436363091030.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/Y_oeAPY54yg?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
       "Selton Mello",
@@ -3422,7 +3139,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 37,
     "title": "Rückkehr nach Korsika",
     "duration": "110 min",
     "fsk": "12",
@@ -3461,7 +3178,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 38,
     "title": "The Idea of You - Als du mich sahst",
     "duration": "115 min",
     "fsk": "Unknown",
@@ -3472,7 +3189,7 @@
     "distributor": "Unknown Distributor",
     "director": "Michael Showalter",
     "description": "Solène Marchand (Anne Hathaway) ist 40, beruflich erfolgreich als Galeristin und frisch geschieden. Als ihr Ex-Mann kurzfristig absagt, die gemeinsame Teenager-Tochter Izzy (Ella Rubin) zum Coachella-Musikfestival zu begleiten, springt Solène ein. Unter der Sonne Kaliforniens lernt sie dort zufällig den attraktiven Hayes Campbell (Nicholas Galitzine) kennen, der sich zu Solènes Überraschung als Leadsänger der derzeit angesagtesten Boyband der Welt entpuppt. Zwischen den beiden funkt es, aber nicht zuletzt aufgrund des Altersunterschieds – Hayes ist fast zwanzig Jahre jünger als Solène – geschieht zunächst nicht mehr. Doch dann steht der Charmebolzen eines Tages plötzlich in ihrer Galerie und die beiden lassen sich Schritt für Schritt doch noch auf eine Romanze ein – was von Izzy, der Klatschpresse und der Weltöffentlichkeit nicht unbemerkt bleibt und nicht gutgeheißen wird. Hat diese Liebe unter erschwerten Vorzeichen eine Chance?",
-    "posterUrl": "https://static.kinoheld.de/images/film/als-du-mich-sahst-71827.v17413564446561.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/der-phoenizische-meisterstreich-73503.v17458352208962.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [
       "Anne Hathaway"
@@ -3497,105 +3214,7 @@
     ]
   },
   {
-    "id": 45,
-    "title": "Lola rennt",
-    "duration": "79 min",
-    "fsk": "12",
-    "genre": "Drama, Action, Thriller",
-    "origTitle": "Unknown Original Title",
-    "production": "Deutschland",
-    "releaseDate": "20.08.1998",
-    "distributor": "X Verleih",
-    "director": "Tom Tykwer",
-    "description": "Lola erhält eines Morgens einen Anruf von ihrem Freund Manni, der gerade 100.000 DM verloren hat, die ihm nicht gehören. Um den Verbrechern das Geld übergeben zu können, hat er noch zwanzig Minuten Zeit. Lola rennt los, um ihm zu helfen, doch so sehr sie sich auch bemüht, ihr gehetzter Plan mißlingt. Doch es gibt mehrere Möglichkeiten für Lola und so dreht sich die Zeit um 20 Minuten zurück und der Wettlauf beginnt erneut...",
-    "posterUrl": "https://static.kinoheld.de/images/film/lola-rennt-65897.v17285215856047.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/jLyQB3IThDU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Moritz Bleibtreu",
-      "Peter Pauli",
-      "Franka Potente",
-      "Herbert Knaup"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      }
-    ],
-    "attributes": [
-      "Best of Cinema"
-    ]
-  },
-  {
-    "id": 46,
-    "title": "MET Opera: Gioachino Rossini \"Il Barbiere di Siviglia\"",
-    "duration": "215 min",
-    "fsk": "6",
-    "genre": "Oper",
-    "origTitle": "MET Opera: Il Barbiere di Siviglia (2025)",
-    "production": "Unknown Production",
-    "releaseDate": "22.11.2014",
-    "distributor": "LEONINE Distribution GmbH",
-    "director": "Bartlett Sher",
-    "description": "Liebe, List und Lüge. Daraus schuf Rossini ein Meisterwerk voller Lebendigkeit, Situationskomik und musikalischem Witz. Die Geschichte um den berühmtesten Friseur aller Zeiten gilt als ein Hauptwerk der opera buffa. Die für ihre zahlreichen Ohrwürmern bekannte Oper wird in der gefeierten Produktion von Tony Award® Gewinner Bartlett Sher gezeigt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2024-25-gioachino-rossini-il-barbiere-di-siviglia-59381.v17163827511931.png?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/L2BnblcOoT0?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Aigul Akhmetshina",
-      "Andrey Zhilikhovsky",
-      "Jack Swanson",
-      "Giacomo Sagripanti"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "19:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "MET OPERA"
-    ]
-  },
-  {
-    "id": 47,
+    "id": 39,
     "title": "Paddington in Peru",
     "duration": "103 min",
     "fsk": "0",
@@ -3634,7 +3253,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 40,
     "title": "Vaiana 2",
     "duration": "100 min",
     "fsk": "0",
@@ -3673,7 +3292,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 41,
     "title": "Mufasa: Der König der Löwen",
     "duration": "118 min",
     "fsk": "6",
@@ -3712,7 +3331,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 42,
     "title": "Die drei ??? und der Karpatenhund",
     "duration": "100 min",
     "fsk": "6",
@@ -3751,251 +3370,7 @@
     ]
   },
   {
-    "id": 51,
-    "title": "ISLANDS",
-    "duration": "120 Minuten",
-    "fsk": "6",
-    "genre": "Drama",
-    "origTitle": "Islands",
-    "production": "Deutschland, Spanien",
-    "releaseDate": "08.05.2025",
-    "distributor": "LEONINE",
-    "director": "Jan Ole Gerster",
-    "description": "Tom (Sam Riley) arbeitet als Tennistrainer in einem All-Inclusive-Hotel auf Fuerteventura. Was auf den ersten Blick wie der Traum vom endlosen Sommer wirkt, ist für den ehemaligen Profi längst monotone Routine geworden. Während die Touristen in einem nicht endenden Strom kommen und gehen, spielt er Woche für Woche hunderte Bälle übers Netz und füllt die Leere mit flüchtigen Affären und Alkohol.\nDoch dann taucht die geheimnisvolle Anne (Stacy Martin) im Hotel auf. Sie, ihr Mann Dave (Jack Farthing) und ihr siebenjähriger Sohn Anton (Dylan Torrell) entsprechen nicht dem Bild der üblichen Pauschaltouristen. Schnell kommt Tom der Familie näher: Er gibt Anton Tennisstunden und lädt sie zu einem Ausflug ein, um ihnen die raue Schönheit der Insel zu zeigen. Am nächsten Tag ist Dave spurlos verschwunden. Ebenso mysteriös wie Daves Verschwinden ist Annes Verhalten, das Tom vor Rätsel stellt. Ein Verdacht keimt in ihm auf…",
-    "posterUrl": "https://static.kinoheld.de/images/film/islands-71667.v17431536143510.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/yn2Zd3HLeXE?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Sam Riley",
-      "Stacy Martin",
-      "Jack Farthing",
-      "Dylan Torrell"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "16:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13099?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13125?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "14:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13124?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      },
-      {
-        "date": "2025-06-03",
-        "shows": []
-      },
-      {
-        "date": "2025-06-04",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 52,
-    "title": "Blood & Sinners",
-    "duration": "137 Minuten",
-    "fsk": "16",
-    "genre": "Action, Thriller, Horror",
-    "origTitle": "Sinners",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "17.04.2025",
-    "distributor": "Warner Bros. Pictures Germany",
-    "director": "Ryan Coogler",
-    "description": "Beim Versuch, ihr von Problemen geplagtes Leben hinter sich zu lassen, kehren Zwillingsbrüder in ihre Heimatstadt zurück, um dort einen Neuanfang zu wagen. Doch schon bald müssen sie feststellen, dass bei ihrer Rückkehr ein noch größeres Übel auf sie wartet.\n „Wenn du ständig mit dem Teufel tanzt, dann folgt er dir eines Tages nach Hause.“",
-    "posterUrl": "https://static.kinoheld.de/images/film/blood-sinners-71953.v17430363704851.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/AL4BwibdBOc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Michael B. Jordan",
-      "Hailee Steinfeld",
-      "Jack O'Connell",
-      "Wunmi Mosaku"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "21:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13092?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13116?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "22:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13117?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      },
-      {
-        "date": "2025-06-03",
-        "shows": []
-      },
-      {
-        "date": "2025-06-04",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 53,
-    "title": "Oslo Stories: Sehnsucht",
-    "duration": "118 Minuten",
-    "fsk": "12",
-    "genre": "Drama, Lovestory",
-    "origTitle": "Sex",
-    "production": "Norwegen",
-    "releaseDate": "22.05.2025",
-    "distributor": "Alamode Filmverleih",
-    "director": "Dag Johan Haugerud",
-    "description": "Zwei befreundete Schornsteinfeger, die in monogamen, heterosexuellen Ehen leben, geraten beide in Situationen, die ihre Ansichten über Sexualität und Geschlechterrollen in Frage stellen. Der eine hat eine sexuelle Begegnung mit einem anderen Mann, ohne dies als Ausdruck von Homosexualität oder Untreue zu betrachten, und bespricht dies anschließend mit seiner Frau. Der andere wird von einem sinnlichen Traum über David Bowie aus der Bahn geworfen.<br><br>Mit den OSLO STORIES legt der gefeierte norwegische Filmemacher und Schriftsteller Dag Johan Haugerud sein Meisterwerk vor: eine Filmtrilogie, wie es noch keine gab. LIEBE (Venedig Wettbewerb 2024), TRÄUME (Berlinale Goldener Bär 2025) und SEHNSUCHT (Berlinale Panorama 2024) sind drei jeweils eigenständige Filme mit neuen Figuren und einer unabhängigen Geschichte. Jeder ist ein Ereignis. Alle drei machen süchtig. Getrennt voneinander werfen sie jeweils einen neuen Blick auf die Dinge, die unser Leben bestimmen. Erzählen von Liebe, Sehnsucht und Träumen, hinterfragen Identität, Gender und Sexualität, entwerfen mit faszinierenden Charakteren und klugen Dialogen gewitzt und nahbar Utopien, wie wir auch zusammenleben könnten. Bei der Berlinale 2025 wurde Oslo Stories: TRÄUME mit dem Goldenen Bären für den besten Film ausgezeichnet.",
-    "posterUrl": "https://static.kinoheld.de/images/film/oslo-stories-sehnsucht-sex-72045.v17419517447483.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/X3VJEfZR1OQ?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Siri Jøntvedt",
-      "Arturo Scotti",
-      "Jan Gunnar Røise",
-      "Thorbjørn Harr"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": [
-          {
-            "time": "19:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13106?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "17:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13127?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      },
-      {
-        "date": "2025-06-03",
-        "shows": []
-      },
-      {
-        "date": "2025-06-04",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 54,
+    "id": 43,
     "title": "Black Bag - Doppeltes Spiel",
     "duration": "93 Minuten",
     "fsk": "12",
@@ -4016,90 +3391,6 @@
     ],
     "showtimes": [
       {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13113?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13109?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13110?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "19:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13114?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13111?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13112?mode=widget"
-          }
-        ]
-      },
-      {
         "date": "2025-06-04",
         "shows": [
           {
@@ -4116,200 +3407,36 @@
       {
         "date": "2025-06-05",
         "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 55,
-    "title": "Die Vorkosterinnen",
-    "duration": "123 Minuten",
-    "fsk": "12",
-    "genre": "Drama",
-    "origTitle": "Le assaggiatrici",
-    "production": "Deutschland, Schweiz, Belgien, Italien",
-    "releaseDate": "29.05.2025",
-    "distributor": "Busch Media Group",
-    "director": "Silvio Soldini",
-    "description": "Herbst 1943: Berlin wird bombadiert und die junge Rosa Sauer flüchtet ins ländliche Ostpreußen, während ihr Mann als Soldat an der Ostfront kämpft.\nIn der Nähe des Dorfes befindet sich jedoch Hitlers Hauptquartier „Wolfsschanze“: Rosa und andere Frauen werden von der SS zwangsrekrutiert und müssen als Vorkosterinnen für die Mahlzeiten dienen, die Hitler hier serviert werden. Die Situation eskaliert, als im Sommer 1944 das Attentat von Stauffenberg fehlschlägt und drakonische Maßnahmen die Folge sind. Den Frauen wird gewahr, dass das nächste Attentat auf Hitler vielleicht mit Gift erfolgen könnte und sie in Lebensgefahr schweben – zumal die rote Armee immer näher rückt. Als Rosa erfährt, dass eine der Frauen Jüdin ist, muss sie einen Weg finden, sich und ihre Freundin vor dem sicheren Tod zu retten.<br><br>Nach dem auf wahren Begebenheiten beruhenden italienischen Bestsellerroman inszenierte Regisseur Silvio Soldini (Brot & Tulpen) einen mitreißenden Film über weiblichen Widerstand in einem bisher kaum bekannten Kapitel der NS-Diktatur.",
-    "posterUrl": "https://static.kinoheld.de/images/film/die-vorkosterinnen-73233.v17442849984916.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/HYa1NJfSajM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Alessandro Passi",
-      "Paolo Grossi",
-      "Jürgen Wink",
-      "Berit Vander"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": [
-          {
-            "time": "15:45",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13118?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "15:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13119?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13120?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-01",
-        "shows": [
-          {
-            "time": "11:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13121?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-02",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13122?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-03",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13123?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-06-04",
-        "shows": []
-      },
-      {
-        "date": "2025-06-05",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 56,
-    "title": "Alle lieben Touda",
-    "duration": "102 Minuten",
-    "fsk": "16",
-    "genre": "Drama",
-    "origTitle": "في حب تودا",
-    "production": "Unknown Production",
-    "releaseDate": "29.05.2025",
-    "distributor": "Unknown Distributor",
-    "director": "Nabil Ayouch",
-    "description": "Die alleinerziehende Touda träumt nur von einem: eine Sheikha zu sein: eine traditionelle marokkanische Künstlerin, die von den Texten der kämpferischen Dichterinnen, die vor ihr lebten, gestärkt wird – mit ihren Liedern über Widerstand, Liebe und Emanzipation. Touda, die jeden Abend in den Bars der Provinz unter den lüsternen Blicken der Männer auftritt, plant, ihre kleine Stadt zu verlassen und in die hellen Lichter von Casablanca zu ziehen, wo sie hofft, als echte Künstlerin anerkannt zu werden und eine bessere Zukunft für sich und ihren Sohn zu sichern.",
-    "posterUrl": "https://static.kinoheld.de/images/film/everybody-loves-touda-64837.v17482799569193.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/xxyYMQytM50?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Nisrin Erradi",
-      "Jalila Talemsi",
-      "Joud Chamihy",
-      "El Moustafa Boutankite"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13128?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      },
-      {
-        "date": "2025-06-03",
-        "shows": []
-      },
-      {
-        "date": "2025-06-04",
-        "shows": []
-      },
-      {
-        "date": "2025-06-05",
-        "shows": []
       },
       {
         "date": "2025-06-06",
         "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": []
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
+      },
+      {
+        "date": "2025-06-10",
+        "shows": []
+      },
+      {
+        "date": "2025-06-11",
+        "shows": []
       }
     ],
     "attributes": []
   },
   {
-    "id": 57,
+    "id": 44,
     "title": "Mein Platz ist hier",
     "duration": "110 Minuten",
     "fsk": "16",
@@ -4329,34 +3456,6 @@
       "Francesco Biscione"
     ],
     "showtimes": [
-      {
-        "date": "2025-05-28",
-        "shows": []
-      },
-      {
-        "date": "2025-05-29",
-        "shows": []
-      },
-      {
-        "date": "2025-05-30",
-        "shows": []
-      },
-      {
-        "date": "2025-05-31",
-        "shows": []
-      },
-      {
-        "date": "2025-06-01",
-        "shows": []
-      },
-      {
-        "date": "2025-06-02",
-        "shows": []
-      },
-      {
-        "date": "2025-06-03",
-        "shows": []
-      },
       {
         "date": "2025-06-04",
         "shows": [
@@ -4403,7 +3502,430 @@
     "attributes": []
   },
   {
-    "id": 58,
+    "id": 45,
+    "title": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+    "duration": "98 Minuten",
+    "fsk": "12",
+    "genre": "Drama, Abenteuer",
+    "origTitle": "Saint-Ex",
+    "production": "Belgien, Frankreich",
+    "releaseDate": "29.05.2025",
+    "distributor": "StudioCanal Deutschland",
+    "director": "Pablo Agüero",
+    "description": "Argentinien, 1930: Antoine de Saint-Exupéry ist Pilot des französischen Luftpostdienstes und fliegt an der Seite des legendären Flugkapitäns Henri Guillaumet. Auf der Suche nach immer kürzeren Flugrouten durch die Anden, wagt Guillaumet eine gefährliche Passage und stürzt mitten in den eisigen Bergen ab. Mithilfe von Guillaumets Frau Noëlle begibt sich Saint-Exupéry auf die gefährliche Suche nach seinem Freund. Getrieben von unerschütterlicher Entschlossenheit und voller Hoffnung, Guillaumet zu finden, entdeckt Saint-Exupéry, dass seine außergewöhnliche Vorstellungskraft seine größte Stärke ist. Zehn Jahre später veröffentlicht Saint-Exupéry eines der berühmtesten Bücher der Welt – „Der kleine Prinz“.<br><br>SAINT-EXUPÉRY ist ein fesselndes Rennen gegen die Zeit, ein filmisches Abenteuer in den atemberaubenden Landschaften der Anden und eine berührende Geschichte über eine unerschütterliche Freundschaft – einer Geschichte, die die Vorlage für eines der bekanntesten Bücher unserer Zeit bildet.",
+    "posterUrl": "https://static.kinoheld.de/images/film/saint-exupery-die-geschichte-vor-dem-kleinen-prinzen-71751.v17475025117306.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/OPJhwPx_sxU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Louis Garrel",
+      "Vincent Cassel",
+      "Diane Kruger",
+      "Sergej Onopko"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13139?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13140?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13141?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13142?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13143?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13144?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13145?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-12",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 46,
+    "title": "On Swift Horses",
+    "duration": "119 Minuten",
+    "fsk": "12",
+    "genre": "Drama, Lovestory",
+    "origTitle": "Unknown Original Title",
+    "production": "Vereinigte Staaten",
+    "releaseDate": "29.05.2025",
+    "distributor": "LEONINE Studios",
+    "director": "Daniel Minahan",
+    "description": "Kalifornien in den 50er Jahren. Muriel und ihr Mann Lee, der gerade als Soldat aus dem Korea-Krieg zurückgekehrt ist, wollen sich unter der kalifornischen Sonne ein Bilderbuchleben aufbauen. Ihren Traum wollen sie gemeinsam mit Lees Bruder verwirklichen, dem charismatischen Spieler Julius. Doch die unbeschwerte Dreiecksbeziehung endet abrupt, als Julius nach Las Vegas verschwindet. Dort hält er sich mit Poker und Glücksspiel über Wasser – und trifft auf Henry. Währenddessen fühlt sich Muriel in ihrem kalifornischen Alltag zunehmend gefangen und sehnt sich nach mehr im Leben. Bei heimlichen Pferdewetten hat sie Glück. Doch hält das Leben noch mehr für sie bereit?",
+    "posterUrl": "https://static.kinoheld.de/images/film/on-swift-horses-74369.v17460721177081.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/dAPXXE5Up8c?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Scott Lang",
+      "Ryan Fitzgerald",
+      "Anthony Palermo",
+      "Ted Barton"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13132?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-06",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13136?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-07",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13133?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13137?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13134?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13138?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-11",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13135?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-12",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 47,
+    "title": "Blood & Sinners",
+    "duration": "137 Minuten",
+    "fsk": "16",
+    "genre": "Action, Thriller, Horror",
+    "origTitle": "Sinners",
+    "production": "Vereinigte Staaten",
+    "releaseDate": "17.04.2025",
+    "distributor": "Warner Bros. Pictures Germany",
+    "director": "Ryan Coogler",
+    "description": "Beim Versuch, ihr von Problemen geplagtes Leben hinter sich zu lassen, kehren Zwillingsbrüder in ihre Heimatstadt zurück, um dort einen Neuanfang zu wagen. Doch schon bald müssen sie feststellen, dass bei ihrer Rückkehr ein noch größeres Übel auf sie wartet.\n „Wenn du ständig mit dem Teufel tanzt, dann folgt er dir eines Tages nach Hause.“",
+    "posterUrl": "https://static.kinoheld.de/images/film/blood-sinners-71953.v17430363704851.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/AL4BwibdBOc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Jack O'Connell",
+      "Michael B. Jordan",
+      "Hailee Steinfeld",
+      "Wunmi Mosaku"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13129?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13130?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-10",
+        "shows": []
+      },
+      {
+        "date": "2025-06-11",
+        "shows": []
+      },
+      {
+        "date": "2025-06-12",
+        "shows": []
+      },
+      {
+        "date": "2025-06-13",
+        "shows": []
+      },
+      {
+        "date": "2025-06-14",
+        "shows": []
+      },
+      {
+        "date": "2025-06-15",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 48,
+    "title": "Der Meister und Margarita",
+    "duration": "157 Minuten",
+    "fsk": "12",
+    "genre": "Drama, Fantasy",
+    "origTitle": "Мастер и Маргарита",
+    "production": "Kroatien, Russland",
+    "releaseDate": "25.01.2024",
+    "distributor": "Capelight Pictures",
+    "director": "Michael Lockshin",
+    "description": "Moskau in den 1930er-Jahren: Das Werk eines bekannten Schriftstellers (Jewgeni Zyganow) wird vom sowjetischen Staat zensiert und die Premiere seines Theaterstücks abgesagt. Inspiriert von seiner Geliebten Margarita (Julia Snigir), beginnt er mit der Arbeit an einem neuen Roman, in dem er sämtliche Menschen aus seinem realen Leben in satirisch überspitzter Gestalt auftreten lässt. Im Mittelpunkt steht Woland (August Diehl) als mystisch-dunkle Macht, die Moskau besucht, um sich an all jenen zu rächen, die für den Ruin des Autors verantwortlich sind. Während der Meister, wie dieser sich fortan nennt, immer tiefer in seine Geschichte eintaucht, vermag er allmählich nicht mehr zwischen Realität und Fiktion zu unterscheiden …<br><br>DER MEISTER UND MARGARITA von Michael Lockshin („Silver Skates“) mit August Diehl als mysteriöse Teufelsfigur Woland basiert auf dem gleichnamigen Romanklassiker des Schriftstellers Michail Bulgakow, der darin Kritik am sowjetischen Überwachungsapparat übt. Wegen seines unverkennbaren Gegenwartsbezugs ist DER MEISTER UND MARGARITA vielleicht einer der mutigsten Filme überhaupt.",
+    "posterUrl": "https://static.kinoheld.de/images/film/der-meister-und-margarita-70547.v17430718194021.webp?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/Tp7nUypcsEo?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Claes Bang",
+      "Viktor Kim",
+      "Aleksandra Rozanova",
+      "Viktor Vorontsov"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-06-04",
+        "shows": []
+      },
+      {
+        "date": "2025-06-05",
+        "shows": []
+      },
+      {
+        "date": "2025-06-06",
+        "shows": []
+      },
+      {
+        "date": "2025-06-07",
+        "shows": []
+      },
+      {
+        "date": "2025-06-08",
+        "shows": [
+          {
+            "time": "11:30",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13131?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-06-09",
+        "shows": []
+      },
+      {
+        "date": "2025-06-10",
+        "shows": []
+      },
+      {
+        "date": "2025-06-11",
+        "shows": []
+      },
+      {
+        "date": "2025-06-12",
+        "shows": []
+      },
+      {
+        "date": "2025-06-13",
+        "shows": []
+      },
+      {
+        "date": "2025-06-14",
+        "shows": []
+      },
+      {
+        "date": "2025-06-15",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 49,
     "title": "The Mattachine Family",
     "duration": "99 Minuten",
     "fsk": "12",
