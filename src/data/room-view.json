@@ -40,404 +40,14 @@
         "name": "Atelier",
         "dates": [
           {
-            "date": "2025-06-04",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 16,
-                "movieTitle": "Black Bag - Doppeltes Spiel",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 43,
-                "movieTitle": "Black Bag - Doppeltes Spiel",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13115?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:50",
-                "movieId": 19,
-                "movieTitle": "Mein Platz ist hier",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:50",
-                "movieId": 44,
-                "movieTitle": "Mein Platz ist hier",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13126?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-06-05",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:44",
-                "movieId": 10,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:44",
-                "movieId": 46,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13132?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:53",
-                "movieId": 9,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:53",
-                "movieId": 45,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13139?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-06-06",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 9,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 45,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13140?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 10,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 46,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13136?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-06-07",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 9,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 45,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13141?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 10,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 46,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13133?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-06-08",
-            "showings": [
-              {
-                "time": "11:30",
-                "endTime": "14:07",
-                "movieId": 14,
-                "movieTitle": "Der Meister und Margarita",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "11:30",
-                "endTime": "14:07",
-                "movieId": 48,
-                "movieTitle": "Der Meister und Margarita",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13131?mode=widget"
-              },
-              {
-                "time": "15:00",
-                "endTime": "17:17",
-                "movieId": 17,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "15:00",
-                "endTime": "17:17",
-                "movieId": 47,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13129?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 9,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 45,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13142?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 10,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 46,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13137?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-06-09",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "17:29",
-                "movieId": 10,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "15:30",
-                "endTime": "17:29",
-                "movieId": 46,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13134?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 9,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:38",
-                "movieId": 45,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13143?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:32",
-                "movieId": 17,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:32",
-                "movieId": 47,
-                "movieTitle": "Blood & Sinners",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13130?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-06-10",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:44",
-                "movieId": 10,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:44",
-                "movieId": 46,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13138?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:53",
-                "movieId": 9,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "Unknown iframe URL"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:53",
-                "movieId": 45,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13144?mode=widget"
-              }
-            ]
-          },
-          {
             "date": "2025-06-11",
             "showings": [
               {
                 "time": "17:45",
                 "endTime": "19:23",
-                "movieId": 9,
+                "movieId": 11,
                 "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
                 "attributes": [
-                  "2D",
                   "OmdU"
                 ],
                 "iframeUrl": "Unknown iframe URL"
@@ -445,7 +55,7 @@
               {
                 "time": "17:45",
                 "endTime": "19:23",
-                "movieId": 45,
+                "movieId": 42,
                 "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
                 "attributes": [
                   "2D",
@@ -456,17 +66,15 @@
               {
                 "time": "20:00",
                 "endTime": "21:59",
-                "movieId": 10,
+                "movieId": 12,
                 "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
+                "attributes": [],
                 "iframeUrl": "Unknown iframe URL"
               },
               {
                 "time": "20:00",
                 "endTime": "21:59",
-                "movieId": 46,
+                "movieId": 43,
                 "movieTitle": "On Swift Horses",
                 "attributes": [
                   "2D"
@@ -476,15 +84,349 @@
             ]
           },
           {
+            "date": "2025-06-12",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 12,
+                "movieTitle": "On Swift Horses",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 43,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13146?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 11,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 42,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13154?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-13",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 11,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 42,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13155?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 12,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 43,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13150?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-14",
+            "showings": [
+              {
+                "time": "15:15",
+                "endTime": "17:05",
+                "movieId": 17,
+                "movieTitle": "Mein Platz ist hier",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "15:15",
+                "endTime": "17:05",
+                "movieId": 44,
+                "movieTitle": "Mein Platz ist hier",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13161?mode=widget"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 12,
+                "movieTitle": "On Swift Horses",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 43,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13147?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 11,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 42,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13156?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-15",
+            "showings": [
+              {
+                "time": "15:15",
+                "endTime": "17:05",
+                "movieId": 17,
+                "movieTitle": "Mein Platz ist hier",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "15:15",
+                "endTime": "17:05",
+                "movieId": 44,
+                "movieTitle": "Mein Platz ist hier",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13153?mode=widget"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:23",
+                "movieId": 11,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:23",
+                "movieId": 42,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13157?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:59",
+                "movieId": 12,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:59",
+                "movieId": 43,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13151?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-16",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 11,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:38",
+                "movieId": 42,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13158?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 12,
+                "movieTitle": "On Swift Horses",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 43,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13148?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-17",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 12,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 43,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13152?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 11,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:53",
+                "movieId": 42,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13159?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-06-18",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:23",
+                "movieId": 11,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "OmdU"
+                ],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:23",
+                "movieId": 42,
+                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13160?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:59",
+                "movieId": 12,
+                "movieTitle": "On Swift Horses",
+                "attributes": [],
+                "iframeUrl": "Unknown iframe URL"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:59",
+                "movieId": 43,
+                "movieTitle": "On Swift Horses",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13149?mode=widget"
+              }
+            ]
+          },
+          {
             "date": "2025-06-19",
             "showings": [
               {
                 "time": "22:00",
                 "endTime": "23:39",
-                "movieId": 32,
+                "movieId": 30,
                 "movieTitle": "The Mattachine Family",
                 "attributes": [
-                  "2D",
                   "OmdU"
                 ],
                 "iframeUrl": "Unknown iframe URL"
