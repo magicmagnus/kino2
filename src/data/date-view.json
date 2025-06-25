@@ -1,297 +1,5 @@
 [
   {
-    "date": "2025-06-18",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:23",
-                "movieId": null,
-                "movieTitle": "Saint-Exupéry - Die Geschichte vor dem kleinen Prinzen",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13160?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:59",
-                "movieId": null,
-                "movieTitle": "On Swift Horses",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13149?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-06-19",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "16:40",
-                "movieId": null,
-                "movieTitle": "Akiko, der fliegende Affe",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13162?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "19:01",
-                "movieId": null,
-                "movieTitle": "Das Fest geht weiter",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13168?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:29",
-                "movieId": null,
-                "movieTitle": "Loyal Friend",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13177?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:39",
-                "movieId": null,
-                "movieTitle": "The Mattachine Family",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/12925?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-06-20",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:29",
-                "movieId": null,
-                "movieTitle": "Loyal Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13172?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:18",
-                "movieId": null,
-                "movieTitle": "Bürglkopf",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13167?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-06-21",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "16:15",
-                "endTime": "17:25",
-                "movieId": null,
-                "movieTitle": "Akiko, der fliegende Affe",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13163?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:46",
-                "movieId": null,
-                "movieTitle": "Das Fest geht weiter",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13169?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": null,
-                "movieTitle": "Loyal Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13173?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-06-22",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "16:40",
-                "movieId": null,
-                "movieTitle": "Akiko, der fliegende Affe",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13164?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "19:01",
-                "movieId": null,
-                "movieTitle": "Das Fest geht weiter",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13170?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:29",
-                "movieId": null,
-                "movieTitle": "Loyal Friend",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13178?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-06-23",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:29",
-                "movieId": null,
-                "movieTitle": "Loyal Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13175?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:51",
-                "movieId": null,
-                "movieTitle": "Black Tea",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13165?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-06-24",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:21",
-                "movieId": null,
-                "movieTitle": "Black Tea",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13166?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:59",
-                "movieId": null,
-                "movieTitle": "Loyal Friend",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13179?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2025-06-25",
     "theaters": [
       {
@@ -303,7 +11,7 @@
               {
                 "time": "17:45",
                 "endTime": "19:31",
-                "movieId": null,
+                "movieId": 50,
                 "movieTitle": "Das Fest geht weiter",
                 "attributes": [
                   "2D",
@@ -314,12 +22,293 @@
               {
                 "time": "20:00",
                 "endTime": "21:59",
-                "movieId": null,
+                "movieId": 49,
                 "movieTitle": "Loyal Friend",
                 "attributes": [
                   "2D"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13176?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-06-26",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:41",
+                "movieId": 51,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13180?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 49,
+                "movieTitle": "Loyal Friend",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13187?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-06-27",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:45",
+                "endTime": "17:31",
+                "movieId": 50,
+                "movieTitle": "Das Fest geht weiter",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13194?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:59",
+                "movieId": 49,
+                "movieTitle": "Loyal Friend",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13188?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:11",
+                "movieId": 51,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13184?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-06-28",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:45",
+                "endTime": "17:31",
+                "movieId": 50,
+                "movieTitle": "Das Fest geht weiter",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13195?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:59",
+                "movieId": 49,
+                "movieTitle": "Loyal Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13193?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:11",
+                "movieId": 51,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13181?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-06-29",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:00",
+                "endTime": "16:46",
+                "movieId": 50,
+                "movieTitle": "Das Fest geht weiter",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13196?mode=widget"
+              },
+              {
+                "time": "17:15",
+                "endTime": "18:56",
+                "movieId": 51,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13185?mode=widget"
+              },
+              {
+                "time": "19:30",
+                "endTime": "21:29",
+                "movieId": 49,
+                "movieTitle": "Loyal Friend",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13189?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-06-30",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 49,
+                "movieTitle": "Loyal Friend",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13190?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:56",
+                "movieId": 51,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13182?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:41",
+                "movieId": 51,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13186?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 49,
+                "movieTitle": "Loyal Friend",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13191?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:29",
+                "movieId": 49,
+                "movieTitle": "Loyal Friend",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13192?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:41",
+                "movieId": 51,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13183?mode=widget"
               }
             ]
           }
