@@ -1,276 +1,5 @@
 [
   {
-    "date": "2025-07-02",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:29",
-                "movieId": 57,
-                "movieTitle": "Loyal Friend",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13192?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:41",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13183?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-03",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:15",
-                "endTime": "19:59",
-                "movieId": 58,
-                "movieTitle": "One to One: John & Yoko",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13207?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:11",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13201?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-04",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:36",
-                "movieId": 60,
-                "movieTitle": "Der Bauer und der Bobo - Wie aus Wut Freundschaft wurde",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13197?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:15",
-                "movieId": 59,
-                "movieTitle": "Kneecap",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13205?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-05",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:45",
-                "endTime": "17:26",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13202?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:44",
-                "movieId": 58,
-                "movieTitle": "One to One: John & Yoko",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13208?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:56",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13198?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-06",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "14:30",
-                "endTime": "16:11",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13199?mode=widget"
-              },
-              {
-                "time": "16:45",
-                "endTime": "18:29",
-                "movieId": 58,
-                "movieTitle": "One to One: John & Yoko",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13209?mode=widget"
-              },
-              {
-                "time": "19:00",
-                "endTime": "20:41",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13203?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-07",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:45",
-                "movieId": 59,
-                "movieTitle": "Kneecap",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13206?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:42",
-                "movieId": 61,
-                "movieTitle": "Step Across the Border",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13211?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-08",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:41",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13200?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:59",
-                "movieId": 58,
-                "movieTitle": "One to One: John & Yoko",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13210?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2025-07-09",
     "theaters": [
       {
@@ -282,7 +11,7 @@
               {
                 "time": "18:00",
                 "endTime": "19:27",
-                "movieId": 61,
+                "movieId": 50,
                 "movieTitle": "Step Across the Border",
                 "attributes": [
                   "2D"
@@ -292,13 +21,293 @@
               {
                 "time": "20:00",
                 "endTime": "21:41",
-                "movieId": 56,
+                "movieId": 49,
                 "movieTitle": "Der Phönizische Meisterstreich",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13204?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:44",
+                "movieId": 52,
+                "movieTitle": "One to One: John & Yoko",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13227?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:48",
+                "movieId": 51,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13221?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:15",
+                "endTime": "19:48",
+                "movieId": 53,
+                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13213?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:03",
+                "movieId": 51,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13224?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "16:00",
+                "endTime": "17:44",
+                "movieId": 52,
+                "movieTitle": "One to One: John & Yoko",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13228?mode=widget"
+              },
+              {
+                "time": "18:15",
+                "endTime": "19:48",
+                "movieId": 53,
+                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13214?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:03",
+                "movieId": 51,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13222?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "12:30",
+                "endTime": "14:14",
+                "movieId": 52,
+                "movieTitle": "One to One: John & Yoko",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13229?mode=widget"
+              },
+              {
+                "time": "15:00",
+                "endTime": "16:33",
+                "movieId": 51,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13225?mode=widget"
+              },
+              {
+                "time": "17:15",
+                "endTime": "18:48",
+                "movieId": 53,
+                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13215?mode=widget"
+              },
+              {
+                "time": "19:30",
+                "endTime": "21:11",
+                "movieId": 49,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13219?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:31",
+                "movieId": 54,
+                "movieTitle": "Copa 71 (2023)",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13218?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:56",
+                "movieId": 49,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13220?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:33",
+                "movieId": 51,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13223?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:48",
+                "movieId": 53,
+                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13216?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:33",
+                "movieId": 53,
+                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13217?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:33",
+                "movieId": 51,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13226?mode=widget"
               }
             ]
           }
