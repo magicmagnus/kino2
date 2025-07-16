@@ -21,11 +21,28 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
-        "shows": []
+        "date": "2025-07-16",
+        "shows": [
+          {
+            "time": "17:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-17",
         "shows": [
           {
             "time": "17:00",
@@ -46,13 +63,13 @@
         ]
       },
       {
-        "date": "2025-07-11",
+        "date": "2025-07-18",
         "shows": [
           {
             "time": "14:30",
             "theater": "Blaue Brücke - Saal 2 | Spielberg",
             "attributes": [
-              "2d"
+              "3d"
             ],
             "iframeUrl": "Unknown iframe URL"
           },
@@ -68,17 +85,17 @@
             "time": "20:15",
             "theater": "Blaue Brücke - Saal 2 | Spielberg",
             "attributes": [
-              "3d"
+              "OmdU"
             ],
             "iframeUrl": "Unknown iframe URL"
           }
         ]
       },
       {
-        "date": "2025-07-12",
+        "date": "2025-07-19",
         "shows": [
           {
-            "time": "17:15",
+            "time": "14:45",
             "theater": "Blaue Brücke - Saal 1 | Tarantino",
             "attributes": [
               "2d"
@@ -89,14 +106,14 @@
             "time": "20:15",
             "theater": "Blaue Brücke - Saal 2 | Spielberg",
             "attributes": [
-              "3d"
+              "2d"
             ],
             "iframeUrl": "Unknown iframe URL"
           }
         ]
       },
       {
-        "date": "2025-07-13",
+        "date": "2025-07-20",
         "shows": [
           {
             "time": "14:00",
@@ -125,13 +142,13 @@
         ]
       },
       {
-        "date": "2025-07-14",
+        "date": "2025-07-21",
         "shows": [
           {
             "time": "17:00",
             "theater": "Blaue Brücke - Saal 2 | Spielberg",
             "attributes": [
-              "2d"
+              "OmdU"
             ],
             "iframeUrl": "Unknown iframe URL"
           },
@@ -146,7 +163,7 @@
         ]
       },
       {
-        "date": "2025-07-15",
+        "date": "2025-07-22",
         "shows": [
           {
             "time": "17:15",
@@ -167,7 +184,7 @@
         ]
       },
       {
-        "date": "2025-07-16",
+        "date": "2025-07-23",
         "shows": [
           {
             "time": "17:00",
@@ -195,14 +212,16 @@
       "2D",
       "OmdU",
       "2D",
-      "2D",
-      "3D",
-      "2D",
-      "3D",
+      "OmdU",
       "3D",
       "2D",
       "OmdU",
       "2D",
+      "2D",
+      "3D",
+      "2D",
+      "OmdU",
+      "OmdU",
       "2D",
       "2D",
       "3D",
@@ -232,13 +251,84 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-16",
         "shows": [
+          {
+            "time": "17:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "3d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:45",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "14:15",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
           {
             "time": "17:15",
             "theater": "Blaue Brücke - Saal 2 | Spielberg",
             "attributes": [
               "3d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "14:15",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "3d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "OmdU"
             ],
             "iframeUrl": "Unknown iframe URL"
           },
@@ -249,99 +339,11 @@
               "2d"
             ],
             "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "atmos",
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
           }
         ]
       },
       {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "3d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "14:15",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "3d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "14:15",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "3d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
+        "date": "2025-07-20",
         "shows": [
           {
             "time": "13:30",
@@ -370,7 +372,7 @@
         ]
       },
       {
-        "date": "2025-07-14",
+        "date": "2025-07-21",
         "shows": [
           {
             "time": "17:00",
@@ -391,7 +393,7 @@
         ]
       },
       {
-        "date": "2025-07-15",
+        "date": "2025-07-22",
         "shows": [
           {
             "time": "17:00",
@@ -412,10 +414,10 @@
         ]
       },
       {
-        "date": "2025-07-16",
+        "date": "2025-07-23",
         "shows": [
           {
-            "time": "17:00",
+            "time": "16:45",
             "theater": "Blaue Brücke - Saal 2 | Spielberg",
             "attributes": [
               "3d"
@@ -436,14 +438,10 @@
     "attributes": [
       "2D",
       "3D",
-      "Dolby Atmos",
       "OmdU",
       "3D",
       "2D",
-      "Dolby Atmos",
-      "OmdU",
       "2D",
-      "3D",
       "2D",
       "3D",
       "OmdU",
@@ -463,6 +461,178 @@
   },
   {
     "id": 2,
+    "title": "Die Schlümpfe - Der große Kinofilm",
+    "duration": "90 min",
+    "fsk": "0",
+    "genre": "Zeichentrick",
+    "origTitle": "Smurfs",
+    "production": "Belgien, Australien, Vereinigtes Königreich, Italien, Vereinigte Staaten",
+    "releaseDate": "17.07.2025",
+    "distributor": "Paramount Pictures Germany",
+    "director": "Chris Miller, Matthew Landon",
+    "description": "Als Papa Schlumpf auf mysteriöse Weise von den bösen Zauberern Gargamel und Razamel entführt wird, machen sich Schlumpfine und die Schlümpfe auf den Weg in die reale Welt, um ihn zu befreien. Mit Hilfe ihrer neuen Freunde müssen die Schlümpfe herausfinden, was ihre Bestimmung ist, um das Universum zu retten.<br><br>Regie führte Chris Miller, für das Drehbuch zeichnet Pam Brady verantwortlich. Produziert wurde der Film von Jay Brown, Ty Ty Smith, Robyn Rihanna Fenty und Ryan Harris.\n\n\nIn der deutschen Fassung leiht Uwe Ochsenknecht dem kultigen Papa Schlumpf seine ausdrucksvolle Stimme, der spanisch-deutsche Sänger Álvaro Soler wird als No Name Schlumpf nicht nur sprechen, sondern natürlich auch singen, und Stimmenwunder Rick Kavanian wird gleich zweimal zu hören sein – als Gargamel und dessen Bruder Razamel.",
+    "posterUrl": "https://static.kinoheld.de/images/film/die-schluempfe-der-der-grosse-kinofilm-73589.v17479026787072.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/UG6LYpAQcfc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Dan Levy",
+      "Rihanna",
+      "Nick Offerman",
+      "Natasha Lyonne"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "16:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "18:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "15:45",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "18:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "15:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "13:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "15:30",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:45",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D"
+    ]
+  },
+  {
+    "id": 3,
     "title": "Der Salzpfad",
     "duration": "115 min",
     "fsk": "6",
@@ -472,9 +642,9 @@
     "releaseDate": "17.07.2025",
     "distributor": "DCM",
     "director": "Marianne Elliott",
-    "description": "Ein verheiratetes Paar erhält eine schlechte gesundheitliche Diagnose und wird durch unüberwindbare Umstände obdachlos. Sie entschließen sich dazu, den South West Coast Path zu wandern – den längsten ununterbrochenen Wanderweg in England – von Minehead nach Poole entlang der Küste von Devon, Cornwall und Dorset.",
-    "posterUrl": "https://static.kinoheld.de/images/film/der-salzpfad-73707.v17513538014238.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/UQ7RJCOm-c8?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "description": "DER SALZPFAD ist ein britischer Film unter der Regie von Marianne Elliott, die damit ihr Spielfilmdebüt gibt. Das Drehbuch stammt von Rebecca Lenkiewicz und basiert auf der gleichnamigen Geschichte von Raynor Winn. Ein verheiratetes Paar (Gillian Anderson und Jason Isaacs) erhält eine schlechte gesundheitliche Diagnose und wird durch unüberwindbare Umstände obdachlos. Sie entschließen sich dazu, den South West Coast Path zu wandern – den längsten ununterbrochenen Wanderweg in England – von Minehead nach Poole entlang der Küste von Devon, Cornwall und Dorset.",
+    "posterUrl": "https://static.kinoheld.de/images/film/der-salzpfad-73707.v17523042392391.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/EfKYGBBeZkI?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
       "Gillian Anderson",
       "Jason Isaacs",
@@ -494,15 +664,615 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "17:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "11:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "16:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:15",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "17:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
       }
     ],
     "attributes": [
       "Apéro Film",
+      "OmdU",
+      "2D",
+      "OmdU",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "OmdU",
+      "OmdU",
+      "2D",
+      "OmdU",
       "2D"
     ]
   },
   {
-    "id": 3,
+    "id": 4,
+    "title": "#SchwarzeSchafe",
+    "duration": "93 min",
+    "fsk": "12",
+    "genre": "Komödie",
+    "origTitle": "Unknown Original Title",
+    "production": "Deutschland",
+    "releaseDate": "17.07.2025",
+    "distributor": "Port au Prince Films",
+    "director": "Oliver Rihs",
+    "description": "Ein Neuköllner Clan-Chef, der zum Klimaschützer wird. Eine Genderpuppen-Erfinderin, die sich mit falscher Pistole und neuer Freundin im Grunewald die geheimsten Wünsche erfüllt. Ein Balkon-Imker, dessen Bienenvolk auf Speed ist. Und mittendrin ein Fischer, der aus invasiven Sumpfkrabben nachhaltige Snacks zaubern möchte. Was sie alle eint? Ein heißer Hauptstadtsommer – und das Warten auf den Regen!<br><br>Im Sommer 2025 wird es turbulent auf den deutschen Weide-/Leinwänden – die schwarzen Schafe kommen, um abzugrasen. Es wird wild, bunt und ziemlich heiß!",
+    "posterUrl": "https://static.kinoheld.de/images/film/schwarzeschafe-75601.v17500723436493.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/rgp2HVm9vWo?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Jella Haase",
+      "Yasin el Harrouk",
+      "Jule Böwe",
+      "Frederick Lau"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "16:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:30",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "20:30",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:30",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "20:30",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Leonora im Morgenlicht",
+    "duration": "103 min",
+    "fsk": "12",
+    "genre": "Drama",
+    "origTitle": "Leonora In The Morning Light",
+    "production": "Deutschland, Vereinigtes Königreich, Mexiko, Rumänien",
+    "releaseDate": "17.07.2025",
+    "distributor": "Alamode Film",
+    "director": "Thor Klein, Lena Vurma",
+    "description": "In den 1930er Jahren bricht Leonora Carrington (OLIVIA VINALL) mit den gesellschaftlichen Normen ihrer Zeit und tritt der surrealistischen Bewegung bei. In Paris trifft sie auf Künstlergrößen wie Salvador Dalí und André Breton, doch es ist ihre stürmische Liebesaffäre mit dem Maler Max Ernst (ALEXANDER SCHEER), die sie auf eine Reise zu sich selbst führt. Zwischen Kunst, Leidenschaft und inneren Dämonen muss sich Leonora in einer Welt voller Umbrüche behaupten. Mit dem Beginn des Zweiten Weltkriegs flieht sie nach Mexiko, wo sie ihre Freiheit und ihre eigene Stimme als Künstlerin findet.<br><br>LEONORA IM MORGENLICHT wirft einen einzigartigen Blick auf die faszinierende Lebensgeschichte der britischen Künstlerin Leonora Carrington. Als eine der bedeutendsten Künstlerinnen des Surrealismus zählt sie zu den populärsten Malerinnen Mexikos, doch in ihrer Heimat Großbritannien und der internationalen Kunstwelt blieb ihr Lebenswerk lange Zeit weitgehend unbeachtet. Heute gehört Leonora Carrington zu den weltweit höchstverkauften Künstlerinnen, neben Frida Kahlo und Georgia O’Keeffe. Olivia Vinall verkörpert kraftvoll die innerlich zerrissene Leonora Carrington, an ihrer Seite sieht man den deutschen Schauspielstar Alexander Scheer (KÖLN 75, GUNDERMANN) als Max Ernst. Der Film von Regie-Duo Thor Klein und Lena Vurma (ABENTEUER EINES MATHEMATIKERS) basiert auf dem Bestseller „Leonora“ von Elena Poniatowska, der in Deutschland unter dem Titel „Frau des Windes“ erschienen ist.",
+    "posterUrl": "https://static.kinoheld.de/images/film/leonora-im-morgenlicht-75409.v17484085714519.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/2mjxALaD-kY?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Alexander Scheer",
+      "Olivia Vinall",
+      "Cassandra Ciangherotti",
+      "Ryan Gage"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bella Roma - Liebe auf Italienisch",
+    "duration": "99 min",
+    "fsk": "12",
+    "genre": "Drama, Komödie, Lovestory",
+    "origTitle": "When in Rome",
+    "production": "Dänemark, Italien, Schweden",
+    "releaseDate": "03.07.2025",
+    "distributor": "24 Bilder",
+    "director": "Niclas Bendixen",
+    "description": "Um ihren vierzigjährigen Hochzeitstag zu feiern, bekommen Gerda und Kristoffer eine Reise nach Rom geschenkt, wo Gerda vor ihrer Hochzeit Kunst studierte. Die Leichtigkeit der Reise wird unterbrochen, als ein Schatten aus der Vergangenheit auftaucht: Gerdas ehemaliger Lehrer und Liebhaber Johannes. Bezaubert und belebt von seiner charmanten Art, erinnert sich Gerda an ihren Jugendtraum, Künstlerin zu werden und ihre Geheimnisse aus dieser Zeit. Kristoffer ahnt bald, dass zwischen Gerda und Johannes mehr als nur eine freundschaftliche Beziehung besteht. Er ist verwirrt und seine Zweifel treiben ihn in absolut absurde Situationen. Die Ewige Stadt entfacht in Gerda eine neu entdeckte Lebendigkeit. Entscheidet sich auf dieser Reise die Zukunft ihrer gemeinsamen Ehe?<br><br>Die sommerlich-leichte Liebeskomödie BELLA ROMA fängt kunstvoll die Essenz von Nostalgie, Zuneigung und der Sehnsucht ein, was hätte sein können. Gleichzeitig ist BELLA ROMA eine wunderschöne Hommage an Rom, in der auch Humor und Lebensfreude nicht zu kurz kommen. In den Hauptrollen überzeugen die bekannten skandinavischen Schauspieler Bodil Jørgensen („Idioten“), Kristian Halken („Dänische Delikatessen“) und Rolf Lassgård, der als Kommissar Kurt Wallander der Henning Mankell Romane weltweit Bekanntheit erreichte.\nMit BELLA ROMA – LIEBE AUF ITALIENISCH lieferte Regisseur Niclas Bendixen einen Kino-Hit in seinem Heimatland Dänemark. Mit über 300.000 Besuchern avancierte der Film zum erfolgreichsten dänischen Film des Jahres 2024.",
+    "posterUrl": "https://static.kinoheld.de/images/film/bella-roma-lieben-auf-italienisch-75073.v17480510199876.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/0cWIHZerd5M?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Bodil Jørgensen",
+      "Rolf Lassgård",
+      "Kristian Halken"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "15:30",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
+      }
+    ],
+    "attributes": [
+      "2D"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Karli & Marie",
+    "duration": "87 min",
+    "fsk": "12",
+    "genre": "Komödie",
+    "origTitle": "Karli und Marie",
+    "production": "Deutschland",
+    "releaseDate": "17.07.2025",
+    "distributor": "SquareOne Entertainment",
+    "director": "Christian Lerch",
+    "description": "Karli (Sigi Zimmerschied) gibt sich gern als kampferprobter Bundeswehr-Veteran und Bombenentschärfer aus, während Marie (Luise Kinseher) einst Schönheitskönigin von Mingkofen war – ein Titel, der ihr immerhin einen attraktiven, aber untreuen Ehemann bescherte. Nach einem erbitterten Scheidungskrieg blieben ihr nur eine verfallene Villa, ein klappriger Opel und ein marodes Betonwerk, das dem Ruin entgegentaumelt. Als sie zufällig auf Karli trifft, prallen zwei gescheiterte Existenzen aufeinander – und zwei Seelenverwandte, auch wenn sie das zunächst nicht ahnen. Erst nach einer abenteuerlichen Reise, einigen Explosionen, Ladendiebstählen und versuchten Erpressungen erkennen sie, dass sie zusammen vielleicht doch noch eine Chance haben.",
+    "posterUrl": "https://static.kinoheld.de/images/film/karli-marie-75171.v17479749150041.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/9fq5kzohLUE?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Luise Kinseher",
+      "Sigi Zimmerschied",
+      "Jule Ronstedt",
+      "Johanna Bittenbinder"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "12:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "16:45",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D",
+      "2D"
+    ]
+  },
+  {
+    "id": 8,
     "title": "The Ballad of Wallis Island",
     "duration": "100 min",
     "fsk": "6",
@@ -522,136 +1292,6 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
-        "shows": []
-      },
-      {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "19:45",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "11:45",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "16:45",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-15",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
         "date": "2025-07-16",
         "shows": [
           {
@@ -671,6 +1311,104 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "18:15",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "20:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "19:00",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "19:45",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "20:30",
+            "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
       }
     ],
     "attributes": [
@@ -678,54 +1416,90 @@
       "2D",
       "OmdU",
       "2D",
-      "2D",
-      "2D",
-      "2D",
-      "2D",
       "OmdU",
       "OmdU",
       "2D",
       "2D",
-      "2D",
+      "OmdU",
       "2D",
       "OmdU"
     ]
   },
   {
-    "id": 4,
-    "title": "F1",
-    "duration": "155 min",
-    "fsk": "12",
-    "genre": "Drama, Action",
-    "origTitle": "F1 The Movie",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "26.06.2025",
-    "distributor": "Warner Bros.",
-    "director": "Joseph Kosinski",
-    "description": "Sonny Hayes (Brad Pitt) trägt den Spitznamen „Der Beste, der es niemals geschafft hat“. In den Neunzigerjahren galt er als hoffnungsvollstes Talent der FORMEL 1 – bis ein Unfall auf der Rennstrecke seine Karriere um ein Haar beendet hätte. 30 Jahre später verdient er sich seinen Lebensunterhalt als Gelegenheitsrennfahrer. Eines Tages tritt Sonnys ehemaliger Teamkollege Ruben Cervantes (Javier Bardem) an ihn heran, der inzwischen Eigentümer eines vor dem Aus stehenden FORMEL-1-Teams ist. Ruben überredet Sonny zu einer Rückkehr in die FORMEL 1, um das Team zu retten und einen letzten Versuch zu unternehmen, sich als bester Fahrer der Welt zu beweisen. Sein Teamkollege, Nachwuchstalent Joshua Pearce (Damson Idris), ist unterdessen fest entschlossen, auf der Rennstrecke sein ganz eigenes Tempo vorzulegen. Im Getöse der Motoren holt die Vergangenheit Sonny ein. Bald stellt er fest, dass in der FORMEL 1 der eigene Teamkollege der erbittertste Konkurrent sein kann – und dass der Weg zur Erlösung nicht allein beschritten werden kann.",
-    "posterUrl": "https://static.kinoheld.de/images/film/f1-72099.v17482686347859.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/3qxupuKRLHM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "id": 9,
+    "title": "Vermiglio",
+    "duration": "119 min",
+    "fsk": "Unknown",
+    "genre": "Drama",
+    "origTitle": "Unknown Original Title",
+    "production": "Belgien, Frankreich, Italien",
+    "releaseDate": "24.07.2025",
+    "distributor": "Piffl Medien GmbH",
+    "director": "Maura Delpero",
+    "description": "Vermiglio, ein Bergdorf in den italienischen Alpen. Im Winter 1944 ist der Krieg gleichzeitig weit weg und allgegenwärtig. Attilio ist heimgekehrt, als Deserteur, von seinem sizilianischen Kameraden Pietro auf den Schultern über die Berge getragen. Ihre Ankunft bringt Unruhe in das im ewigen Rhythmus der Jahreszeiten verlaufende Leben im Dorf. Im Haus des Lehrers Cesare und seiner großen Familie beginnt das große Flüstern: Lucia, die älteste Tochter, hat sich in Pietro verliebt, der versteckt am Rande des Dorfs auf das Ende des Krieges wartet. Auch ihre Schwestern Ada und Flavia, mit denen Lucia das Zimmer teilt, sind voller Träume. Wird ihr strenger Vater sie auf die Schule in der Stadt gehen lassen? Mit welchen Geheimnissen schließt sich Cesare in sein Studierzimmer ein, wenn er die sorgsam gehüteten Schallplatten mit der Musik von Chopin und Vivaldi hört? Während die Jahreszeiten voranschreiten und die Welt sich langsam von der Tragödie des Krieges erholt, suchen die Schwestern unter dem wachen Blick ihrer Mutter Adele ihre eigenen Wege ins Leben. Es müssen neue Wege sein.",
+    "posterUrl": "https://static.kinoheld.de/images/film/vermiglio-67721.v17508333424210.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/ZzYTegWeFVA?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
-      "Lando Norris",
-      "Brad Pitt",
-      "Damson Idris",
-      "Kerry Condon"
+      "Tommaso Ragno",
+      "Giuseppe De Domenico",
+      "Roberta Rovelli",
+      "Martina Scrinzi"
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-23",
         "shows": [
           {
-            "time": "17:00",
-            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "time": "18:00",
+            "theater": "Museum - Saal 2 | Coppola",
             "attributes": [
-              "atmos"
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "Apéro Film",
+      "2D"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "F1 - Der Film",
+    "duration": "155 min",
+    "fsk": "0",
+    "genre": "Zeichentrick",
+    "origTitle": "Smurfs",
+    "production": "Belgien, Australien, Vereinigtes Königreich, Italien, Vereinigte Staaten",
+    "releaseDate": "17.07.2025",
+    "distributor": "Paramount Pictures Germany",
+    "director": "Chris Miller, Matthew Landon",
+    "description": "Als Papa Schlumpf auf mysteriöse Weise von den bösen Zauberern Gargamel und Razamel entführt wird, machen sich Schlumpfine und die Schlümpfe auf den Weg in die reale Welt, um ihn zu befreien. Mit Hilfe ihrer neuen Freunde müssen die Schlümpfe herausfinden, was ihre Bestimmung ist, um das Universum zu retten.<br><br>Regie führte Chris Miller, für das Drehbuch zeichnet Pam Brady verantwortlich. Produziert wurde der Film von Jay Brown, Ty Ty Smith, Robyn Rihanna Fenty und Ryan Harris.\n\n\nIn der deutschen Fassung leiht Uwe Ochsenknecht dem kultigen Papa Schlumpf seine ausdrucksvolle Stimme, der spanisch-deutsche Sänger Álvaro Soler wird als No Name Schlumpf nicht nur sprechen, sondern natürlich auch singen, und Stimmenwunder Rick Kavanian wird gleich zweimal zu hören sein – als Gargamel und dessen Bruder Razamel.",
+    "posterUrl": "https://static.kinoheld.de/images/film/die-schluempfe-der-der-grosse-kinofilm-73589.v17479026787072.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/UG6LYpAQcfc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Dan Levy",
+      "Rihanna",
+      "Nick Offerman",
+      "Natasha Lyonne"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "attributes": [
+              "2d"
             ],
             "iframeUrl": "Unknown iframe URL"
           },
           {
             "time": "20:15",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "theater": "Blaue Brücke - Saal 3 | Kubrick",
             "attributes": [
               "OmdU"
             ],
@@ -734,16 +1508,8 @@
         ]
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-17",
         "shows": [
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
           {
             "time": "20:30",
             "theater": "Blaue Brücke - Saal 3 | Kubrick",
@@ -755,16 +1521,8 @@
         ]
       },
       {
-        "date": "2025-07-11",
+        "date": "2025-07-18",
         "shows": [
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
           {
             "time": "20:30",
             "theater": "Blaue Brücke - Saal 3 | Kubrick",
@@ -776,37 +1534,21 @@
         ]
       },
       {
-        "date": "2025-07-12",
+        "date": "2025-07-19",
         "shows": [
           {
-            "time": "14:15",
+            "time": "17:45",
             "theater": "Blaue Brücke - Saal 1 | Tarantino",
             "attributes": [
               "2d"
             ],
             "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:30",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
           }
         ]
       },
       {
-        "date": "2025-07-13",
+        "date": "2025-07-20",
         "shows": [
-          {
-            "time": "16:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
           {
             "time": "20:00",
             "theater": "Blaue Brücke - Saal 3 | Kubrick",
@@ -818,16 +1560,8 @@
         ]
       },
       {
-        "date": "2025-07-14",
+        "date": "2025-07-21",
         "shows": [
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
           {
             "time": "20:15",
             "theater": "Blaue Brücke - Saal 3 | Kubrick",
@@ -839,16 +1573,8 @@
         ]
       },
       {
-        "date": "2025-07-15",
+        "date": "2025-07-22",
         "shows": [
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
           {
             "time": "20:15",
             "theater": "Blaue Brücke - Saal 3 | Kubrick",
@@ -860,16 +1586,8 @@
         ]
       },
       {
-        "date": "2025-07-16",
+        "date": "2025-07-23",
         "shows": [
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
           {
             "time": "20:15",
             "theater": "Blaue Brücke - Saal 3 | Kubrick",
@@ -882,19 +1600,11 @@
       }
     ],
     "attributes": [
-      "Dolby Atmos",
       "OmdU",
-      "Dolby Atmos",
-      "OmdU",
-      "2D",
-      "2D",
       "2D",
       "OmdU",
       "2D",
-      "2D",
-      "2D",
       "OmdU",
-      "2D",
       "2D",
       "OmdU",
       "2D",
@@ -903,7 +1613,96 @@
     ]
   },
   {
-    "id": 5,
+    "id": 11,
+    "title": "Drachenzähmen leicht gemacht",
+    "duration": "125 min",
+    "fsk": "12",
+    "genre": "Abenteuer, Action, Fantasy",
+    "origTitle": "How to Train Your Dragon",
+    "production": "Frankreich, Vereinigtes Königreich, Vereinigte Staaten",
+    "releaseDate": "12.06.2025",
+    "distributor": "Universal Pictures International",
+    "director": "Dean Deblois",
+    "description": "Auf der schroffen Insel Berk, wo seit Generationen eine erbitterte Feindschaft zwischen Wikingern und Drachen wütet, erweist sich Hicks als Außenseiter. Der einfallsreiche, jedoch unterschätzte Sohn von Häuptling Haudrauf widersetzt sich jahrhundertealten Traditionen, als er sich mit dem gefürchteten Nachtschatten-Drachen Ohnezahn anfreundet. Ihre außergewöhnliche Verbindung enthüllt nicht nur die wahre Natur der Drachen – sie stellt die Werteordnung aller Wikinger in Frage. Mit der ehrgeizigen und kämpferischen Astrid und dem schrulligen Waffenschmied Grobian an seiner Seite stellt sich Hicks einer Welt, die von Angst und Missverständnissen zerfressen ist. Als eine alte Bedrohung sowohl Wikinger als auch Drachen in Gefahr bringt, wird seine Freundschaft zu Ohnezahn zum Schlüssel für eine bessere Zukunft.",
+    "posterUrl": "https://static.kinoheld.de/images/film/drachenzaehmen-leicht-gemacht-68949.v17460131853750.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/K1jwE6VuKFU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Bronwyn James",
+      "Mason Thames",
+      "Nick Frost",
+      "Julian Dennison"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "17:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          },
+          {
+            "time": "17:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "13:45",
+            "theater": "Museum - Saal 1 | Almodóvar",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
+      }
+    ],
+    "attributes": [
+      "OmdU",
+      "OmdU",
+      "2D",
+      "2D",
+      "2D"
+    ]
+  },
+  {
+    "id": 12,
     "title": "Hot Milk",
     "duration": "93 min",
     "fsk": "12",
@@ -924,88 +1723,6 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "20:30",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "20:30",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      },
-      {
-        "date": "2025-07-15",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
         "date": "2025-07-16",
         "shows": [
           {
@@ -1017,131 +1734,59 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "22:30",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "22:30",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
       }
     ],
     "attributes": [
       "OmdU",
-      "2D",
       "OmdU",
       "2D",
-      "OmdU",
-      "2D",
-      "OmdU",
       "OmdU"
     ]
   },
   {
-    "id": 6,
-    "title": "Bella Roma - Liebe auf Italienisch",
-    "duration": "99 min",
-    "fsk": "12",
-    "genre": "Drama, Komödie, Lovestory",
-    "origTitle": "When in Rome",
-    "production": "Dänemark, Italien, Schweden",
-    "releaseDate": "03.07.2025",
-    "distributor": "24 Bilder",
-    "director": "Niclas Bendixen",
-    "description": "Gerda und Kristoffer reisen nach Rom, um ihre Ehe zu feiern. Die Reise wird zur Prüfung ihrer Beziehung.<br><br>Die sommerlich-leichte Liebeskomödie BELLA ROMA fängt kunstvoll die Essenz von Nostalgie, Zuneigung und der Sehnsucht ein, was hätte sein können. Gleichzeitig ist BELLA ROMA eine wunderschöne Hommage an Rom, in der auch Humor und Lebensfreude nicht zu kurz kommen. In den Hauptrollen überzeugen die bekannten skandinavischen Schauspieler Bodil Jørgensen („Idioten“), Kristian Halken („Dänische Delikatessen“) und Rolf Lassgård, der als Kommissar Kurt Wallander der Henning Mankell Romane weltweit Bekanntheit erreichte.\nMit BELLA ROMA – LIEBE AUF ITALIENISCH lieferte Regisseur Niclas Bendixen einen Kino-Hit in seinem Heimatland Dänemark. Mit über 300.000 Besuchern avancierte der Film zum erfolgreichsten dänischen Film des Jahres 2024.",
-    "posterUrl": "https://static.kinoheld.de/images/film/bella-roma-lieben-auf-italienisch-75073.v17480510199876.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/0cWIHZerd5M?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Bodil Jørgensen",
-      "Rolf Lassgård",
-      "Kristian Halken"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "17:30",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:45",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:30",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "2D",
-      "2D",
-      "2D",
-      "2D",
-      "2D",
-      "2D"
-    ]
-  },
-  {
-    "id": 7,
+    "id": 13,
     "title": "Sep Ruf - Architekt der Moderne",
     "duration": "96 min",
-    "fsk": "Unknown",
-    "genre": "Dokumentation",
+    "fsk": "0",
+    "genre": "Komödie, Abenteuer, Fantasy, Musical",
     "origTitle": "Unknown Original Title",
     "production": "Deutschland",
     "releaseDate": "10.07.2025",
@@ -1155,62 +1800,44 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-16",
         "shows": []
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-17",
         "shows": []
       },
       {
-        "date": "2025-07-11",
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "16:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
+      },
+      {
+        "date": "2025-07-22",
         "shows": [
           {
             "time": "17:45",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "15:30",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "12:30",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      },
-      {
-        "date": "2025-07-15",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Museum - Saal 2 | Coppola",
+            "theater": "Museum - Saal 3 | Arsenal",
             "attributes": [
               "2d"
             ],
@@ -1220,190 +1847,12 @@
       }
     ],
     "attributes": [
-      "2D",
-      "2D",
       "2D",
       "2D"
     ]
   },
   {
-    "id": 8,
-    "title": "Elio",
-    "duration": "97 min",
-    "fsk": "6",
-    "genre": "Komödie, Animation, Abenteuer, Science Fiction",
-    "origTitle": "Unknown Original Title",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "19.06.2025",
-    "distributor": "Disney",
-    "director": "Madeline Sharafian, Domee Shi, Adrian Molina",
-    "description": "Der 11-jährige Elio ist ein Träumer. Obwohl er künstlerisch und kreativ ist sowie begeisterter Indoor-Sportler, kämpft er damit, sich anzupassen. Währenddessen arbeitet seine Mutter Olga, Leiterin eines streng geheimen Militärprojektes, an der Entschlüsselung außerirdischer Botschaften aus dem Weltraum. Doch nicht sie, sondern ihr Sohn stellt den Kontakt her und wird von den Außerirdischen hochgebeamt. Elio wird plötzlich für den auserwählten, intergalaktischen Botschafter der Erde gehalten. Auf diesem großen Abenteuer muss er den Außerirdischen, aber vor allem sich selbst beweisen, dass der beste Teil des Menschseins darin besteht, man selbst zu sein.",
-    "posterUrl": "https://static.kinoheld.de/images/film/elio-69785.v17485052937781.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/h4yyrJbzZwg?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Zoe Saldana",
-      "Brad Garrett",
-      "Remy Edgerly",
-      "Jameela Jamil"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Blaue Brücke - Saal 2 | Spielberg",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": []
-      },
-      {
-        "date": "2025-07-13",
-        "shows": []
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "OmdU",
-      "OmdU"
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Heidi - Die Legende vom Luchs",
-    "duration": "79 min",
-    "fsk": "0",
-    "genre": "Animation, Abenteuer, Familie",
-    "origTitle": "Heidi",
-    "production": "Deutschland",
-    "releaseDate": "26.06.2025",
-    "distributor": "LEONINE Studios",
-    "director": "Tobias Schwarz",
-    "description": "Die temperamentvolle Heidi lebt bei ihrem grummeligen Großvater Alm-Öhi in einer zurückgezogenen Berghütte in den Schweizer Alpen. Heidi hat Ferien und wünscht sich nichts sehnlicher, als ihre Freundin Clara beim Urlaub an der Ostsee zu besuchen. Doch der Fund eines einsamen und verletzten Luchs-Kätzchens ändert ihre Pläne: Das Luchs-Junge muss dringend zurück in die Berge zu seiner Familie! Ohne Großvaters Wissen kümmert sich Heidi liebevoll um ihren neuen kleinen Freund. Wenn nur nicht der geldgierige Geschäftsmann Schnaittinger wäre, der in der wunderschönen Berglandschaft ein großes Sägewerk errichten möchte und Fallen für die Luchse aufgestellt hat. Nun ist es an Heidi und ihrem besten Freund Peter, nicht nur das süße Luchs-Junge und seine Familie, sondern auch die Dorfgemeinschaft und die heimische Natur, die sie so liebt, zu retten.",
-    "posterUrl": "https://static.kinoheld.de/images/film/heidi-5312516994201101699420111.v17431488568217.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/EszfQ2Nxel8?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Eva Maria Singhammer",
-      "Michaela May",
-      "Jan Koester",
-      "Gustav Knuth"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": []
-      },
-      {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "15:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "14:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "15:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "14:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "15:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "13:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "14:45",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "2D",
-      "2D",
-      "2D",
-      "2D",
-      "2D",
-      "2D",
-      "2D"
-    ]
-  },
-  {
-    "id": 10,
+    "id": 14,
     "title": "Im Prinzip Familie",
     "duration": "91 min",
     "fsk": "0",
@@ -1430,141 +1879,34 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
-      }
-    ],
-    "attributes": [
-      "2D"
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Drachenzähmen leicht gemacht",
-    "duration": "125 min",
-    "fsk": "12",
-    "genre": "Abenteuer, Action, Fantasy",
-    "origTitle": "How to Train Your Dragon",
-    "production": "Frankreich, Vereinigtes Königreich, Vereinigte Staaten",
-    "releaseDate": "12.06.2025",
-    "distributor": "Universal Pictures International",
-    "director": "Dean Deblois",
-    "description": "Auf der schroffen Insel Berk, wo seit Generationen eine erbitterte Feindschaft zwischen Wikingern und Drachen wütet, erweist sich Hicks als Außenseiter. Der einfallsreiche, jedoch unterschätzte Sohn von Häuptling Haudrauf widersetzt sich jahrhundertealten Traditionen, als er sich mit dem gefürchteten Nachtschatten-Drachen Ohnezahn anfreundet. Ihre außergewöhnliche Verbindung enthüllt nicht nur die wahre Natur der Drachen – sie stellt die Werteordnung aller Wikinger in Frage. Mit der ehrgeizigen und kämpferischen Astrid und dem schrulligen Waffenschmied Grobian an seiner Seite stellt sich Hicks einer Welt, die von Angst und Missverständnissen zerfressen ist. Als eine alte Bedrohung sowohl Wikinger als auch Drachen in Gefahr bringt, wird seine Freundschaft zu Ohnezahn zum Schlüssel für eine bessere Zukunft.",
-    "posterUrl": "https://static.kinoheld.de/images/film/drachenzaehmen-leicht-gemacht-68949.v17460131853750.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/K1jwE6VuKFU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Bronwyn James",
-      "Mason Thames",
-      "Nick Frost",
-      "Julian Dennison"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
       },
       {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "17:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-07-17",
+        "shows": []
       },
       {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:30",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-07-18",
+        "shows": []
       },
       {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "17:30",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-07-19",
+        "shows": []
       },
       {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "14:00",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "16:30",
-            "theater": "Museum - Saal 1 | Almodóvar",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-07-20",
+        "shows": []
       },
       {
-        "date": "2025-07-14",
+        "date": "2025-07-21",
         "shows": []
       }
     ],
     "attributes": [
-      "OmdU",
-      "2D",
-      "2D",
-      "2D",
-      "OmdU",
-      "2D",
-      "2D",
-      "2D",
       "2D"
     ]
   },
   {
-    "id": 12,
+    "id": 15,
     "title": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
     "duration": "93 min",
     "fsk": "Unknown",
@@ -1574,7 +1916,7 @@
     "releaseDate": "03.07.2025",
     "distributor": "Filmwelt Verleih",
     "director": "Dorottya Zurbo, Arun Bhattarai",
-    "description": "Amber Gurung reist durch Bhutans entlegene Täler und befragt Menschen zu ihrem Glücksempfinden – Grundlage für das Konzept des „Bruttonationalglücks“. Ihre Antworten geben Einblick in persönliche Lebensrealitäten.<br><br>Mit AGENT OF HAPPINESS öffnen Arun Bhattarai und Dorottya Zurbó den Blick in andere Leben und in eine andere, faszinierende Welt. Ausgehend von der heute weltweit bekannten Glückspolitik Bhutans geht der Film der Frage nach, was Glück sein kann. Wenn die Menschen von sich erzählen, lässt er erahnen, dass Glück zu empfinden nicht nur eine Frage der äußeren Umstände ist. Und wie zerbrechlich das Glück ist – ganz egal, wo man lebt. Unweigerlich zieht man Parallelen zum eigenen Leben und stellt sich die Frage nach dem eigenen Glück. Und ein Film über das Glück anderer macht einen so vielleicht selbst ein bisschen glücklicher.",
+    "description": "Das dokumentarische Roadmovie, das Anfang des Jahres auf dem Sundance Film Festival seine Weltpremiere feierte, begleitet den Bhutaner Amber Gurung auf seinen Reisen durch die abgelegenen Täler des Himalayas. Dort befragen Beauftragte wie er die Bevölkerung Bhutans nach ihrem ganz persönlichen Glücksempfinden – und liefern damit die Grundlage für die Politik des „Bruttonationalglücks“, nach dem die bhutanische Regierung die Entwicklung des Landes ausrichtet. So folgt AGENT OF HAPPINESS Amber und einem Kollegen, wie sie mit ihrem Kleinwagen von Tür zu Tür fahren und auf die unterschiedlichsten Menschen treffen, ob im Dorf oder auf dem Land, ob beim Beackern der Felder, beim Gebet oder bei der Meditation. Ganz verschieden reagieren sie auf Ambers standardisierten Fragebogen: ob sie eine Kuh oder einen Esel besitzen, einen Traktor oder einen Laptop – sie alle erzählen mit unerschrockener Ehrlichkeit und stiller Weisheit aus ihrem Leben und davon, was sie glücklich macht und was vielleicht nicht. Und Amber selbst, der mit seinen knapp 40 Jahren allein mit seiner betagten Mutter lebt, spielt auf seinen Reisen Luftgitarre, er singt und tanzt – träumt letztlich aber nur davon, endlich die richtige Frau zu finden. Unterwegs im Auftrag des Glücks und auf der Suche nach dem eigenen Glück...<br><br>Mit AGENT OF HAPPINESS öffnen Arun Bhattarai und Dorottya Zurbó den Blick in andere Leben und in eine andere, faszinierende Welt. Ausgehend von der heute weltweit bekannten Glückspolitik Bhutans geht der Film der Frage nach, was Glück sein kann. Wenn die Menschen von sich erzählen, lässt er erahnen, dass Glück zu empfinden nicht nur eine Frage der äußeren Umstände ist. Und wie zerbrechlich das Glück ist – ganz egal, wo man lebt. Unweigerlich zieht man Parallelen zum eigenen Leben und stellt sich die Frage nach dem eigenen Glück. Und ein Film über das Glück anderer macht einen so vielleicht selbst ein bisschen glücklicher.",
     "posterUrl": "https://static.kinoheld.de/images/film/agent-of-happiness-69885.v17398693689926.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/546OMo7VItA?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
@@ -1582,79 +1924,6 @@
       "Guna Raj Kuikel"
     ],
     "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      },
-      {
-        "date": "2025-07-15",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
       {
         "date": "2025-07-16",
         "shows": [
@@ -1667,19 +1936,54 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "15:45",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
       }
     ],
     "attributes": [
-      "2D",
-      "2D",
-      "2D",
       "2D",
       "2D",
       "2D"
     ]
   },
   {
-    "id": 13,
+    "id": 16,
     "title": "Vier Mütter für Edward",
     "duration": "89 min",
     "fsk": "6",
@@ -1700,137 +2004,6 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "16:15",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:30",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "20:30",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "14:45",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "19:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:30",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-15",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          },
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
         "date": "2025-07-16",
         "shows": [
           {
@@ -1842,62 +2015,26 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
-      }
-    ],
-    "attributes": [
-      "Apéro Film",
-      "OmdU",
-      "2D",
-      "2D",
-      "2D",
-      "2D",
-      "OmdU",
-      "2D",
-      "2D",
-      "OmdU",
-      "2D",
-      "2D",
-      "2D",
-      "OmdU",
-      "2D"
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Ocean with David Attenborough",
-    "duration": "105 min",
-    "fsk": "6",
-    "genre": "Dokumentarfilm, Dokumentation",
-    "origTitle": "David Attenborough: Ocean",
-    "production": "Vereinigtes Königreich",
-    "releaseDate": "01.01.2025",
-    "distributor": "Piece of Magic Entertainment",
-    "director": "Keith Scholey, Toby Nowlan",
-    "description": "OCEAN WITH DAVID ATTENBOROUGH nimmt die Zuschauer mit auf eine atemberaubende Reise, die zeigt, dass es nirgendwo mehr Leben, Wunder und Überraschungen gibt als im Ozean, der für unser Überleben so wichtig ist. In spektakulären Sequenzen, die Korallenriffe, Seetangwälder und den offenen Ozean zeigen, erklärt Attenborough, warum ein gesunder Ozean den gesamten Planeten stabil hält und gedeihen lässt. Atemberaubende, eindringliche Filmaufnahmen zeigen das Wunder des Lebens unter dem Meer und enthüllen die Realitäten und Herausforderungen, mit denen unser Ozean konfrontiert ist, wie nie zuvor, von zerstörerischen Fischereimethoden bis hin zur massiven Korallenriffbleiche. Dennoch ist die Geschichte von Optimismus geprägt, wobei Attenborough auf inspirierende Geschichten aus der ganzen Welt verweist, um seine wichtigste Botschaft zu vermitteln: Der Ozean kann sich zu einer Pracht erholen, die alles übertrifft, was die Menschen je gesehen haben.ChatGPT:\nDer gefeierte Moderator und Filmemacher zeigt, wie sich sein Lebensweg mit dem goldenen Zeitalter der Ozeanentdeckung überschneidet. In spektakulären Aufnahmen von Korallenriffen, Tangwäldern und der offenen See erklärt Attenborough, warum ein gesunder Ozean entscheidend für die Stabilität und das Gedeihen unseres gesamten Planeten ist.\n\nAtemberaubende, immersive Bilder zeigen das Wunder des Lebens unter Wasser – und offenbaren wie nie zuvor die Herausforderungen, denen unsere Meere gegenüberstehen: von zerstörerischen Fischereimethoden bis hin zu massenhaftem Korallenbleichen. Doch die Erzählung ist von Hoffnung geprägt: Attenborough verweist auf inspirierende Beispiele aus aller Welt und vermittelt seine wichtigste Botschaft – der Ozean kann sich erholen, zu einer Pracht, die alles übertrifft, was je ein Mensch gesehen hat.",
-    "posterUrl": "https://static.kinoheld.de/images/film/ocean-with-david-attenborough-72927.v17437645000863.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/cIZAdCtKT_g?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "David Attenborough"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": []
       },
       {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
+        "date": "2025-07-17",
         "shows": [
           {
-            "time": "16:00",
-            "theater": "Museum - Saal 3 | Arsenal",
+            "time": "20:00",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier - Atelier",
             "attributes": [
               "2d"
             ],
@@ -1906,20 +2043,85 @@
         ]
       },
       {
-        "date": "2025-07-13",
-        "shows": []
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
       },
       {
-        "date": "2025-07-14",
-        "shows": []
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Atelier - Atelier",
+            "attributes": [
+              "OmdU"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
       }
     ],
     "attributes": [
+      "OmdU",
+      "OmdU",
+      "2D",
+      "2D",
+      "2D",
+      "OmdU",
+      "2D",
+      "OmdU",
       "2D"
     ]
   },
   {
-    "id": 15,
+    "id": 17,
     "title": "Der Phönizische Meisterstreich",
     "duration": "101 min",
     "fsk": "12",
@@ -1940,10 +2142,18 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
         "shows": [
           {
-            "time": "20:00",
+            "time": "15:45",
             "theater": "Atelier - Atelier",
             "attributes": [
               "OmdU"
@@ -1953,19 +2163,11 @@
         ]
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-19",
         "shows": []
       },
       {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": []
-      },
-      {
-        "date": "2025-07-13",
+        "date": "2025-07-20",
         "shows": [
           {
             "time": "19:30",
@@ -1978,107 +2180,18 @@
         ]
       },
       {
-        "date": "2025-07-14",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "OmdU"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-07-21",
+        "shows": []
       }
     ],
     "attributes": [
-      "OmdU",
       "OmdU",
       "OmdU",
       "OmdU"
     ]
   },
   {
-    "id": 16,
-    "title": "One to One: John & Yoko",
-    "duration": "104 min",
-    "fsk": "12",
-    "genre": "Dokumentation",
-    "origTitle": "Unknown Original Title",
-    "production": "Vereinigtes Königreich",
-    "releaseDate": "26.06.2025",
-    "distributor": "Piece of Magic Entertainment",
-    "director": "Kevin MacDonald",
-    "description": "Ein umfassender und aufschlussreicher Einblick in das Leben von John Lennon und Yoko Ono im Greenwich Village der frühen 1970er-Jahre: ONE TO ONE: JOHN & YOKO bietet ein immersives Kinoerlebnis, das elektrisierendes, nie zuvor gezeigtes Material und neu restaurierte Aufnahmen von John und Yokos einzigem vollständigen Konzert zum Leben erweckt. Mit atemberaubender Musik, neu abgemischt und produziert von Sean Ono Lennon, ist der Film eine seismische Offenbarung, die bestehende Vorstellungen über das ikonische Paar infrage stellt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/one-to-one-john-yoko-72463.v17460142414560.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/oxagfYjeMV4?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "John Lennon",
-      "Yōko Ono",
-      "Andy Warhol",
-      "Stevie Wonder"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": []
-      },
-      {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "16:00",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "12:30",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "2D",
-      "2D",
-      "2D"
-    ]
-  },
-  {
-    "id": 17,
+    "id": 18,
     "title": "Die Barbaren - Willkommen in der Bretagne",
     "duration": "103 min",
     "fsk": "12",
@@ -2099,33 +2212,15 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Museum - Saal 3 | Arsenal",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-07-16",
+        "shows": []
       },
       {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "17:45",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
+        "date": "2025-07-17",
+        "shows": []
       },
       {
-        "date": "2025-07-11",
+        "date": "2025-07-18",
         "shows": [
           {
             "time": "15:30",
@@ -2138,37 +2233,179 @@
         ]
       },
       {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
+        "date": "2025-07-19",
         "shows": [
           {
             "time": "18:15",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "14:30",
             "theater": "Museum - Saal 2 | Coppola",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
+      }
+    ],
+    "attributes": [
+      "2D",
+      "2D",
+      "2D"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Hölderlins Echo",
+    "duration": "89 min",
+    "fsk": "Unknown",
+    "genre": "Dokumentarfilm, Animation",
+    "origTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "19.10.2023",
+    "distributor": "Arsenal Filmverleih",
+    "director": "Susanne Marschall, Hannes Rall",
+    "description": "Der Dokumentarfilm Hölderlins Echo nähert sich dem Leben und Werk des bekannten Dichters auf ungewöhnliche Weise: In den Realfilmteilen werden Künstler beobachtet und interviewt, die die zahlreichen Vertonungen Hölderlinscher Gedichte von bekannten Komponisten interpretieren. Animierte Sequenzen interpretieren biographische Abschnitte aus Hölderlins bewegtem Leben in poetisch assoziativer Form.",
+    "posterUrl": "https://static.kinoheld.de/images/film/hoelderlins-echo-5211216978253161697825317.v17092530625363.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/Vn0e0zKejpw?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Ilker Arcayürek",
+      "Timo Brunke",
+      "Victoire Bunel",
+      "Chantal Busse"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 3 | Arsenal",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      }
+    ],
+    "attributes": [
+      "Premieren & Gäste",
+      "2D"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Deutschland vs. Frankreich - Viertelfinale Women's EURO",
+    "duration": "120 min",
+    "fsk": "0",
+    "genre": "Unknown Genre",
+    "origTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Unknown Director",
+    "description": "Die deutsche Frauen-Nationalmannschaft steht als Zweiter der Gruppe C im Viertelfinale der UEFA Women's Euro 2025 in der Schweiz: Am Samstag, 19. Juli, (ab 21 Uhr, live im ZDF und bei DAZN) spielt das Team von Bundestrainer Christian Wück gegen den Sieger aus Gruppe D um den Einzug ins EM-Halbfinale.",
+    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-123749.v17524955599475.webp?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "Unknown Trailer URL",
+    "actors": [],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "21:00",
+            "theater": "Blaue Brücke - Saal 1 | Tarantino",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
+      }
+    ],
+    "attributes": [
+      "Eintritt frei",
+      "2D"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Shorts Attack: Reisefieber",
+    "duration": "0",
+    "fsk": "Unknown",
+    "genre": "Kurzfilm",
+    "origTitle": "Unknown Original Title",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Unknown Director",
+    "description": "Von der Kunst des Kofferpackens mit Papa über die Namenssuche für den Sohn bis hin zum Benehmen am Küchentisch, Shorts Attack folgt in 9 Filmen schrägen familiären Verstrickungen. Kindheitserlebnisse und Mütterbefindlichkeiten werden gefeiert, Familienbande gestärkt, Traumata durch Tanz bewältigt und Stöckelschuhe geraten zur Herausforderung des Familienfriedens. – Ein Loblied auf die Familie!",
+    "posterUrl": "https://static.kinoheld.de/images/film/shorts-attack-familienkoller-21477.v2.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "Unknown Trailer URL",
+    "actors": [],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": []
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Museum - Saal 3 | Arsenal",
             "attributes": [
               "OmdU"
             ],
@@ -2177,13 +2414,13 @@
         ]
       },
       {
-        "date": "2025-07-15",
+        "date": "2025-07-22",
         "shows": [
           {
-            "time": "20:30",
+            "time": "18:00",
             "theater": "Museum - Saal 2 | Coppola",
             "attributes": [
-              "2d"
+              "OmdU"
             ],
             "iframeUrl": "Unknown iframe URL"
           }
@@ -2192,171 +2429,103 @@
     ],
     "attributes": [
       "OmdU",
-      "2D",
-      "2D",
-      "2D",
-      "2D",
-      "2D",
       "OmdU",
-      "2D"
+      "OmdU"
     ]
   },
   {
-    "id": 18,
-    "title": "Copa 71 (2023)",
-    "duration": "91 min",
-    "fsk": "0",
-    "genre": "Dokumentarfilm, Historie",
-    "origTitle": "Copa 71",
-    "production": "Vereinigtes Königreich",
-    "releaseDate": "26.06.2025",
-    "distributor": "Grandfilm",
-    "director": "James Erskine, Rachel Ramsay",
-    "description": "August 1971: Mexico City ist Austragungsort für ein riesiges Fußballspektakel, bei dem Teams aus England, Argentinien, Mexiko, Frankreich, Dänemark und Italien aufeinandertreffen. Über 100.000 Fans verwandeln das historische Azteca-Stadion Spiel für Spiel in einen Ort der Begeisterung, das Fernsehen berichtet durchgehend. Die Atmosphäre erinnert an die größten Momente der internationalen Fußballgeschichte. Aber dieses Turnier ist anders als alles, was es vorher gab, denn auf dem Platz sind ausschließlich Frauen. Es handelt sich um die Copa ’71, die erste inoffizielle Frauenfußball-WM. Von der FIFA und den nationalen Fußballverbänden abgelehnt, wurde dieses historische Ereignis aus den Annalen des Fußballs verdrängt. Doch nun erinnert ein Dokumentarfilm an dieses Turnier, das über zehn Jahre vor der ersten offiziellen Frauenfußball-Weltmeisterschaft stattfand, und rückt die Spielerinnen der damaligen Zeit, die charismatischen Pionierinnen ihrer Sportart, endlich ins Rampenlicht.",
-    "posterUrl": "https://static.kinoheld.de/images/film/copa-71-2023-74711.v17470387733657.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/sMzGF9L6I8c?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Brandi Chastain",
-      "Nicole Mangas",
-      "Silvia Zaragoza",
-      "Alex Morgan"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": []
-      },
-      {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": []
-      },
-      {
-        "date": "2025-07-13",
-        "shows": []
-      },
-      {
-        "date": "2025-07-14",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      }
-    ],
-    "attributes": [
-      "2D"
-    ]
-  },
-  {
-    "id": 19,
-    "title": "Step Across the Border",
-    "duration": "87 min",
-    "fsk": "12",
-    "genre": "Dokumentation",
-    "origTitle": "Unknown Original Title",
-    "production": "Deutschland, Schweiz",
-    "releaseDate": "19.06.2025",
-    "distributor": "Rapid Eye Movies",
-    "director": "Werner Penzel, Nicolas Humbert",
-    "description": "Musizieren als spontaner und unaufhörlicher Stoffwechsel mit der Welt: Der britische Musiker Fred Frith macht das einfach so, ohne irgendwelche Künstler-Allüren, als wär's nicht nur die leichteste, sondern auch die selbstverständlichste Sache der Welt. Nicolas Humbert und Werner Penzel haben sich Frith zwei Jahre an die Fersen geheftet, haben sich anstecken lassen. In ihrer Zelluloid-Improvisation antworten sie auf seine Musik mit Montagesequenzen, in denen sie sich dieselbe Freiheit nehmen, die Welt zum Tanzen zu bringen. In STEP ACROSS THE BORDER treffen sich zwei verwandte künstlerische Ausdrucksformen: improvisierte Musik und Cinema Direct. In beiden Fällen geht es um den Moment, um das intuitive Begreifen von dem, was in einem Raum vor sich geht. Musik und Film entstehen aus der verschärften Wahrnehmung für das Augenblickliche, nicht aus der Umsetzung eines gedanklichen Plans. Bei der Improvisation offenbart sich der Plan erst ganz am Ende, man findet ihn. Ein Musikfilm.",
-    "posterUrl": "https://static.kinoheld.de/images/film/step-across-the-border-75243.v17481981330002.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/Jp_zxCs21rc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Fred Frith",
-      "Jonas Mekas",
-      "John Spacely",
-      "Julia Judge"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier - Atelier",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": []
-      },
-      {
-        "date": "2025-07-13",
-        "shows": []
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "2D"
-    ]
-  },
-  {
-    "id": 20,
-    "title": "Arsenal Sneak",
+    "id": 22,
+    "title": "Classic Sneak - Fantasy Edition",
     "duration": "0",
-    "fsk": "18",
+    "fsk": "0",
     "genre": "Unknown Genre",
     "origTitle": "Unknown Original Title",
-    "production": "Deutschland",
-    "releaseDate": "01.01.2038",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
     "distributor": "Unknown Distributor",
     "director": "Unknown Director",
-    "description": "In unseren Überraschungspreviews zeigen wir brandneue Produktionen aus Hollywood und der ganzen Welt. Manchmal eine Woche - manchmal Monate vor dem deutschen Filmstart. Aber: Der Filmtitel bleibt geheim, bis sich der Vorhang öffnet. Wir verraten nicht mal um welches Genre es sich handelt: Komödie, Drama, Action, Horror oder Dokumentation, alles ist möglich. Aufgrund der hohen Nachfrage empfehlen wir, rechtzeitig die Tickets direkt online zu kaufen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/sneak-preview-1.v1.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "description": "Die Faszination Nina Simone wird in einer facettenreichen Show lebendig. Songs, Bilder und Texte machen das Leben dieser außergewöhnlichen Künstlerin spürbar.\nFola Dada, Florian Dohrmann, der Tübinger Kontrabassist, die Band bestehend aus Ulf Kleiner, Felix Schrack und Christoph Neuhaus, die Sprecherin und Moderatorin Katharina Eickhoff (SWR2) werfen ein Schlaglicht auf diese Geschichte. \n\nGesang/Moderation - Fola Dada (Deutscher Jazzpreis 2022)\nErzählerin - Katharina Eickhoff\nKontrabass und Konzept - Florian Dohrmann\nPiano - Ulf Kleiner\nSchlagzeug - Felix Schrack\nGitarre - Christoph Neuhaus (Landesjazzpreis Ba-Wü 2021)\nIllustrationen - Uli Gleis",
+    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-123643.v17520579087360.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-16",
         "shows": []
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Blaue Brücke - Saal 2 | Spielberg",
+            "attributes": [
+              "2d"
+            ],
+            "iframeUrl": "Unknown iframe URL"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
         "shows": []
       },
       {
-        "date": "2025-07-11",
+        "date": "2025-07-19",
         "shows": []
       },
       {
-        "date": "2025-07-12",
+        "date": "2025-07-20",
         "shows": []
       },
       {
-        "date": "2025-07-13",
+        "date": "2025-07-21",
+        "shows": []
+      }
+    ],
+    "attributes": [
+      "Classic Sneak",
+      "2D"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Arsenal Sneak",
+    "duration": "0",
+    "fsk": "12",
+    "genre": "Unknown Genre",
+    "origTitle": "Arsenal Sneak",
+    "production": "Unknown Production",
+    "releaseDate": "Unknown Release Date",
+    "distributor": "Unknown Distributor",
+    "director": "Unknown Director",
+    "description": "",
+    "posterUrl": "https://static.kinoheld.de/images/film/arsenal-sneak-tuebinger-kinos-76637.v17512917431208.png?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "Unknown Trailer URL",
+    "actors": [],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
         "shows": []
       },
       {
-        "date": "2025-07-14",
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": []
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
         "shows": [
           {
             "time": "20:00",
@@ -2375,7 +2544,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 24,
     "title": "Little Women",
     "duration": "135 min",
     "fsk": "0",
@@ -2396,6 +2565,22 @@
     ],
     "showtimes": [
       {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": []
+      },
+      {
         "date": "2025-07-20",
         "shows": [
           {
@@ -2407,6 +2592,10 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
       }
     ],
     "attributes": [
@@ -2415,53 +2604,33 @@
     ]
   },
   {
-    "id": 22,
-    "title": "UEFA Women's EURO 2025",
-    "duration": "120 min",
-    "fsk": "Unknown",
+    "id": 25,
+    "title": "Die Nina Simone Story feat. Fola Dada",
+    "duration": "100 min",
+    "fsk": "0",
     "genre": "Unknown Genre",
     "origTitle": "Unknown Original Title",
     "production": "Unknown Production",
     "releaseDate": "Unknown Release Date",
     "distributor": "Unknown Distributor",
     "director": "Unknown Director",
-    "description": "Kostenloses Public Viewing in der Blauen Brücke. \nDie Fußball-Europameisterschaft der Frauen 2025 (offiziell UEFA Women’s Euro 2025) wird die 14. Austragung des europäischen Kontinentalwettbewerbs im Frauenfußball sein. Die Schweiz ist Gastgeberin des Turniers, das vom 2. bis 27. Juli 2025 stattfinden soll.",
-    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-121207.v17477415182429.webp?w=352&h=528&fm=webp&q=90&fit=crop",
+    "description": "Die Faszination Nina Simone wird in einer facettenreichen Show lebendig. Songs, Bilder und Texte machen das Leben dieser außergewöhnlichen Künstlerin spürbar.\nFola Dada, Florian Dohrmann, der Tübinger Kontrabassist, die Band bestehend aus Ulf Kleiner, Felix Schrack und Christoph Neuhaus, die Sprecherin und Moderatorin Katharina Eickhoff (SWR2) werfen ein Schlaglicht auf diese Geschichte. \n\nGesang/Moderation - Fola Dada (Deutscher Jazzpreis 2022)\nErzählerin - Katharina Eickhoff\nKontrabass und Konzept - Florian Dohrmann\nPiano - Ulf Kleiner\nSchlagzeug - Felix Schrack\nGitarre - Christoph Neuhaus (Landesjazzpreis Ba-Wü 2021)\nIllustrationen - Uli Gleis",
+    "posterUrl": "https://static.kinoheld.de/images/film/mo/5357-123643.v17520579087360.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [],
     "showtimes": [
       {
-        "date": "2025-07-09",
-        "shows": []
-      },
-      {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
+        "date": "2025-10-16",
         "shows": [
           {
-            "time": "21:00",
-            "theater": "Blaue Brücke - Saal 3 | Kubrick",
+            "time": "19:30",
+            "theater": "Museum - Saal 1 | Almodóvar",
             "attributes": [
               "2d"
             ],
             "iframeUrl": "Unknown iframe URL"
           }
         ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": []
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
       }
     ],
     "attributes": [
@@ -2470,67 +2639,7 @@
     ]
   },
   {
-    "id": 23,
-    "title": "The Zone of Interest",
-    "duration": "106 min",
-    "fsk": "12",
-    "genre": "Drama, Kriegsfilm, Historie",
-    "origTitle": "Unknown Original Title",
-    "production": "Vereinigtes Königreich, Polen, Vereinigte Staaten",
-    "releaseDate": "29.02.2024",
-    "distributor": "Leonine",
-    "director": "Jonathan Glazer",
-    "description": "In den 1940er-Jahren lebt die Familie des KZ-Kommandanten Rudolf Höß in einem Haus mit Garten in der Nähe des Lagers in Auschwitz. Als Höß versetzt werden soll, steht das Familienidyll vor dem Zerbrechen. Seine Frau weigert sich, ihr \"Traumhaus\" zu verlassen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/the-zone-of-interest-54127.v17056757439516.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/RthpX-j4juU?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Christian Friedel",
-      "Luis Noah Witte",
-      "Sascha Maaz",
-      "Maximilian Beck"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": []
-      },
-      {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Museum - Saal 2 | Coppola",
-            "attributes": [
-              "2d"
-            ],
-            "iframeUrl": "Unknown iframe URL"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": []
-      },
-      {
-        "date": "2025-07-13",
-        "shows": []
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      }
-    ],
-    "attributes": [
-      "Rewind",
-      "2D"
-    ]
-  },
-  {
-    "id": 24,
+    "id": 26,
     "title": "Parthenope",
     "duration": "136 min",
     "fsk": "16",
@@ -2570,7 +2679,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 27,
     "title": "Gagarin - Einmal schwerelos und zurück",
     "duration": "98 min",
     "fsk": "12",
@@ -2591,6 +2700,10 @@
     ],
     "showtimes": [
       {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
         "date": "2025-07-17",
         "shows": [
           {
@@ -2602,6 +2715,22 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": []
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
       }
     ],
     "attributes": [
@@ -2610,7 +2739,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 28,
     "title": "The Idea of You - Als du mich sahst",
     "duration": "115 min",
     "fsk": "Unknown",
@@ -2639,6 +2768,26 @@
             "iframeUrl": "Unknown iframe URL"
           }
         ]
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": []
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
       }
     ],
     "attributes": [
@@ -2647,48 +2796,36 @@
     ]
   },
   {
-    "id": 27,
-    "title": "Juror #2",
-    "duration": "114 min",
-    "fsk": "12",
-    "genre": "Drama",
-    "origTitle": "Unknown Original Title",
-    "production": "Vereinigte Staaten",
-    "releaseDate": "16.01.2025",
-    "distributor": "Warner Bros. Pictures",
-    "director": "Unknown Director",
-    "description": "Juror #2 folgt dem Familienvater Justin Kemp (Hoult), der als Geschworener in einem aufsehenerregenden Mordprozess mit einem ernsten moralischen Dilemma zu kämpfen hat ... einem Dilemma, das er nutzen könnte, um das Urteil der Geschworenen zu beeinflussen und den angeklagten Mörder möglicherweise zu verurteilen – oder freizulassen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/juror-2-67627.v17367796500684.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/fq9t3FPNiBY?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "id": 29,
+    "title": "Drama Queens",
+    "duration": "115 min",
+    "fsk": "16",
+    "genre": "Drama, Komödie, Fantasy, Musik",
+    "origTitle": "Les reines du drame",
+    "production": "Belgien, Frankreich",
+    "releaseDate": "01.01.2025",
+    "distributor": "Salzgeber & Company Medien",
+    "director": "Alexis Langlois",
+    "description": "Breaking News! Glitterpop-Ikone Mimi Madamour und Butch-Punksängerin Billie sind ein Liebespaar! Aber niemand darf es wissen. 2005 lernen sich die beiden jungen Frauen in einer Castingshow kennen und sind direkt schockverliebt. Doch Billie will sich den brutalen Anforderungen des Business nicht anpassen und fliegt aus der Show. Mimi gewinnt, wird von den Produzent:innen zur blonden Popdiva umfrisiert und landet tatsächlich einen weltweiten Megahit. Doch als Star verliert sie auch zunehmend die Kontrolle über ihr Leben – und die stürmische Beziehung zu Billie, die plötzlich selbst große Erfolge feiert, wird zur Zerreißprobe.<br><br>Was ist mir als Künstler:in wichtiger: erfolgreich oder authentisch zu sein? In dem turbulenten satirischen Musical „Drama Queens“ reflektiert Alexis Langlois smart und schonungslos die toxischen Aspekte von Musikindustrie und Fankultur. Gleichzeitig ist Alexis’ Debütfilm auch eine Liebeserklärung an die Popkultur der frühen 2000er und eine leidenschaftliche Feier ihrer chaotischen Diven. Ein berauschendes queeres Glitterpop-Märchen, das alle Register zieht!",
+    "posterUrl": "https://static.kinoheld.de/images/film/drama-queens-72685.v17506641966676.webp?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/su3PrHkCHlM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
-      "Clint Eastwood",
-      "Nicholas Hoult",
-      "J.K. Simmons",
-      "Kiefer Sutherland"
+      "Louiza Aura",
+      "Gio Ventura",
+      "Bilal Hassani",
+      "Asia Argento"
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-16",
         "shows": []
       },
       {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": []
-      },
-      {
-        "date": "2025-07-13",
+        "date": "2025-07-17",
         "shows": [
           {
-            "time": "11:00",
-            "theater": "Museum - Saal 3 | Arsenal",
+            "time": "22:00",
+            "theater": "Atelier - Atelier",
             "attributes": [
               "2d"
             ],
@@ -2697,17 +2834,29 @@
         ]
       },
       {
-        "date": "2025-07-14",
+        "date": "2025-07-18",
+        "shows": []
+      },
+      {
+        "date": "2025-07-19",
+        "shows": []
+      },
+      {
+        "date": "2025-07-20",
+        "shows": []
+      },
+      {
+        "date": "2025-07-21",
         "shows": []
       }
     ],
     "attributes": [
-      "Mein Lieblingsfilm",
+      "Queerfilmnacht",
       "2D"
     ]
   },
   {
-    "id": 28,
+    "id": 30,
     "title": "Der weiße Hai",
     "duration": "125 min",
     "fsk": "16",
@@ -2747,7 +2896,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 31,
     "title": "Walk the Line",
     "duration": "136 min",
     "fsk": "6",
@@ -2787,7 +2936,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 32,
     "title": "Sie Leben",
     "duration": "93 min",
     "fsk": "16",
@@ -2827,7 +2976,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 33,
     "title": "Das Schweigen der Lämmer",
     "duration": "118 min",
     "fsk": "16",
@@ -2838,7 +2987,7 @@
     "distributor": "Orion Pictures",
     "director": "Unknown Director",
     "description": "Die FBI-Akademie-Schülerin Clarice Starling bekommt eine schwierige Arbeit auferlegt. Sie soll im Hochsicherheitsgefängnis den geistig gestörten Mörder und ehemaligen Psychiater Dr. Hannibal Lecter überreden, ein Psychogramm vom brutalen Massenmörder Buffalo Bill zu erstellen. Mit dieser Hilfe hofft das FBI, den Mörder aufspüren zu können. Was Starling jedoch nicht wissen konnte: Hannibal Lecter möchte aus dieser Zusammenarbeit einen eigenen Nutzen ziehen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/mufasa-der-koenig-der-loewen-62341.v17355541947515.jpeg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/das-schweigen-der-laemmer-73975.v17454506086624.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/X2mG9F3iMfk?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
       "Jonathan Demme",
@@ -2866,7 +3015,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 34,
     "title": "Charlie und die Schokoladenfabrik",
     "duration": "115 min",
     "fsk": "6",
@@ -2877,7 +3026,7 @@
     "distributor": "Warner Bros. Pictures",
     "director": "Tim Burton",
     "description": "Der Schokoladenfabrikant Willy Wonka veranstaltet ein Gewinnspiel, um einen Erben zu finden. Fünf Gewinner, darunter auch der kleine Charlie, finden \"goldene Tickets\" in ihren Schokoladenriegeln. Sie dürfen eine Führung durch die Schokoladenfabrik machen, die seit 15 Jahren kein Fremder betreten hat.",
-    "posterUrl": "https://static.kinoheld.de/images/film/die-drei-und-der-karpatenhund-63297.v17373743994115.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/charlie-und-die-schokoladenfabrik-73983.v17458291177006.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "https://www.youtube-nocookie.com/embed/j9UPUTbo6iY?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
       "Johnny Depp",
@@ -2906,7 +3055,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 35,
     "title": "Flow",
     "duration": "85 min",
     "fsk": "6",
@@ -2941,11 +3090,11 @@
     ]
   },
   {
-    "id": 34,
+    "id": 36,
     "title": "Paddington in Peru",
     "duration": "103 min",
     "fsk": "0",
-    "genre": "Komödie, Abenteuer",
+    "genre": "Familienfilm",
     "origTitle": "Unknown Original Title",
     "production": "Kanada, Frankreich, Vereinigtes Königreich, Vereinigte Staaten",
     "releaseDate": "30.01.2025",
@@ -2981,7 +3130,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 37,
     "title": "Vaiana 2",
     "duration": "100 min",
     "fsk": "0",
@@ -3021,7 +3170,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 38,
     "title": "Mufasa: Der König der Löwen",
     "duration": "118 min",
     "fsk": "6",
@@ -3061,7 +3210,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 39,
     "title": "Die drei ??? und der Karpatenhund",
     "duration": "100 min",
     "fsk": "6",
@@ -3101,7 +3250,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 40,
     "title": "Moon, Der Panda",
     "duration": "100 min",
     "fsk": "6",
@@ -3141,7 +3290,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 41,
     "title": "MET Opera 2025/26: La Sonnambula - Bellini",
     "duration": "165 min",
     "fsk": "12",
@@ -3181,18 +3330,18 @@
     ]
   },
   {
-    "id": 40,
+    "id": 42,
     "title": "MET Opera 2025/26: La Bohème - Puccini",
     "duration": "210 min",
     "fsk": "12",
-    "genre": "Musik",
+    "genre": "Opera",
     "origTitle": "Unknown Original Title",
     "production": "Vereinigtes Königreich",
     "releaseDate": "08.11.2025",
     "distributor": "LEONINE",
     "director": "Franco Zeffirelli, Keri-Lynn Wilson",
     "description": "Mit ihrer zauberhaften Kulisse und ihrer mitreißenden Musik ist die beliebteste Oper der Welt ebenso zeitlos wie herzzerreißend. Franco Zeffirellis bilderbuchhafte Inszenierung bringt das Paris des 19. Jahrhunderts auf die Bühne der Met, wo Puccinis junge Freunde und Liebende die Freuden und Herausforderungen des Bohème-Lebens durchleben. Sopranistin Juliana Grigoryan ist die schwächliche Näherin Mimì, an der Seite von Tenor Freddie De Tommaso als leidenschaftlichem Dichter Rodolfo.\n\nDie Aufführung am 8. November steht unter der musikalischen Leitung von Keri-Lynn Wilson und wird live von der Bühne der Met in Kinos weltweit übertragen.\n\nDiese Live-Übertragung ins Kino ist Teil der preisgekrönten Live in HD-Reihe der Met, die Opernaufführungen in Kinos auf der ganzen Welt bringt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2025-26-la-sonnambula-bellini-75285.v17483355423782.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2025-26-la-boheme-puccini-75283.v17483358939958.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [
       "Anita Hartig",
@@ -3221,7 +3370,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 43,
     "title": "MET Opera 2025/2026: Arabella",
     "duration": "250 min",
     "fsk": "6",
@@ -3232,7 +3381,7 @@
     "distributor": "LEONINE",
     "director": "Nicholas Carter",
     "description": "Am 22. November bringt Strauss’ elegante Liebesgeschichte den Glanz und Zauber des Wiens des 19. Jahrhunderts in einer prachtvollen Inszenierung des legendären Regisseurs Otto Schenk – „so schön, wie man es sich nur wünschen kann“ (The New York Times) – in Kinos weltweit. Sopranistin Rachel Willis-Sørensen ist in der Titelrolle der jungen Adligen Arabella zu erleben, die nach der Liebe zu ihren eigenen Bedingungen sucht. Die strahlende Sopranistin Louise Alder verkörpert ihre Schwester Zdenka, und Bassbariton Tomasz Konieczny spielt den charmanten Grafen, der Arabella im Sturm erobert.\n\nDiese Live-Übertragung ins Kino ist Teil der preisgekrönten Live in HD-Reihe der Met, die Opernaufführungen in Kinos auf der ganzen Welt bringt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2025-26-la-sonnambula-bellini-75285.v17483355423782.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-arabella-2025-75091.v17481465759370.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [],
     "showtimes": [
@@ -3256,7 +3405,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 44,
     "title": "MET Opera 2025/26: Andrea Chénier - Giordano",
     "duration": "330 min",
     "fsk": "Unknown",
@@ -3267,7 +3416,7 @@
     "distributor": "LEONINE",
     "director": "Daniele Rustioni",
     "description": "Giordanos leidenschaftliche Tragödie zeigt Tenor Piotr Beczała als tugendhaften Dichter, der den Intrigen und der Gewalt der Französischen Revolution zum Opfer fällt. Nach ihrer gefeierten Zusammenarbeit in Giordanos Fedora während der Live in HD-Saison 2022–23 stehen Beczała und Sopranistin Sonya Yoncheva erneut gemeinsam auf der Bühne – sie verkörpert Chéniers aristokratische Geliebte Maddalena di Coigny. Bariton Igor Golovatenko ist in der Rolle des Carlo Gérard zu erleben, dem Vollstrecker der Schreckensherrschaft, der das Schicksal des Liebespaares besiegelt.\n\nDaniele Rustioni, Erster Gastdirigent der Met, übernimmt die musikalische Leitung dieser packenden Inszenierung von Nicolas Joël, die am 13. Dezember live von der Bühne der Met in Kinos weltweit übertragen wird.\n\nDiese Live-Übertragung ins Kino ist Teil der preisgekrönten Live in HD-Reihe der Met, die Opernaufführungen in Kinos auf der ganzen Welt bringt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2025-26-la-sonnambula-bellini-75285.v17483355423782.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-arabella-2025-75091.v17481465759370.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [],
     "showtimes": [
@@ -3291,7 +3440,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 45,
     "title": "MET Opera 2025/26: I Puritani - Bellini",
     "duration": "350 min",
     "fsk": "12",
@@ -3331,7 +3480,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 46,
     "title": "MET Opera 2025/26 El Ultimo Sueno de Frida y Diegp",
     "duration": "170 min",
     "fsk": "6",
@@ -3342,7 +3491,7 @@
     "distributor": "LEONINE",
     "director": "Deborah Colker",
     "description": "Am 30. Mai endet die Live in HD-Saison 2025–26 der Metropolitan Opera mit der Live-Übertragung von Gabriela Lena Franks erster Oper – einem magisch-realistischen Porträt des berühmten mexikanischen Künstlerpaares Frida Kahlo und Diego Rivera. Das Libretto stammt vom mit dem Pulitzer-Preis ausgezeichneten Dramatiker Nilo Cruz. Die Geschichte, angelegt als Umkehrung des Mythos von Orpheus und Eurydike, zeigt Frida – gesungen von der renommierten Mezzosopranistin Isabel Leonard – wie sie am Tag der Toten aus der Unterwelt zurückkehrt und sich mit Diego, dargestellt von Bariton Carlos Álvarez, wiedervereint. Das berüchtigt streitlustige Paar durchlebt noch einmal seine stürmische Liebe – mit all ihrer Leidenschaft und ihrem Schmerz – bevor es sich endgültig von der Welt der Lebenden verabschiedet.<br><br>Der Musikdirektor der Met, Yannick Nézet-Séguin, dirigiert die Met-Premiere dieser Oper von Frank, deren „sicheres, fantasievolles Werk“ (The New Yorker) „vor Farbe und frischer Individualität sprüht“ (Los Angeles Times). Die farbenfrohe Neuproduktion, die sich begeistert von den Gemälden Fridas und Diegos inspirieren lässt, stammt von der Regisseurin und Choreografin Deborah Colker. Diese Live-Übertragung ins Kino ist Teil der preisgekrönten Live in HD-Reihe der Met, die Opernaufführungen in Kinos auf der ganzen Welt bringt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2025-26-la-sonnambula-bellini-75285.v17483355423782.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-arabella-2025-75091.v17481465759370.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [
       "Deborah Colker",
@@ -3371,7 +3520,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 47,
     "title": "MET Opera 2025/26 Tristan & Isolde - Wagner",
     "duration": "310 min",
     "fsk": "12",
@@ -3382,7 +3531,7 @@
     "distributor": "LEONINE",
     "director": "Thorleifur Örn Arnarsson",
     "description": "Nach Jahren gespannter Erwartung kommt am 21. März ein wahrhaft unvergleichliches Ereignis in die Kinos weltweit: Die elektrisierende Lise Davidsen übernimmt eine der ultimativen Partien für dramatischen Sopran – die irische Prinzessin Isolde in Wagners transzendentaler Meditation über Liebe und Tod. An ihrer Seite singt der heldentenorale Michael Spyres den liebestrunkenen Tristan.\n\nDieses bedeutende Ereignis markiert auch die Premiere einer neuen Inszenierung an der Met – dem Hausdebüt von Yuval Sharon, den die New York Times als „visionärsten Opernregisseur seiner Generation“ bezeichnet und der als erster Amerikaner überhaupt eine Oper beim renommierten Wagner-Festival in Bayreuth inszenierte. Auch für Musikdirektor Yannick Nézet-Séguin ist es das erste Mal, dass er Tristan und Isolde an der Met dirigiert.\n\nMezzosopranistin Ekaterina Gubanova kehrt in ihrer gefeierten Paraderolle als Brangäne zurück, während Bassbariton Tomasz Konieczny – bekannt aus hochgelobten Met-Auftritten in Wagners Der fliegende Holländer und dem Ring-Zyklus – als Kurwenal zu erleben ist. Bassbariton Ryan Speedo Green gibt sein wichtiges Rollendebüt als König Marke.\n\nDiese Live-Übertragung ins Kino ist Teil der preisgekrönten Live in HD-Reihe der Met, die Opernaufführungen in Kinos auf der ganzen Welt bringt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2025-26-la-sonnambula-bellini-75285.v17483355423782.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-arabella-2025-75091.v17481465759370.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [
       "Andreas Schager",
@@ -3411,7 +3560,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 48,
     "title": "MET Opera 2025/26: Eugene Onegin - Tchaikovsky",
     "duration": "245 min",
     "fsk": "12",
@@ -3422,7 +3571,7 @@
     "distributor": "LEONINE",
     "director": "Marco Arturo Marelli, Charlotta Sevon, Kim Amberla",
     "description": "Nach ihrem vielbeachteten Debüt an der Met im Jahr 2024 in Puccinis Madama Butterfly kehrt die Sopranistin Asmik Grigorian als Tatjana zurück – die liebestrunkene junge Heldin in dieser leidenschaftlichen Opern-Adaption nach Puschkin, die am 2. Mai live von der Bühne der Metropolitan Opera in Kinos weltweit übertragen wird. Bariton Igor Golovatenko verkörpert den weltgewandten Onegin, der seine Zuneigung zu ihr erst viel zu spät erkennt. Die eindrucksvolle Inszenierung der Met unter der Regie der Tony-Award-Preisträgerin Deborah Warner „bietet eine wunderschön detailreiche Interpretation von … Tschaikowskys lyrischer Romanze“ (The Telegraph). Diese Live-Übertragung ins Kino ist Teil der preisgekrönten Live in HD-Reihe der Met, die Oper in Kinos auf der ganzen Welt bringt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-2025-26-la-sonnambula-bellini-75285.v17483355423782.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "posterUrl": "https://static.kinoheld.de/images/film/met-opera-arabella-2025-75091.v17481465759370.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
     "trailerUrl": "Unknown Trailer URL",
     "actors": [
       "Iurii Samoilov",
@@ -3451,7 +3600,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 49,
     "title": "Stand-Up Comedy Slam Tübingen",
     "duration": "150 min",
     "fsk": "Unknown",
@@ -3542,7 +3691,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 50,
     "title": "Poetry Slam Tübingen",
     "duration": "120 min",
     "fsk": "12",
@@ -3633,114 +3782,26 @@
     ]
   },
   {
-    "id": 49,
-    "title": "Der Phönizische Meisterstreich",
-    "duration": "101 Minuten",
-    "fsk": "12",
-    "genre": "Drama, Komödie, Abenteuer, Krimi",
-    "origTitle": "The Phoenician Scheme",
-    "production": "Deutschland, Vereinigte Staaten",
-    "releaseDate": "29.05.2025",
-    "distributor": "Universal Pictures International",
-    "director": "Wes Anderson",
-    "description": "Düstere Spionagegeschichte über eine angespannte Vater-Tochter-Beziehung in einem Familienunternehmen. Die Wendungen drehen sich um Verrat und moralisch graue Entscheidungen.",
-    "posterUrl": "https://static.kinoheld.de/images/film/der-phoenizische-meisterstreich-73503.v17458352208962.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/hLCDCvG6dII?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "id": 51,
+    "title": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+    "duration": "93 Minuten",
+    "fsk": "Unknown",
+    "genre": "Dokumentarfilm",
+    "origTitle": "खुशी को एजेन्ट",
+    "production": "Bhutan, Tschechische Republik, Ungarn, Vereinigte Staaten",
+    "releaseDate": "03.07.2025",
+    "distributor": "Filmwelt Verleih",
+    "director": "Dorottya Zurbo, Arun Bhattarai",
+    "description": "Das dokumentarische Roadmovie, das Anfang des Jahres auf dem Sundance Film Festival seine Weltpremiere feierte, begleitet den Bhutaner Amber Gurung auf seinen Reisen durch die abgelegenen Täler des Himalayas. Dort befragen Beauftragte wie er die Bevölkerung Bhutans nach ihrem ganz persönlichen Glücksempfinden – und liefern damit die Grundlage für die Politik des „Bruttonationalglücks“, nach dem die bhutanische Regierung die Entwicklung des Landes ausrichtet. So folgt AGENT OF HAPPINESS Amber und einem Kollegen, wie sie mit ihrem Kleinwagen von Tür zu Tür fahren und auf die unterschiedlichsten Menschen treffen, ob im Dorf oder auf dem Land, ob beim Beackern der Felder, beim Gebet oder bei der Meditation. Ganz verschieden reagieren sie auf Ambers standardisierten Fragebogen: ob sie eine Kuh oder einen Esel besitzen, einen Traktor oder einen Laptop – sie alle erzählen mit unerschrockener Ehrlichkeit und stiller Weisheit aus ihrem Leben und davon, was sie glücklich macht und was vielleicht nicht. Und Amber selbst, der mit seinen knapp 40 Jahren allein mit seiner betagten Mutter lebt, spielt auf seinen Reisen Luftgitarre, er singt und tanzt – träumt letztlich aber nur davon, endlich die richtige Frau zu finden. Unterwegs im Auftrag des Glücks und auf der Suche nach dem eigenen Glück...<br><br>Mit AGENT OF HAPPINESS öffnen Arun Bhattarai und Dorottya Zurbó den Blick in andere Leben und in eine andere, faszinierende Welt. Ausgehend von der heute weltweit bekannten Glückspolitik Bhutans geht der Film der Frage nach, was Glück sein kann. Wenn die Menschen von sich erzählen, lässt er erahnen, dass Glück zu empfinden nicht nur eine Frage der äußeren Umstände ist. Und wie zerbrechlich das Glück ist – ganz egal, wo man lebt. Unweigerlich zieht man Parallelen zum eigenen Leben und stellt sich die Frage nach dem eigenen Glück. Und ein Film über das Glück anderer macht einen so vielleicht selbst ein bisschen glücklicher.",
+    "posterUrl": "https://static.kinoheld.de/images/film/agent-of-happiness-69885.v17398693689926.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/546OMo7VItA?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
-      "Benicio del Toro",
-      "Mia Threapleton",
-      "Michael Cera",
-      "Riz Ahmed"
+      "Amber Kumar Gurung",
+      "Guna Raj Kuikel"
     ],
     "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": [
-          {
-            "time": "20:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13204?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
-        "shows": []
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "19:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13219?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13220?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-15",
-        "shows": []
-      },
       {
         "date": "2025-07-16",
-        "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 50,
-    "title": "Step Across the Border",
-    "duration": "87 Minuten",
-    "fsk": "12",
-    "genre": "Dokumentation",
-    "origTitle": "Unknown Original Title",
-    "production": "Deutschland, Schweiz",
-    "releaseDate": "19.06.2025",
-    "distributor": "Rapid Eye Movies",
-    "director": "Werner Penzel, Nicolas Humbert",
-    "description": "Musizieren als spontaner und unaufhörlicher Stoffwechsel mit der Welt: Der britische Musiker Fred Frith macht das einfach so, ohne irgendwelche Künstler-Allüren, als wär's nicht nur die leichteste, sondern auch die selbstverständlichste Sache der Welt. Nicolas Humbert und Werner Penzel haben sich Frith zwei Jahre an die Fersen geheftet, haben sich anstecken lassen. In ihrer Zelluloid-Improvisation antworten sie auf seine Musik mit Montagesequenzen, in denen sie sich dieselbe Freiheit nehmen, die Welt zum Tanzen zu bringen. In STEP ACROSS THE BORDER treffen sich zwei verwandte künstlerische Ausdrucksformen: improvisierte Musik und Cinema Direct. In beiden Fällen geht es um den Moment, um das intuitive Begreifen von dem, was in einem Raum vor sich geht. Musik und Film entstehen aus der verschärften Wahrnehmung für das Augenblickliche, nicht aus der Umsetzung eines gedanklichen Plans. Bei der Improvisation offenbart sich der Plan erst ganz am Ende, man findet ihn. Ein Musikfilm.",
-    "posterUrl": "https://static.kinoheld.de/images/film/step-across-the-border-75243.v17481981330002.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/Jp_zxCs21rc?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "Fred Frith",
-      "Jonas Mekas",
-      "John Spacely",
-      "Julia Judge"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
         "shows": [
           {
             "time": "18:00",
@@ -3748,43 +3809,61 @@
             "attributes": [
               "2D"
             ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13212?mode=widget"
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13217?mode=widget"
           }
         ]
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13231?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
         "shows": []
       },
       {
-        "date": "2025-07-11",
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "15:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13232?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
         "shows": []
       },
       {
-        "date": "2025-07-12",
+        "date": "2025-07-21",
         "shows": []
       },
       {
-        "date": "2025-07-13",
+        "date": "2025-07-22",
         "shows": []
       },
       {
-        "date": "2025-07-14",
-        "shows": []
-      },
-      {
-        "date": "2025-07-15",
-        "shows": []
-      },
-      {
-        "date": "2025-07-16",
+        "date": "2025-07-23",
         "shows": []
       }
     ],
     "attributes": []
   },
   {
-    "id": 51,
+    "id": 52,
     "title": "Hot Milk",
     "duration": "93 Minuten",
     "fsk": "12",
@@ -3805,81 +3884,6 @@
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
-        "shows": []
-      },
-      {
-        "date": "2025-07-10",
-        "shows": [
-          {
-            "time": "20:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13221?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-11",
-        "shows": [
-          {
-            "time": "20:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13224?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "20:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13222?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "15:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D",
-              "OmdU"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13225?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      },
-      {
-        "date": "2025-07-15",
-        "shows": [
-          {
-            "time": "18:00",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13223?mode=widget"
-          }
-        ]
-      },
-      {
         "date": "2025-07-16",
         "shows": [
           {
@@ -3896,92 +3900,48 @@
       {
         "date": "2025-07-17",
         "shows": []
-      }
-    ],
-    "attributes": []
-  },
-  {
-    "id": 52,
-    "title": "One to One: John & Yoko",
-    "duration": "104 Minuten",
-    "fsk": "12",
-    "genre": "Dokumentation",
-    "origTitle": "Unknown Original Title",
-    "production": "Vereinigtes Königreich",
-    "releaseDate": "26.06.2025",
-    "distributor": "Piece of Magic Entertainment",
-    "director": "Kevin MacDonald",
-    "description": "Ein umfassender und aufschlussreicher Einblick in das Leben von John Lennon und Yoko Ono im Greenwich Village der frühen 1970er-Jahre: ONE TO ONE: JOHN & YOKO bietet ein immersives Kinoerlebnis, das elektrisierendes, nie zuvor gezeigtes Material und neu restaurierte Aufnahmen von John und Yokos einzigem vollständigen Konzert zum Leben erweckt. Mit atemberaubender Musik, neu abgemischt und produziert von Sean Ono Lennon, ist der Film eine seismische Offenbarung, die bestehende Vorstellungen über das ikonische Paar infrage stellt.",
-    "posterUrl": "https://static.kinoheld.de/images/film/one-to-one-john-yoko-72463.v17460142414560.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/oxagfYjeMV4?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
-    "actors": [
-      "John Lennon",
-      "Yōko Ono",
-      "Andy Warhol",
-      "Stevie Wonder"
-    ],
-    "showtimes": [
-      {
-        "date": "2025-07-09",
-        "shows": []
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-18",
         "shows": [
           {
-            "time": "18:00",
+            "time": "22:30",
             "theater": "Atelier",
             "attributes": [
               "2D"
             ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13227?mode=widget"
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13235?mode=widget"
           }
         ]
       },
       {
-        "date": "2025-07-11",
-        "shows": []
-      },
-      {
-        "date": "2025-07-12",
+        "date": "2025-07-19",
         "shows": [
           {
-            "time": "16:00",
+            "time": "22:30",
             "theater": "Atelier",
             "attributes": [
-              "2D"
+              "2D",
+              "OmdU"
             ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13228?mode=widget"
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13236?mode=widget"
           }
         ]
       },
       {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "12:30",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13229?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
+        "date": "2025-07-20",
         "shows": []
       },
       {
-        "date": "2025-07-15",
+        "date": "2025-07-21",
         "shows": []
       },
       {
-        "date": "2025-07-16",
+        "date": "2025-07-22",
         "shows": []
       },
       {
-        "date": "2025-07-17",
+        "date": "2025-07-23",
         "shows": []
       }
     ],
@@ -3989,76 +3949,45 @@
   },
   {
     "id": 53,
-    "title": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-    "duration": "93 Minuten",
-    "fsk": "Unknown",
-    "genre": "Dokumentarfilm",
-    "origTitle": "खुशी को एजेन्ट",
-    "production": "Bhutan, Tschechische Republik, Ungarn, Vereinigte Staaten",
-    "releaseDate": "03.07.2025",
-    "distributor": "Filmwelt Verleih",
-    "director": "Dorottya Zurbo, Arun Bhattarai",
-    "description": "Das dokumentarische Roadmovie, das Anfang des Jahres auf dem Sundance Film Festival seine Weltpremiere feierte, begleitet den Bhutaner Amber Gurung auf seinen Reisen durch die abgelegenen Täler des Himalayas. Dort befragen Beauftragte wie er die Bevölkerung Bhutans nach ihrem ganz persönlichen Glücksempfinden – und liefern damit die Grundlage für die Politik des „Bruttonationalglücks“, nach dem die bhutanische Regierung die Entwicklung des Landes ausrichtet. So folgt AGENT OF HAPPINESS Amber und einem Kollegen, wie sie mit ihrem Kleinwagen von Tür zu Tür fahren und auf die unterschiedlichsten Menschen treffen, ob im Dorf oder auf dem Land, ob beim Beackern der Felder, beim Gebet oder bei der Meditation. Ganz verschieden reagieren sie auf Ambers standardisierten Fragebogen: ob sie eine Kuh oder einen Esel besitzen, einen Traktor oder einen Laptop – sie alle erzählen mit unerschrockener Ehrlichkeit und stiller Weisheit aus ihrem Leben und davon, was sie glücklich macht und was vielleicht nicht. Und Amber selbst, der mit seinen knapp 40 Jahren allein mit seiner betagten Mutter lebt, spielt auf seinen Reisen Luftgitarre, er singt und tanzt – träumt letztlich aber nur davon, endlich die richtige Frau zu finden. Unterwegs im Auftrag des Glücks und auf der Suche nach dem eigenen Glück...<br><br>Mit AGENT OF HAPPINESS öffnen Arun Bhattarai und Dorottya Zurbó den Blick in andere Leben und in eine andere, faszinierende Welt. Ausgehend von der heute weltweit bekannten Glückspolitik Bhutans geht der Film der Frage nach, was Glück sein kann. Wenn die Menschen von sich erzählen, lässt er erahnen, dass Glück zu empfinden nicht nur eine Frage der äußeren Umstände ist. Und wie zerbrechlich das Glück ist – ganz egal, wo man lebt. Unweigerlich zieht man Parallelen zum eigenen Leben und stellt sich die Frage nach dem eigenen Glück. Und ein Film über das Glück anderer macht einen so vielleicht selbst ein bisschen glücklicher.",
-    "posterUrl": "https://static.kinoheld.de/images/film/agent-of-happiness-69885.v17398693689926.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/546OMo7VItA?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "title": "Vier Mütter für Edward",
+    "duration": "89 Minuten",
+    "fsk": "6",
+    "genre": "Drama, Komödie",
+    "origTitle": "Four Mothers",
+    "production": "Irland",
+    "releaseDate": "10.07.2025",
+    "distributor": "Pandora FIlmverleih",
+    "director": "Darren Thornton",
+    "description": "Edward ist Schriftsteller, Mitte Dreißig und steht endlich kurz vor seinem literarischen Durchbruch. Wenn da nicht seine Mutter wäre, mit der er zusammenwohnt und um die er sich liebevoll kümmert. Die willensstarke Dame hat einen entwaffnenden Charme – und ihre sehr eigenen Vorstellungen vom Zusammenleben mit ihrem Sohn. Und dann ist da noch Edwards Verlag, der ihn auf eine große Lesereise in die USA schicken will. Das Letzte, was er jetzt brauchen kann, sind seine besten Freunde, die spontan zu einem Pride-Urlaub nach Spanien aufbrechen und ihre Mütter kurzerhand auch noch bei ihm abladen. An einem turbulenten Wochenende muss Edward seine aufstrebende Karriere und die Betreuung von vier exzentrischen, streitlustigen und vollkommen unterschiedlichen Damen unter einen Hut bringen.<br><br>Diese herzerwärmende und liebevolle Komödie von Darren Thornton – inspiriert vom gefeierten italienischen Film „Das Festmahl im August“ – begleitet eine ungewöhnliche Wahlfamilie, die lernt, das Leben in all seinen Facetten zu umarmen. Der Film feierte seine Weltpremiere auf dem London Film Festival 2024, wo er mit dem Publikumspreis ausgezeichnet wurde.",
+    "posterUrl": "https://static.kinoheld.de/images/film/vier-muetter-fuer-edward-72735.v17500619063612.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/O8rkU5Vme-s?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
-      "Amber Kumar Gurung",
-      "Guna Raj Kuikel"
+      "Paddy Glynn",
+      "Rory O'Neill",
+      "Gearoid Farrelly",
+      "Gordon Hickey"
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-16",
         "shows": []
       },
       {
-        "date": "2025-07-10",
-        "shows": []
-      },
-      {
-        "date": "2025-07-11",
+        "date": "2025-07-17",
         "shows": [
           {
-            "time": "18:15",
+            "time": "20:00",
             "theater": "Atelier",
             "attributes": [
-              "2D"
+              "2D",
+              "OmdU"
             ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13213?mode=widget"
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13247?mode=widget"
           }
         ]
       },
       {
-        "date": "2025-07-12",
-        "shows": [
-          {
-            "time": "18:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13214?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-13",
-        "shows": [
-          {
-            "time": "17:15",
-            "theater": "Atelier",
-            "attributes": [
-              "2D"
-            ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13215?mode=widget"
-          }
-        ]
-      },
-      {
-        "date": "2025-07-14",
-        "shows": []
-      },
-      {
-        "date": "2025-07-15",
+        "date": "2025-07-18",
         "shows": [
           {
             "time": "20:15",
@@ -4066,12 +3995,52 @@
             "attributes": [
               "2D"
             ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13216?mode=widget"
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13243?mode=widget"
           }
         ]
       },
       {
-        "date": "2025-07-16",
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13244?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "17:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13245?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13248?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
         "shows": [
           {
             "time": "18:00",
@@ -4079,16 +4048,26 @@
             "attributes": [
               "2D"
             ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13217?mode=widget"
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13246?mode=widget"
           }
         ]
       },
       {
-        "date": "2025-07-17",
-        "shows": []
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "20:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13249?mode=widget"
+          }
+        ]
       },
       {
-        "date": "2025-07-18",
+        "date": "2025-07-24",
         "shows": []
       }
     ],
@@ -4096,47 +4075,104 @@
   },
   {
     "id": 54,
-    "title": "Copa 71 (2023)",
-    "duration": "91 Minuten",
-    "fsk": "0",
-    "genre": "Dokumentarfilm, Historie",
-    "origTitle": "Copa 71",
-    "production": "Vereinigtes Königreich",
-    "releaseDate": "26.06.2025",
-    "distributor": "Grandfilm",
-    "director": "James Erskine, Rachel Ramsay",
-    "description": "August 1971: Mexico City ist Austragungsort für ein riesiges Fußballspektakel, bei dem Teams aus England, Argentinien, Mexiko, Frankreich, Dänemark und Italien aufeinandertreffen. Über 100.000 Fans verwandeln das historische Azteca-Stadion Spiel für Spiel in einen Ort der Begeisterung, das Fernsehen berichtet durchgehend. Die Atmosphäre erinnert an die größten Momente der internationalen Fußballgeschichte. Aber dieses Turnier ist anders als alles, was es vorher gab, denn auf dem Platz sind ausschließlich Frauen. Es handelt sich um die Copa ’71, die erste inoffizielle Frauenfußball-WM. Von der FIFA und den nationalen Fußballverbänden abgelehnt, wurde dieses historische Ereignis aus den Annalen des Fußballs verdrängt. Doch nun erinnert ein Dokumentarfilm an dieses Turnier, das über zehn Jahre vor der ersten offiziellen Frauenfußball-Weltmeisterschaft stattfand, und rückt die Spielerinnen der damaligen Zeit, die charismatischen Pionierinnen ihrer Sportart, endlich ins Rampenlicht.",
-    "posterUrl": "https://static.kinoheld.de/images/film/copa-71-2023-74711.v17470387733657.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
-    "trailerUrl": "https://www.youtube-nocookie.com/embed/sMzGF9L6I8c?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "title": "Drama Queens",
+    "duration": "115 Minuten",
+    "fsk": "16",
+    "genre": "Drama, Komödie, Fantasy, Musik",
+    "origTitle": "Les reines du drame",
+    "production": "Belgien, Frankreich",
+    "releaseDate": "01.01.2025",
+    "distributor": "Salzgeber & Company Medien",
+    "director": "Alexis Langlois",
+    "description": "Breaking News! Glitterpop-Ikone Mimi Madamour und Butch-Punksängerin Billie sind ein Liebespaar! Aber niemand darf es wissen. 2005 lernen sich die beiden jungen Frauen in einer Castingshow kennen und sind direkt schockverliebt. Doch Billie will sich den brutalen Anforderungen des Business nicht anpassen und fliegt aus der Show. Mimi gewinnt, wird von den Produzent:innen zur blonden Popdiva umfrisiert und landet tatsächlich einen weltweiten Megahit. Doch als Star verliert sie auch zunehmend die Kontrolle über ihr Leben – und die stürmische Beziehung zu Billie, die plötzlich selbst große Erfolge feiert, wird zur Zerreißprobe.<br><br>Was ist mir als Künstler:in wichtiger: erfolgreich oder authentisch zu sein? In dem turbulenten satirischen Musical „Drama Queens“ reflektiert Alexis Langlois smart und schonungslos die toxischen Aspekte von Musikindustrie und Fankultur. Gleichzeitig ist Alexis’ Debütfilm auch eine Liebeserklärung an die Popkultur der frühen 2000er und eine leidenschaftliche Feier ihrer chaotischen Diven. Ein berauschendes queeres Glitterpop-Märchen, das alle Register zieht!",
+    "posterUrl": "https://static.kinoheld.de/images/film/drama-queens-72685.v17506641966676.webp?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/su3PrHkCHlM?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
     "actors": [
-      "Brandi Chastain",
-      "Nicole Mangas",
-      "Silvia Zaragoza",
-      "Alex Morgan"
+      "Louiza Aura",
+      "Gio Ventura",
+      "Bilal Hassani",
+      "Asia Argento"
     ],
     "showtimes": [
       {
-        "date": "2025-07-09",
+        "date": "2025-07-16",
         "shows": []
       },
       {
-        "date": "2025-07-10",
+        "date": "2025-07-17",
+        "shows": [
+          {
+            "time": "22:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13230?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-18",
         "shows": []
       },
       {
-        "date": "2025-07-11",
+        "date": "2025-07-19",
         "shows": []
       },
       {
-        "date": "2025-07-12",
+        "date": "2025-07-20",
         "shows": []
       },
       {
-        "date": "2025-07-13",
+        "date": "2025-07-21",
         "shows": []
       },
       {
-        "date": "2025-07-14",
+        "date": "2025-07-22",
+        "shows": []
+      },
+      {
+        "date": "2025-07-23",
+        "shows": []
+      },
+      {
+        "date": "2025-07-24",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 55,
+    "title": "Leonora im Morgenlicht",
+    "duration": "103 Minuten",
+    "fsk": "12",
+    "genre": "Drama",
+    "origTitle": "Leonora In The Morning Light",
+    "production": "Deutschland, Vereinigtes Königreich, Mexiko, Rumänien",
+    "releaseDate": "17.07.2025",
+    "distributor": "Alamode Film",
+    "director": "Thor Klein, Lena Vurma",
+    "description": "In den 1930er Jahren bricht Leonora Carrington (OLIVIA VINALL) mit den gesellschaftlichen Normen ihrer Zeit und tritt der surrealistischen Bewegung bei. In Paris trifft sie auf Künstlergrößen wie Salvador Dalí und André Breton, doch es ist ihre stürmische Liebesaffäre mit dem Maler Max Ernst (ALEXANDER SCHEER), die sie auf eine Reise zu sich selbst führt. Zwischen Kunst, Leidenschaft und inneren Dämonen muss sich Leonora in einer Welt voller Umbrüche behaupten. Mit dem Beginn des Zweiten Weltkriegs flieht sie nach Mexiko, wo sie ihre Freiheit und ihre eigene Stimme als Künstlerin findet.<br><br>LEONORA IM MORGENLICHT wirft einen einzigartigen Blick auf die faszinierende Lebensgeschichte der britischen Künstlerin Leonora Carrington. Als eine der bedeutendsten Künstlerinnen des Surrealismus zählt sie zu den populärsten Malerinnen Mexikos, doch in ihrer Heimat Großbritannien und der internationalen Kunstwelt blieb ihr Lebenswerk lange Zeit weitgehend unbeachtet. Heute gehört Leonora Carrington zu den weltweit höchstverkauften Künstlerinnen, neben Frida Kahlo und Georgia O’Keeffe. Olivia Vinall verkörpert kraftvoll die innerlich zerrissene Leonora Carrington, an ihrer Seite sieht man den deutschen Schauspielstar Alexander Scheer (KÖLN 75, GUNDERMANN) als Max Ernst. Der Film von Regie-Duo Thor Klein und Lena Vurma (ABENTEUER EINES MATHEMATIKERS) basiert auf dem Bestseller „Leonora“ von Elena Poniatowska, der in Deutschland unter dem Titel „Frau des Windes“ erschienen ist.",
+    "posterUrl": "https://static.kinoheld.de/images/film/leonora-im-morgenlicht-75409.v17484085714519.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/2mjxALaD-kY?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Alexander Scheer",
+      "Olivia Vinall",
+      "Cassandra Ciangherotti",
+      "Ryan Gage"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
         "shows": [
           {
             "time": "18:00",
@@ -4144,14 +4180,191 @@
             "attributes": [
               "2D"
             ],
-            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13218?mode=widget"
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13237?mode=widget"
           }
         ]
       },
       {
-        "date": "2025-07-15",
+        "date": "2025-07-19",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13238?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "15:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13239?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": [
+          {
+            "time": "18:00",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13240?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-22",
+        "shows": [
+          {
+            "time": "20:15",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13241?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-23",
+        "shows": [
+          {
+            "time": "17:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13242?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-24",
         "shows": []
       },
+      {
+        "date": "2025-07-25",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 56,
+    "title": "Der Phönizische Meisterstreich",
+    "duration": "101 Minuten",
+    "fsk": "12",
+    "genre": "Drama, Komödie, Abenteuer, Krimi",
+    "origTitle": "The Phoenician Scheme",
+    "production": "Deutschland, Vereinigte Staaten",
+    "releaseDate": "29.05.2025",
+    "distributor": "Universal Pictures International",
+    "director": "Wes Anderson",
+    "description": "Düstere Spionagegeschichte über eine angespannte Vater-Tochter-Beziehung in einem Familienunternehmen. Die Wendungen drehen sich um Verrat und moralisch graue Entscheidungen.",
+    "posterUrl": "https://static.kinoheld.de/images/film/der-phoenizische-meisterstreich-73503.v17458352208962.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/hLCDCvG6dII?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Benicio del Toro",
+      "Mia Threapleton",
+      "Michael Cera",
+      "Riz Ahmed"
+    ],
+    "showtimes": [
+      {
+        "date": "2025-07-16",
+        "shows": []
+      },
+      {
+        "date": "2025-07-17",
+        "shows": []
+      },
+      {
+        "date": "2025-07-18",
+        "shows": [
+          {
+            "time": "15:45",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13233?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-19",
+        "shows": []
+      },
+      {
+        "date": "2025-07-20",
+        "shows": [
+          {
+            "time": "19:30",
+            "theater": "Atelier",
+            "attributes": [
+              "2D",
+              "OmdU"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13234?mode=widget"
+          }
+        ]
+      },
+      {
+        "date": "2025-07-21",
+        "shows": []
+      },
+      {
+        "date": "2025-07-22",
+        "shows": []
+      },
+      {
+        "date": "2025-07-23",
+        "shows": []
+      },
+      {
+        "date": "2025-07-24",
+        "shows": []
+      },
+      {
+        "date": "2025-07-25",
+        "shows": []
+      }
+    ],
+    "attributes": []
+  },
+  {
+    "id": 57,
+    "title": "Metropolis",
+    "duration": "107 Minuten",
+    "fsk": "6",
+    "genre": "Drama, Science Fiction",
+    "origTitle": "Metropolis (restaurierte Fassung)",
+    "production": "Deutschland",
+    "releaseDate": "25.08.1927",
+    "distributor": "Warner Bros. Entertainment GmbH",
+    "director": "Fritz Lang",
+    "description": "Der Industrielle Joh Fredersen (Alfred Abel) regiert über das futuristische Metropolis, eine hoch technisierte Stadt, in der die Arbeiter in den Tiefen der Maschinenhallen schuften. Fredersens Sohn Freder (Gustav Fröhlich) verliebt sich in Maria (Brigitte Helm), eine charismatische Arbeiterin, die für soziale Gerechtigkeit kämpft.\nDer zwielichtige Wissenschaftler Rotwang (Rudolf Klein-Rogge) erschafft jedoch einen Roboter, der das Aussehen Marias imitiert. Er wird vom Industriellen Fredersen benutzt, um Unruhen zu schüren und seine Machtposition zu stärken. Als Fredersens Sohn die wahren Absichten des Roboters entdeckt, verbündet er sich mit der echten Maria, um die Stadt zu retten.",
+    "posterUrl": "https://static.kinoheld.de/images/film/metropolis-restaurierte-fassung-23795.v3.jpg?w=352&h=528&fm=webp&q=90&fit=crop",
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/XGkZWu63DRQ?autoplay=1&controls=2&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3&hl=de&origin=https://www.kinoheld.de:",
+    "actors": [
+      "Gustav Fröhlich",
+      "Brigitte Helm",
+      "Alfred Abel",
+      "Rudolf Klein-Rogge"
+    ],
+    "showtimes": [
       {
         "date": "2025-07-16",
         "shows": []
@@ -4170,10 +4383,43 @@
       },
       {
         "date": "2025-07-20",
-        "shows": []
+        "shows": [
+          {
+            "time": "11:30",
+            "theater": "Atelier",
+            "attributes": [
+              "2D"
+            ],
+            "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13250?mode=widget"
+          }
+        ]
       },
       {
         "date": "2025-07-21",
+        "shows": []
+      },
+      {
+        "date": "2025-07-22",
+        "shows": []
+      },
+      {
+        "date": "2025-07-23",
+        "shows": []
+      },
+      {
+        "date": "2025-07-24",
+        "shows": []
+      },
+      {
+        "date": "2025-07-25",
+        "shows": []
+      },
+      {
+        "date": "2025-07-26",
+        "shows": []
+      },
+      {
+        "date": "2025-07-27",
         "shows": []
       }
     ],

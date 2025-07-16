@@ -1,285 +1,5 @@
 [
   {
-    "date": "2025-07-09",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:27",
-                "movieId": 50,
-                "movieTitle": "Step Across the Border",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13212?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:41",
-                "movieId": 49,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13204?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-10",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:44",
-                "movieId": 52,
-                "movieTitle": "One to One: John & Yoko",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13227?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:48",
-                "movieId": 51,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13221?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-11",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:15",
-                "endTime": "19:48",
-                "movieId": 53,
-                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13213?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:03",
-                "movieId": 51,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13224?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-12",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "16:00",
-                "endTime": "17:44",
-                "movieId": 52,
-                "movieTitle": "One to One: John & Yoko",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13228?mode=widget"
-              },
-              {
-                "time": "18:15",
-                "endTime": "19:48",
-                "movieId": 53,
-                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13214?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:03",
-                "movieId": 51,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13222?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-13",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "12:30",
-                "endTime": "14:14",
-                "movieId": 52,
-                "movieTitle": "One to One: John & Yoko",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13229?mode=widget"
-              },
-              {
-                "time": "15:00",
-                "endTime": "16:33",
-                "movieId": 51,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13225?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "18:48",
-                "movieId": 53,
-                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13215?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:11",
-                "movieId": 49,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13219?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-14",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:31",
-                "movieId": 54,
-                "movieTitle": "Copa 71 (2023)",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13218?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:56",
-                "movieId": 49,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13220?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-15",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 51,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13223?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:48",
-                "movieId": 53,
-                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13216?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2025-07-16",
     "theaters": [
       {
@@ -291,7 +11,7 @@
               {
                 "time": "18:00",
                 "endTime": "19:33",
-                "movieId": 53,
+                "movieId": 51,
                 "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
                 "attributes": [
                   "2D"
@@ -301,13 +21,334 @@
               {
                 "time": "20:00",
                 "endTime": "21:33",
-                "movieId": 51,
+                "movieId": 52,
                 "movieTitle": "Hot Milk",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13226?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:18",
+                "movieId": 51,
+                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13231?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:29",
+                "movieId": 53,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13247?mode=widget"
+              },
+              {
+                "time": "22:00",
+                "endTime": "23:55",
+                "movieId": 54,
+                "movieTitle": "Drama Queens",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13230?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:45",
+                "endTime": "17:26",
+                "movieId": 56,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13233?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:43",
+                "movieId": 55,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13237?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:44",
+                "movieId": 53,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13243?mode=widget"
+              },
+              {
+                "time": "22:30",
+                "endTime": "00:03",
+                "movieId": 52,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13235?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:45",
+                "endTime": "17:18",
+                "movieId": 51,
+                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13232?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:43",
+                "movieId": 55,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13238?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:44",
+                "movieId": 53,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13244?mode=widget"
+              },
+              {
+                "time": "22:30",
+                "endTime": "00:03",
+                "movieId": 52,
+                "movieTitle": "Hot Milk",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13236?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "11:30",
+                "endTime": "13:17",
+                "movieId": 57,
+                "movieTitle": "Metropolis",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13250?mode=widget"
+              },
+              {
+                "time": "15:00",
+                "endTime": "16:43",
+                "movieId": 55,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13239?mode=widget"
+              },
+              {
+                "time": "17:15",
+                "endTime": "18:44",
+                "movieId": 53,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13245?mode=widget"
+              },
+              {
+                "time": "19:30",
+                "endTime": "21:11",
+                "movieId": 56,
+                "movieTitle": "Der Phönizische Meisterstreich",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13234?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:43",
+                "movieId": 55,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13240?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:44",
+                "movieId": 53,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13248?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:29",
+                "movieId": 53,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13246?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:58",
+                "movieId": 55,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13241?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:28",
+                "movieId": 55,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13242?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:29",
+                "movieId": 53,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13249?mode=widget"
               }
             ]
           }
