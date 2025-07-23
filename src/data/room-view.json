@@ -40,263 +40,12 @@
         "name": "Atelier",
         "dates": [
           {
-            "date": "2025-07-16",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:33",
-                "movieId": 51,
-                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13217?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:33",
-                "movieId": 52,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13226?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-07-17",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:18",
-                "movieId": 51,
-                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13231?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:29",
-                "movieId": 53,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13247?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:55",
-                "movieId": 54,
-                "movieTitle": "Drama Queens",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13230?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-07-18",
-            "showings": [
-              {
-                "time": "15:45",
-                "endTime": "17:26",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13233?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:43",
-                "movieId": 55,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13237?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:44",
-                "movieId": 53,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13243?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:03",
-                "movieId": 52,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13235?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-07-19",
-            "showings": [
-              {
-                "time": "15:45",
-                "endTime": "17:18",
-                "movieId": 51,
-                "movieTitle": "Agent of Happiness - Unterwegs im Auftrag des Glücks",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13232?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:43",
-                "movieId": 55,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13238?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:44",
-                "movieId": 53,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13244?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:03",
-                "movieId": 52,
-                "movieTitle": "Hot Milk",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13236?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-07-20",
-            "showings": [
-              {
-                "time": "11:30",
-                "endTime": "13:17",
-                "movieId": 57,
-                "movieTitle": "Metropolis",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13250?mode=widget"
-              },
-              {
-                "time": "15:00",
-                "endTime": "16:43",
-                "movieId": 55,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13239?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "18:44",
-                "movieId": 53,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13245?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:11",
-                "movieId": 56,
-                "movieTitle": "Der Phönizische Meisterstreich",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13234?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-07-21",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:43",
-                "movieId": 55,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13240?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:44",
-                "movieId": 53,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13248?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-07-22",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:29",
-                "movieId": 53,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13246?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:58",
-                "movieId": 55,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13241?mode=widget"
-              }
-            ]
-          },
-          {
             "date": "2025-07-23",
             "showings": [
               {
                 "time": "17:45",
                 "endTime": "19:28",
-                "movieId": 55,
+                "movieId": 49,
                 "movieTitle": "Leonora im Morgenlicht",
                 "attributes": [
                   "2D"
@@ -306,13 +55,234 @@
               {
                 "time": "20:00",
                 "endTime": "21:29",
-                "movieId": 53,
+                "movieId": 50,
                 "movieTitle": "Vier Mütter für Edward",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13249?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-07-24",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:28",
+                "movieId": 49,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13251?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:59",
+                "movieId": 51,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13264?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-07-25",
+            "showings": [
+              {
+                "time": "16:30",
+                "endTime": "17:59",
+                "movieId": 50,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13267?mode=widget"
+              },
+              {
+                "time": "18:30",
+                "endTime": "20:29",
+                "movieId": 51,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13259?mode=widget"
+              },
+              {
+                "time": "21:00",
+                "endTime": "22:40",
+                "movieId": 52,
+                "movieTitle": "The Ballad of Wallis Island",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13255?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-07-26",
+            "showings": [
+              {
+                "time": "15:15",
+                "endTime": "16:44",
+                "movieId": 50,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13266?mode=widget"
+              },
+              {
+                "time": "17:15",
+                "endTime": "18:58",
+                "movieId": 49,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13252?mode=widget"
+              },
+              {
+                "time": "19:30",
+                "endTime": "21:29",
+                "movieId": 51,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13260?mode=widget"
+              },
+              {
+                "time": "22:00",
+                "endTime": "23:40",
+                "movieId": 52,
+                "movieTitle": "The Ballad of Wallis Island",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13257?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-07-27",
+            "showings": [
+              {
+                "time": "11:45",
+                "endTime": "13:28",
+                "movieId": 49,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13253?mode=widget"
+              },
+              {
+                "time": "16:30",
+                "endTime": "18:29",
+                "movieId": 51,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13261?mode=widget"
+              },
+              {
+                "time": "19:00",
+                "endTime": "20:40",
+                "movieId": 52,
+                "movieTitle": "The Ballad of Wallis Island",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13258?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-07-28",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:40",
+                "movieId": 52,
+                "movieTitle": "The Ballad of Wallis Island",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13256?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 51,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13262?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-07-29",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:44",
+                "movieId": 51,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13263?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:58",
+                "movieId": 49,
+                "movieTitle": "Leonora im Morgenlicht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13254?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-07-30",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:29",
+                "movieId": 50,
+                "movieTitle": "Vier Mütter für Edward",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13268?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:59",
+                "movieId": 51,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13265?mode=widget"
               }
             ]
           }
