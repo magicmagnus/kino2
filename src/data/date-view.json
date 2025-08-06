@@ -1,6 +1,6 @@
 [
   {
-    "date": "2025-07-23",
+    "date": "2025-08-06",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -9,61 +9,24 @@
             "name": "Atelier",
             "showings": [
               {
-                "time": "17:45",
-                "endTime": "19:28",
-                "movieId": 49,
-                "movieTitle": "Leonora im Morgenlicht",
+                "time": "17:30",
+                "endTime": "19:22",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13242?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:29",
-                "movieId": 50,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13249?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-24",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:28",
-                "movieId": 49,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13251?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13288?mode=widget"
               },
               {
                 "time": "20:00",
                 "endTime": "21:59",
-                "movieId": 51,
+                "movieId": 45,
                 "movieTitle": "Vermiglio",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13264?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13279?mode=widget"
               }
             ]
           }
@@ -72,7 +35,7 @@
     ]
   },
   {
-    "date": "2025-07-25",
+    "date": "2025-08-07",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -81,172 +44,25 @@
             "name": "Atelier",
             "showings": [
               {
-                "time": "16:30",
-                "endTime": "17:59",
-                "movieId": 50,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13267?mode=widget"
-              },
-              {
-                "time": "18:30",
-                "endTime": "20:29",
-                "movieId": 51,
-                "movieTitle": "Vermiglio",
+                "time": "17:45",
+                "endTime": "19:37",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13259?mode=widget"
-              },
-              {
-                "time": "21:00",
-                "endTime": "22:40",
-                "movieId": 52,
-                "movieTitle": "The Ballad of Wallis Island",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13255?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-26",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:15",
-                "endTime": "16:44",
-                "movieId": 50,
-                "movieTitle": "Vier Mütter für Edward",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13266?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "18:58",
-                "movieId": 49,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13252?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:29",
-                "movieId": 51,
-                "movieTitle": "Vermiglio",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13260?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:40",
-                "movieId": 52,
-                "movieTitle": "The Ballad of Wallis Island",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13257?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-27",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "11:45",
-                "endTime": "13:28",
-                "movieId": 49,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13253?mode=widget"
-              },
-              {
-                "time": "16:30",
-                "endTime": "18:29",
-                "movieId": 51,
-                "movieTitle": "Vermiglio",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13261?mode=widget"
-              },
-              {
-                "time": "19:00",
-                "endTime": "20:40",
-                "movieId": 52,
-                "movieTitle": "The Ballad of Wallis Island",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13258?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-07-28",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:40",
-                "movieId": 52,
-                "movieTitle": "The Ballad of Wallis Island",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13256?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13299?mode=widget"
               },
               {
                 "time": "20:15",
                 "endTime": "22:14",
-                "movieId": 51,
+                "movieId": 45,
                 "movieTitle": "Vermiglio",
                 "attributes": [
-                  "2D"
+                  "2D",
+                  "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13262?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13297?mode=widget"
               }
             ]
           }
@@ -255,7 +71,153 @@
     ]
   },
   {
-    "date": "2025-07-29",
+    "date": "2025-08-08",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:29",
+                "movieId": 45,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13293?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:52",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13300?mode=widget"
+              },
+              {
+                "time": "22:30",
+                "endTime": "00:04",
+                "movieId": 46,
+                "movieTitle": "Memoiren einer Schnecke",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13292?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-08-09",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:30",
+                "endTime": "17:22",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13301?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:59",
+                "movieId": 45,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13294?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:22",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13302?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-08-10",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "12:30",
+                "endTime": "13:48",
+                "movieId": 47,
+                "movieTitle": "Ecce Homo - Der Verlorene Caravaagio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13289?mode=widget"
+              },
+              {
+                "time": "14:30",
+                "endTime": "16:04",
+                "movieId": 46,
+                "movieTitle": "Memoiren einer Schnecke",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13290?mode=widget"
+              },
+              {
+                "time": "16:45",
+                "endTime": "18:37",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13303?mode=widget"
+              },
+              {
+                "time": "19:30",
+                "endTime": "21:29",
+                "movieId": 45,
+                "movieTitle": "Vermiglio",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13295?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-08-11",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -265,23 +227,23 @@
             "showings": [
               {
                 "time": "17:45",
-                "endTime": "19:44",
-                "movieId": 51,
+                "endTime": "19:37",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13304?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:14",
+                "movieId": 45,
                 "movieTitle": "Vermiglio",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13263?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:58",
-                "movieId": 49,
-                "movieTitle": "Leonora im Morgenlicht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13254?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13296?mode=widget"
               }
             ]
           }
@@ -290,7 +252,7 @@
     ]
   },
   {
-    "date": "2025-07-30",
+    "date": "2025-08-12",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -300,25 +262,59 @@
             "showings": [
               {
                 "time": "18:00",
-                "endTime": "19:29",
-                "movieId": 50,
-                "movieTitle": "Vier Mütter für Edward",
+                "endTime": "19:34",
+                "movieId": 46,
+                "movieTitle": "Memoiren einer Schnecke",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13268?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13291?mode=widget"
               },
               {
-                "time": "20:00",
-                "endTime": "21:59",
-                "movieId": 51,
+                "time": "20:15",
+                "endTime": "22:07",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13305?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-08-13",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:29",
+                "movieId": 45,
                 "movieTitle": "Vermiglio",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13265?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13298?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:52",
+                "movieId": 44,
+                "movieTitle": "Wilma will mehr",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13306?mode=widget"
               }
             ]
           }
