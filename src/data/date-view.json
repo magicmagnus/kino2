@@ -1,41 +1,6 @@
 [
   {
-    "date": "2025-08-06",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:22",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13288?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:59",
-                "movieId": 45,
-                "movieTitle": "Vermiglio",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13279?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-08-07",
+    "date": "2025-08-27",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -45,70 +10,25 @@
             "showings": [
               {
                 "time": "17:45",
-                "endTime": "19:37",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13299?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 45,
-                "movieTitle": "Vermiglio",
+                "endTime": "19:25",
+                "movieId": 51,
+                "movieTitle": "The Witness",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13297?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-08-08",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:29",
-                "movieId": 45,
-                "movieTitle": "Vermiglio",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13293?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13341?mode=widget"
               },
               {
                 "time": "20:00",
-                "endTime": "21:52",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13300?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:04",
-                "movieId": 46,
-                "movieTitle": "Memoiren einer Schnecke",
+                "endTime": "21:23",
+                "movieId": 50,
+                "movieTitle": "Bitter Gold",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13292?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13331?mode=widget"
               }
             ]
           }
@@ -117,107 +37,7 @@
     ]
   },
   {
-    "date": "2025-08-09",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "17:22",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13301?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:59",
-                "movieId": 45,
-                "movieTitle": "Vermiglio",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13294?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:22",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13302?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-08-10",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "12:30",
-                "endTime": "13:48",
-                "movieId": 47,
-                "movieTitle": "Ecce Homo - Der Verlorene Caravaagio",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13289?mode=widget"
-              },
-              {
-                "time": "14:30",
-                "endTime": "16:04",
-                "movieId": 46,
-                "movieTitle": "Memoiren einer Schnecke",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13290?mode=widget"
-              },
-              {
-                "time": "16:45",
-                "endTime": "18:37",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13303?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:29",
-                "movieId": 45,
-                "movieTitle": "Vermiglio",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13295?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-08-11",
+    "date": "2025-08-28",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -227,23 +47,34 @@
             "showings": [
               {
                 "time": "17:45",
-                "endTime": "19:37",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
+                "endTime": "19:08",
+                "movieId": 50,
+                "movieTitle": "Bitter Gold",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13304?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13347?mode=widget"
               },
               {
-                "time": "20:15",
-                "endTime": "22:14",
-                "movieId": 45,
-                "movieTitle": "Vermiglio",
+                "time": "19:45",
+                "endTime": "21:27",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13296?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13354?mode=widget"
+              },
+              {
+                "time": "22:00",
+                "endTime": "00:09",
+                "movieId": 53,
+                "movieTitle": "Viet und Nam",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13346?mode=widget"
               }
             ]
           }
@@ -252,7 +83,7 @@
     ]
   },
   {
-    "date": "2025-08-12",
+    "date": "2025-08-29",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -262,23 +93,24 @@
             "showings": [
               {
                 "time": "18:00",
-                "endTime": "19:34",
-                "movieId": 46,
-                "movieTitle": "Memoiren einer Schnecke",
+                "endTime": "19:42",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
                 "attributes": [
-                  "2D"
+                  "2D",
+                  "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13291?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13363?mode=widget"
               },
               {
                 "time": "20:15",
-                "endTime": "22:07",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
+                "endTime": "21:57",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13305?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13355?mode=widget"
               }
             ]
           }
@@ -287,7 +119,7 @@
     ]
   },
   {
-    "date": "2025-08-13",
+    "date": "2025-08-30",
     "theaters": [
       {
         "name": "Kino Atelier",
@@ -296,25 +128,196 @@
             "name": "Atelier",
             "showings": [
               {
+                "time": "16:00",
+                "endTime": "17:23",
+                "movieId": 50,
+                "movieTitle": "Bitter Gold",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13348?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:42",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13356?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:57",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13357?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-08-31",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "13:30",
+                "endTime": "15:12",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13358?mode=widget"
+              },
+              {
+                "time": "15:45",
+                "endTime": "17:04",
+                "movieId": 55,
+                "movieTitle": "Milch ins Feuer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13350?mode=widget"
+              },
+              {
                 "time": "17:30",
-                "endTime": "19:29",
-                "movieId": 45,
-                "movieTitle": "Vermiglio",
+                "endTime": "19:12",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13359?mode=widget"
+              },
+              {
+                "time": "19:45",
+                "endTime": "21:35",
+                "movieId": 54,
+                "movieTitle": "THE LIFE OF CHUCK",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13298?mode=widget"
-              },
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13353?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-09-01",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
               {
-                "time": "20:00",
-                "endTime": "21:52",
-                "movieId": 44,
-                "movieTitle": "Wilma will mehr",
+                "time": "18:30",
+                "endTime": "19:49",
+                "movieId": 55,
+                "movieTitle": "Milch ins Feuer",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13306?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13351?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:57",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13360?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-09-02",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:42",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13361?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:05",
+                "movieId": 54,
+                "movieTitle": "THE LIFE OF CHUCK",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13352?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-09-03",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:23",
+                "movieId": 50,
+                "movieTitle": "Bitter Gold",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13349?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:42",
+                "movieId": 52,
+                "movieTitle": "Wenn der Herbst naht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13362?mode=widget"
               }
             ]
           }
