@@ -40,248 +40,227 @@
         "name": "Atelier",
         "dates": [
           {
-            "date": "2025-08-27",
+            "date": "2025-09-17",
             "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:25",
-                "movieId": 51,
-                "movieTitle": "The Witness",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13341?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:23",
-                "movieId": 50,
-                "movieTitle": "Bitter Gold",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13331?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-08-28",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:08",
-                "movieId": 50,
-                "movieTitle": "Bitter Gold",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13347?mode=widget"
-              },
-              {
-                "time": "19:45",
-                "endTime": "21:27",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13354?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "00:09",
-                "movieId": 53,
-                "movieTitle": "Viet und Nam",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13346?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-08-29",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:42",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13363?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:57",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13355?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-08-30",
-            "showings": [
-              {
-                "time": "16:00",
-                "endTime": "17:23",
-                "movieId": 50,
-                "movieTitle": "Bitter Gold",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13348?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:42",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13356?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:57",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13357?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-08-31",
-            "showings": [
-              {
-                "time": "13:30",
-                "endTime": "15:12",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13358?mode=widget"
-              },
-              {
-                "time": "15:45",
-                "endTime": "17:04",
-                "movieId": 55,
-                "movieTitle": "Milch ins Feuer",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13350?mode=widget"
-              },
               {
                 "time": "17:30",
-                "endTime": "19:12",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13359?mode=widget"
-              },
-              {
-                "time": "19:45",
-                "endTime": "21:35",
-                "movieId": 54,
-                "movieTitle": "THE LIFE OF CHUCK",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13353?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-09-01",
-            "showings": [
-              {
-                "time": "18:30",
-                "endTime": "19:49",
-                "movieId": 55,
-                "movieTitle": "Milch ins Feuer",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13351?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:57",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13360?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-09-02",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:42",
-                "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13361?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:05",
-                "movieId": 54,
-                "movieTitle": "THE LIFE OF CHUCK",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13352?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-09-03",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:23",
+                "endTime": "19:30",
                 "movieId": 50,
-                "movieTitle": "Bitter Gold",
+                "movieTitle": "Die Rosenschlacht",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13349?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13399?mode=widget"
               },
               {
                 "time": "20:00",
-                "endTime": "21:42",
+                "endTime": "22:00",
+                "movieId": 50,
+                "movieTitle": "Die Rosenschlacht",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13402?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-18",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:44",
                 "movieId": 52,
-                "movieTitle": "Wenn der Herbst naht",
+                "movieTitle": "Leibniz – Chronik eines verschollenen Bildes",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13362?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13391?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:51",
+                "movieId": 51,
+                "movieTitle": "Kill the Jockey",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13406?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-19",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:44",
+                "movieId": 52,
+                "movieTitle": "Leibniz – Chronik eines verschollenen Bildes",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13413?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:51",
+                "movieId": 51,
+                "movieTitle": "Kill the Jockey",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13407?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-20",
+            "showings": [
+              {
+                "time": "15:45",
+                "endTime": "17:45",
+                "movieId": 50,
+                "movieTitle": "Die Rosenschlacht",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13403?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:44",
+                "movieId": 52,
+                "movieTitle": "Leibniz – Chronik eines verschollenen Bildes",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13414?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:51",
+                "movieId": 51,
+                "movieTitle": "Kill the Jockey",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13408?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-21",
+            "showings": [
+              {
+                "time": "11:30",
+                "endTime": "13:14",
+                "movieId": 52,
+                "movieTitle": "Leibniz – Chronik eines verschollenen Bildes",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13415?mode=widget"
+              },
+              {
+                "time": "17:00",
+                "endTime": "19:00",
+                "movieId": 50,
+                "movieTitle": "Die Rosenschlacht",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13405?mode=widget"
+              },
+              {
+                "time": "19:30",
+                "endTime": "21:06",
+                "movieId": 51,
+                "movieTitle": "Kill the Jockey",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13411?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-22",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:44",
+                "movieId": 52,
+                "movieTitle": "Leibniz – Chronik eines verschollenen Bildes",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13416?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:51",
+                "movieId": 51,
+                "movieTitle": "Kill the Jockey",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13409?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-23",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "20:00",
+                "movieId": 50,
+                "movieTitle": "Die Rosenschlacht",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13404?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:51",
+                "movieId": 51,
+                "movieTitle": "Kill the Jockey",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13410?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-09-24",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:29",
+                "movieId": 52,
+                "movieTitle": "Leibniz – Chronik eines verschollenen Bildes",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13417?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:36",
+                "movieId": 51,
+                "movieTitle": "Kill the Jockey",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13412?mode=widget"
               }
             ]
           }
