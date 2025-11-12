@@ -40,324 +40,245 @@
         "name": "Atelier",
         "dates": [
           {
-            "date": "2025-10-29",
+            "date": "2025-11-12",
             "showings": [
               {
-                "time": "15:45",
-                "endTime": "17:30",
-                "movieId": 96,
-                "movieTitle": "Zweigstelle",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13541?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:37",
-                "movieId": 97,
+                "time": "17:30",
+                "endTime": "19:37",
+                "movieId": 57,
                 "movieTitle": "Franz K.",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13534?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-10-30",
-            "showings": [
-              {
-                "time": "16:00",
-                "endTime": "17:50",
-                "movieId": 98,
-                "movieTitle": "Madame Kika",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13472?mode=widget"
-              },
-              {
-                "time": "18:15",
-                "endTime": "18:18",
-                "movieId": 100,
-                "movieTitle": "Coup de coeur",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13473?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:52",
-                "movieId": 99,
-                "movieTitle": "Baise-en-ville",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13474?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-10-31",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "16:59",
-                "movieId": 101,
-                "movieTitle": "The Tree of Authenticity (L'arbre de l'authenticité)",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13475?mode=widget"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:04",
-                "movieId": 103,
-                "movieTitle": "Mikado",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13476?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13552?mode=widget"
               },
               {
                 "time": "20:00",
-                "endTime": "21:36",
-                "movieId": 104,
-                "movieTitle": "Nino",
+                "endTime": "21:54",
+                "movieId": 56,
+                "movieTitle": "How to Make a Killing",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13477?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:44",
-                "movieId": 102,
-                "movieTitle": "Jeunes mères – Junge Mütter",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13478?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13559?mode=widget"
               }
             ]
           },
           {
-            "date": "2025-11-01",
+            "date": "2025-11-13",
             "showings": [
               {
-                "time": "11:00",
-                "endTime": "12:40",
-                "movieId": 105,
-                "movieTitle": "THE LEGEND OF THE VAGABOND QUEEN OF LAGOS",
+                "time": "18:15",
+                "endTime": "19:39",
+                "movieId": 58,
+                "movieTitle": "Das perfekte Geschenk",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13479?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13564?mode=widget"
               },
+              {
+                "time": "20:15",
+                "endTime": "22:09",
+                "movieId": 56,
+                "movieTitle": "How to Make a Killing",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13569?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-11-14",
+            "showings": [
               {
                 "time": "15:30",
-                "endTime": "17:30",
-                "movieId": 108,
-                "movieTitle": "Ma frère",
+                "endTime": "17:13",
+                "movieId": 60,
+                "movieTitle": "22 Bahnen",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13480?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13562?mode=widget"
               },
               {
-                "time": "18:00",
-                "endTime": "19:32",
-                "movieId": 107,
-                "movieTitle": "Promis le ciel",
+                "time": "17:45",
+                "endTime": "19:45",
+                "movieId": 59,
+                "movieTitle": "Springsteen: Deliver Me from Nowhere",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13481?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13574?mode=widget"
               },
               {
-                "time": "20:30",
-                "endTime": "22:20",
-                "movieId": 98,
-                "movieTitle": "Madame Kika",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13482?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:10",
-                "movieId": 106,
-                "movieTitle": "L‘Aventura",
+                "time": "20:15",
+                "endTime": "22:09",
+                "movieId": 56,
+                "movieTitle": "How to Make a Killing",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13483?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13570?mode=widget"
               }
             ]
           },
           {
-            "date": "2025-11-02",
+            "date": "2025-11-15",
             "showings": [
               {
-                "time": "11:00",
-                "endTime": "12:18",
-                "movieId": 111,
-                "movieTitle": "On vous croit",
+                "time": "15:30",
+                "endTime": "17:37",
+                "movieId": 57,
+                "movieTitle": "Franz K.",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13484?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13567?mode=widget"
               },
               {
-                "time": "15:15",
-                "endTime": "17:05",
-                "movieId": 98,
-                "movieTitle": "Madame Kika",
+                "time": "18:15",
+                "endTime": "20:09",
+                "movieId": 56,
+                "movieTitle": "How to Make a Killing",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13485?mode=widget"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:20",
-                "movieId": 109,
-                "movieTitle": "Meteors (Météors)",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13486?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13571?mode=widget"
               },
               {
                 "time": "20:30",
                 "endTime": "22:30",
-                "movieId": 110,
-                "movieTitle": "Verlieren mit Herz",
+                "movieId": 59,
+                "movieTitle": "Springsteen: Deliver Me from Nowhere",
                 "attributes": [
-                  "2D",
-                  "OmdU"
+                  "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13487?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13575?mode=widget"
               }
             ]
           },
           {
-            "date": "2025-11-03",
+            "date": "2025-11-16",
             "showings": [
               {
-                "time": "15:30",
-                "endTime": "17:20",
-                "movieId": 112,
-                "movieTitle": "Drifting Laurent",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13488?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:40",
-                "movieId": 106,
-                "movieTitle": "L‘Aventura",
+                "time": "12:00",
+                "endTime": "14:04",
+                "movieId": 61,
+                "movieTitle": "Yunan",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13489?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13578?mode=widget"
               },
               {
-                "time": "20:00",
-                "endTime": "21:40",
-                "movieId": 105,
-                "movieTitle": "THE LEGEND OF THE VAGABOND QUEEN OF LAGOS",
+                "time": "14:45",
+                "endTime": "16:28",
+                "movieId": 60,
+                "movieTitle": "22 Bahnen",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13563?mode=widget"
+              },
+              {
+                "time": "17:15",
+                "endTime": "19:15",
+                "movieId": 59,
+                "movieTitle": "Springsteen: Deliver Me from Nowhere",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13490?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13576?mode=widget"
+              },
+              {
+                "time": "19:45",
+                "endTime": "21:52",
+                "movieId": 57,
+                "movieTitle": "Franz K.",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13568?mode=widget"
               }
             ]
           },
           {
-            "date": "2025-11-04",
+            "date": "2025-11-17",
             "showings": [
               {
-                "time": "15:30",
-                "endTime": "17:29",
-                "movieId": 114,
-                "movieTitle": "Orwell 2+2=5",
+                "time": "17:45",
+                "endTime": "19:49",
+                "movieId": 61,
+                "movieTitle": "Yunan",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13497?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13579?mode=widget"
               },
               {
-                "time": "18:00",
-                "endTime": "19:28",
-                "movieId": 115,
-                "movieTitle": "Paris Stalingrad",
+                "time": "20:15",
+                "endTime": "21:39",
+                "movieId": 58,
+                "movieTitle": "Das perfekte Geschenk",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13498?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:16",
-                "movieId": 113,
-                "movieTitle": "Sudan, Remember Us",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13499?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13565?mode=widget"
               }
             ]
           },
           {
-            "date": "2025-11-05",
+            "date": "2025-11-18",
             "showings": [
               {
-                "time": "15:45",
-                "endTime": "17:35",
-                "movieId": 112,
-                "movieTitle": "Drifting Laurent",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13494?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:17",
-                "movieId": 116,
-                "movieTitle": "That summer in Paris",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13495?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:00",
-                "movieId": 117,
-                "movieTitle": "La Vallée des fous",
+                "time": "17:45",
+                "endTime": "19:39",
+                "movieId": 56,
+                "movieTitle": "How to Make a Killing",
                 "attributes": [
                   "2D"
                 ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13496?mode=widget"
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13572?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:15",
+                "movieId": 59,
+                "movieTitle": "Springsteen: Deliver Me from Nowhere",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13577?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-11-19",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:24",
+                "movieId": 58,
+                "movieTitle": "Das perfekte Geschenk",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13566?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:54",
+                "movieId": 56,
+                "movieTitle": "How to Make a Killing",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13573?mode=widget"
               }
             ]
           }
