@@ -1,310 +1,5 @@
 [
   {
-    "date": "2025-11-26",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "16:45",
-                "endTime": "19:23",
-                "movieId": 54,
-                "movieTitle": "The Secret Agent",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13596?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:25",
-                "movieId": 53,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13590?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-11-27",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "16:30",
-                "endTime": "18:55",
-                "movieId": 53,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13606?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:29",
-                "movieId": 55,
-                "movieTitle": "Die My Love",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13601?mode=widget"
-              },
-              {
-                "time": "22:00",
-                "endTime": "23:45",
-                "movieId": 56,
-                "movieTitle": "Sauna",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13615?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-11-28",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "16:15",
-                "endTime": "18:27",
-                "movieId": 57,
-                "movieTitle": "Jay Kelly",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13612?mode=widget"
-              },
-              {
-                "time": "19:00",
-                "endTime": "21:25",
-                "movieId": 53,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13607?mode=widget"
-              },
-              {
-                "time": "21:45",
-                "endTime": "00:23",
-                "movieId": 54,
-                "movieTitle": "The Secret Agent",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13616?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-11-29",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:00",
-                "endTime": "17:25",
-                "movieId": 53,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13608?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "20:00",
-                "movieId": 58,
-                "movieTitle": "FREERIDE FILMFESTIVAL 2024",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13598?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:29",
-                "movieId": 55,
-                "movieTitle": "Die My Love",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13602?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-11-30",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "11:30",
-                "endTime": "13:17",
-                "movieId": 59,
-                "movieTitle": "Beuys",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13599?mode=widget"
-              },
-              {
-                "time": "14:00",
-                "endTime": "16:12",
-                "movieId": 57,
-                "movieTitle": "Jay Kelly",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13613?mode=widget"
-              },
-              {
-                "time": "16:45",
-                "endTime": "19:10",
-                "movieId": 53,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13609?mode=widget"
-              },
-              {
-                "time": "19:45",
-                "endTime": "21:44",
-                "movieId": 55,
-                "movieTitle": "Die My Love",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13603?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-12-01",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:29",
-                "movieId": 55,
-                "movieTitle": "Die My Love",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13600?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:25",
-                "movieId": 53,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13610?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2025-12-02",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:00",
-                "endTime": "19:25",
-                "movieId": 53,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13611?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "21:59",
-                "movieId": 55,
-                "movieTitle": "Die My Love",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13604?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2025-12-03",
     "theaters": [
       {
@@ -316,7 +11,7 @@
               {
                 "time": "16:45",
                 "endTime": "19:23",
-                "movieId": 54,
+                "movieId": 59,
                 "movieTitle": "The Secret Agent",
                 "attributes": [
                   "2D",
@@ -327,13 +22,314 @@
               {
                 "time": "20:00",
                 "endTime": "22:50",
-                "movieId": 60,
+                "movieId": 58,
                 "movieTitle": "ONE BATTLE AFTER ANOTHER",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13614?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-04",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:05",
+                "movieId": 60,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13630?mode=widget"
+              },
+              {
+                "time": "19:45",
+                "endTime": "21:20",
+                "movieId": 60,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13631?mode=widget"
+              },
+              {
+                "time": "22:00",
+                "endTime": "23:59",
+                "movieId": 61,
+                "movieTitle": "Die My Love",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13619?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-05",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "20:00",
+                "endTime": "21:35",
+                "movieId": 60,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13632?mode=widget"
+              },
+              {
+                "time": "22:15",
+                "endTime": "00:14",
+                "movieId": 61,
+                "movieTitle": "Die My Love",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13620?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:30",
+                "endTime": "17:55",
+                "movieId": 62,
+                "movieTitle": "Im Schatten des Orangenbaums",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13624?mode=widget"
+              },
+              {
+                "time": "18:15",
+                "endTime": "19:50",
+                "movieId": 60,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13633?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:05",
+                "movieId": 60,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13634?mode=widget"
+              },
+              {
+                "time": "22:45",
+                "endTime": "01:14",
+                "movieId": 63,
+                "movieTitle": "Eddington",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13622?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "11:30",
+                "endTime": "13:59",
+                "movieId": 63,
+                "movieTitle": "Eddington",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13623?mode=widget"
+              },
+              {
+                "time": "14:30",
+                "endTime": "16:55",
+                "movieId": 62,
+                "movieTitle": "Im Schatten des Orangenbaums",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13625?mode=widget"
+              },
+              {
+                "time": "17:30",
+                "endTime": "19:05",
+                "movieId": 60,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13635?mode=widget"
+              },
+              {
+                "time": "19:45",
+                "endTime": "21:20",
+                "movieId": 60,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13636?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:29",
+                "movieId": 61,
+                "movieTitle": "Die My Love",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13618?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "22:25",
+                "movieId": 62,
+                "movieTitle": "Im Schatten des Orangenbaums",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13626?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:00",
+                "endTime": "19:25",
+                "movieId": 62,
+                "movieTitle": "Im Schatten des Orangenbaums",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13627?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:59",
+                "movieId": 61,
+                "movieTitle": "Die My Love",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13621?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:51",
+                "movieId": 64,
+                "movieTitle": "FILMGESPRÄCH: Kein Land für Niemand (Zusatzvorstellung)",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13629?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:55",
+                "movieId": 62,
+                "movieTitle": "Im Schatten des Orangenbaums",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13628?mode=widget"
               }
             ]
           }
