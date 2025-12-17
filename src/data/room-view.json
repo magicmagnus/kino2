@@ -40,231 +40,12 @@
         "name": "Atelier",
         "dates": [
           {
-            "date": "2025-12-10",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:51",
-                "movieId": 50,
-                "movieTitle": "FILMGESPRÄCH: Kein Land für Niemand (Zusatzvorstellung)",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13629?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:55",
-                "movieId": 49,
-                "movieTitle": "Im Schatten des Orangenbaums",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13628?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-12-11",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:37",
-                "movieId": 52,
-                "movieTitle": "15 Liebesbeweise",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13637?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:56",
-                "movieId": 51,
-                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13644?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-12-12",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "17:22",
-                "movieId": 53,
-                "movieTitle": "Zweitland",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13654?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:37",
-                "movieId": 52,
-                "movieTitle": "15 Liebesbeweise",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13638?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:56",
-                "movieId": 51,
-                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13645?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-12-13",
-            "showings": [
-              {
-                "time": "15:45",
-                "endTime": "17:22",
-                "movieId": 52,
-                "movieTitle": "15 Liebesbeweise",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13639?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:41",
-                "movieId": 51,
-                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13646?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:30",
-                "movieId": 54,
-                "movieTitle": "Sentimental Value",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13652?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-12-14",
-            "showings": [
-              {
-                "time": "12:30",
-                "endTime": "14:00",
-                "movieId": 55,
-                "movieTitle": "Jetzt. Wohin. - Meine Reise mit Robert Habeck",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13651?mode=widget"
-              },
-              {
-                "time": "14:45",
-                "endTime": "16:37",
-                "movieId": 53,
-                "movieTitle": "Zweitland",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13655?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "18:52",
-                "movieId": 52,
-                "movieTitle": "15 Liebesbeweise",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13640?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:11",
-                "movieId": 51,
-                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13649?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-12-15",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:37",
-                "movieId": 52,
-                "movieTitle": "15 Liebesbeweise",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13641?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:56",
-                "movieId": 51,
-                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13647?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2025-12-16",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:37",
-                "movieId": 52,
-                "movieTitle": "15 Liebesbeweise",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13643?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:56",
-                "movieId": 51,
-                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13650?mode=widget"
-              }
-            ]
-          },
-          {
             "date": "2025-12-17",
             "showings": [
               {
                 "time": "17:45",
                 "endTime": "19:26",
-                "movieId": 51,
+                "movieId": 30,
                 "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
                 "attributes": [
                   "2D"
@@ -274,12 +55,182 @@
               {
                 "time": "20:00",
                 "endTime": "21:35",
-                "movieId": 56,
+                "movieId": 29,
                 "movieTitle": "Stromberg - Wieder alles wie immer",
                 "attributes": [
                   "2D"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13653?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-18",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:32",
+                "movieId": 31,
+                "movieTitle": "Dann passiert das Leben",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13656?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:50",
+                "movieId": 29,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13664?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-19",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:41",
+                "movieId": 30,
+                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13660?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:50",
+                "movieId": 29,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13665?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-20",
+            "showings": [
+              {
+                "time": "15:00",
+                "endTime": "16:41",
+                "movieId": 30,
+                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13661?mode=widget"
+              },
+              {
+                "time": "17:30",
+                "endTime": "19:32",
+                "movieId": 31,
+                "movieTitle": "Dann passiert das Leben",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13657?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:50",
+                "movieId": 29,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13666?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-21",
+            "showings": [
+              {
+                "time": "15:45",
+                "endTime": "17:26",
+                "movieId": 30,
+                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13662?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:35",
+                "movieId": 29,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13667?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:17",
+                "movieId": 31,
+                "movieTitle": "Dann passiert das Leben",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13658?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-22",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:32",
+                "movieId": 31,
+                "movieTitle": "Dann passiert das Leben",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13659?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:50",
+                "movieId": 29,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13668?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2025-12-23",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:41",
+                "movieId": 30,
+                "movieTitle": "Ein Leben ohne Liebe ist möglich, aber sinnlos",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13663?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:50",
+                "movieId": 29,
+                "movieTitle": "Stromberg - Wieder alles wie immer",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13669?mode=widget"
               }
             ]
           }
