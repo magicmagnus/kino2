@@ -40,313 +40,12 @@
         "name": "Atelier",
         "dates": [
           {
-            "date": "2026-01-14",
-            "showings": [
-              {
-                "time": "18:00",
-                "endTime": "19:48",
-                "movieId": 55,
-                "movieTitle": "Die jüngste Tochter",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13710?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:50",
-                "movieId": 54,
-                "movieTitle": "Stromberg - Wieder alles wie immer",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13723?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2026-01-15",
-            "showings": [
-              {
-                "time": "15:45",
-                "endTime": "17:47",
-                "movieId": 56,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13724?mode=widget"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:42",
-                "movieId": 58,
-                "movieTitle": "Holy Meat",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13732?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:02",
-                "movieId": 57,
-                "movieTitle": "Smalltown Girl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13738?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "23:57",
-                "movieId": 59,
-                "movieTitle": "Queerpanorama",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13753?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2026-01-16",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "17:32",
-                "movieId": 56,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13725?mode=widget"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:41",
-                "movieId": 60,
-                "movieTitle": "Therapie für Wikinger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13747?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:02",
-                "movieId": 57,
-                "movieTitle": "Smalltown Girl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13739?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:27",
-                "movieId": 58,
-                "movieTitle": "Holy Meat",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13733?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2026-01-17",
-            "showings": [
-              {
-                "time": "15:30",
-                "endTime": "17:32",
-                "movieId": 56,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13729?mode=widget"
-              },
-              {
-                "time": "17:45",
-                "endTime": "19:20",
-                "movieId": 54,
-                "movieTitle": "Stromberg - Wieder alles wie immer",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13751?mode=widget"
-              },
-              {
-                "time": "19:45",
-                "endTime": "21:47",
-                "movieId": 57,
-                "movieTitle": "Smalltown Girl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13740?mode=widget"
-              },
-              {
-                "time": "22:15",
-                "endTime": "00:12",
-                "movieId": 58,
-                "movieTitle": "Holy Meat",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13734?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2026-01-18",
-            "showings": [
-              {
-                "time": "11:30",
-                "endTime": "13:23",
-                "movieId": 61,
-                "movieTitle": "Der Held vom Bahnhof Friedrichstraße",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13731?mode=widget"
-              },
-              {
-                "time": "13:45",
-                "endTime": "15:47",
-                "movieId": 56,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13730?mode=widget"
-              },
-              {
-                "time": "16:00",
-                "endTime": "17:35",
-                "movieId": 54,
-                "movieTitle": "Stromberg - Wieder alles wie immer",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13745?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:56",
-                "movieId": 60,
-                "movieTitle": "Therapie für Wikinger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13748?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:17",
-                "movieId": 57,
-                "movieTitle": "Smalltown Girl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13741?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2026-01-19",
-            "showings": [
-              {
-                "time": "15:15",
-                "endTime": "17:17",
-                "movieId": 56,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13726?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "19:42",
-                "movieId": 62,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13735?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:02",
-                "movieId": 57,
-                "movieTitle": "Smalltown Girl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13742?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:26",
-                "movieId": 60,
-                "movieTitle": "Therapie für Wikinger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13749?mode=widget"
-              }
-            ]
-          },
-          {
-            "date": "2026-01-20",
-            "showings": [
-              {
-                "time": "15:15",
-                "endTime": "17:17",
-                "movieId": 56,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13727?mode=widget"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:57",
-                "movieId": 62,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13736?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:17",
-                "movieId": 57,
-                "movieTitle": "Smalltown Girl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13743?mode=widget"
-              }
-            ]
-          },
-          {
             "date": "2026-01-21",
             "showings": [
               {
                 "time": "15:00",
                 "endTime": "17:02",
-                "movieId": 56,
+                "movieId": 55,
                 "movieTitle": "Der Fremde",
                 "attributes": [
                   "2D",
@@ -357,7 +56,7 @@
               {
                 "time": "17:15",
                 "endTime": "19:42",
-                "movieId": 62,
+                "movieId": 54,
                 "movieTitle": "Silent Friend",
                 "attributes": [
                   "2D",
@@ -378,12 +77,231 @@
               {
                 "time": "22:30",
                 "endTime": "00:26",
-                "movieId": 60,
+                "movieId": 56,
                 "movieTitle": "Therapie für Wikinger",
                 "attributes": [
                   "2D"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13750?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-22",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:41",
+                "movieId": 56,
+                "movieTitle": "Therapie für Wikinger",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13769?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:58",
+                "movieId": 58,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13758?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-23",
+            "showings": [
+              {
+                "time": "15:00",
+                "endTime": "17:02",
+                "movieId": 55,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13756?mode=widget"
+              },
+              {
+                "time": "17:30",
+                "endTime": "19:57",
+                "movieId": 54,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13764?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:13",
+                "movieId": 58,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13759?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-24",
+            "showings": [
+              {
+                "time": "16:00",
+                "endTime": "18:02",
+                "movieId": 55,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13754?mode=widget"
+              },
+              {
+                "time": "18:30",
+                "endTime": "20:13",
+                "movieId": 58,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13760?mode=widget"
+              },
+              {
+                "time": "20:45",
+                "endTime": "23:12",
+                "movieId": 54,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13765?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-25",
+            "showings": [
+              {
+                "time": "11:30",
+                "endTime": "13:57",
+                "movieId": 54,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13766?mode=widget"
+              },
+              {
+                "time": "14:30",
+                "endTime": "16:32",
+                "movieId": 55,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13755?mode=widget"
+              },
+              {
+                "time": "17:00",
+                "endTime": "18:43",
+                "movieId": 58,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13762?mode=widget"
+              },
+              {
+                "time": "19:30",
+                "endTime": "21:26",
+                "movieId": 56,
+                "movieTitle": "Therapie für Wikinger",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13770?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-26",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:26",
+                "movieId": 56,
+                "movieTitle": "Therapie für Wikinger",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13771?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "22:27",
+                "movieId": 54,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13767?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-27",
+            "showings": [
+              {
+                "time": "17:15",
+                "endTime": "19:42",
+                "movieId": 54,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13768?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:58",
+                "movieId": 58,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13763?mode=widget"
+              }
+            ]
+          },
+          {
+            "date": "2026-01-28",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:13",
+                "movieId": 58,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13761?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "22:02",
+                "movieId": 55,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13757?mode=widget"
               }
             ]
           }
