@@ -1,315 +1,5 @@
 [
   {
-    "date": "2026-01-21",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:00",
-                "endTime": "17:02",
-                "movieId": 55,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13728?mode=widget"
-              },
-              {
-                "time": "17:15",
-                "endTime": "19:42",
-                "movieId": 54,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13737?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:02",
-                "movieId": 57,
-                "movieTitle": "Smalltown Girl",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13744?mode=widget"
-              },
-              {
-                "time": "22:30",
-                "endTime": "00:26",
-                "movieId": 56,
-                "movieTitle": "Therapie für Wikinger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13750?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-22",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:41",
-                "movieId": 56,
-                "movieTitle": "Therapie für Wikinger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13769?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:58",
-                "movieId": 58,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13758?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-23",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:00",
-                "endTime": "17:02",
-                "movieId": 55,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13756?mode=widget"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:57",
-                "movieId": 54,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13764?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:13",
-                "movieId": 58,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13759?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-24",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "16:00",
-                "endTime": "18:02",
-                "movieId": 55,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13754?mode=widget"
-              },
-              {
-                "time": "18:30",
-                "endTime": "20:13",
-                "movieId": 58,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13760?mode=widget"
-              },
-              {
-                "time": "20:45",
-                "endTime": "23:12",
-                "movieId": 54,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13765?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-25",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "11:30",
-                "endTime": "13:57",
-                "movieId": 54,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13766?mode=widget"
-              },
-              {
-                "time": "14:30",
-                "endTime": "16:32",
-                "movieId": 55,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13755?mode=widget"
-              },
-              {
-                "time": "17:00",
-                "endTime": "18:43",
-                "movieId": 58,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13762?mode=widget"
-              },
-              {
-                "time": "19:30",
-                "endTime": "21:26",
-                "movieId": 56,
-                "movieTitle": "Therapie für Wikinger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13770?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-26",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:26",
-                "movieId": 56,
-                "movieTitle": "Therapie für Wikinger",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13771?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:27",
-                "movieId": 54,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13767?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-27",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:15",
-                "endTime": "19:42",
-                "movieId": 54,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13768?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "21:58",
-                "movieId": 58,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13763?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-01-28",
     "theaters": [
       {
@@ -321,7 +11,7 @@
               {
                 "time": "17:30",
                 "endTime": "19:13",
-                "movieId": 58,
+                "movieId": 56,
                 "movieTitle": "Ein einfacher Unfall",
                 "attributes": [
                   "2D"
@@ -331,13 +21,272 @@
               {
                 "time": "20:00",
                 "endTime": "22:02",
-                "movieId": 55,
+                "movieId": 57,
                 "movieTitle": "Der Fremde",
                 "attributes": [
                   "2D",
                   "OmdU"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13757?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:47",
+                "movieId": 57,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13772?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:05",
+                "movieId": 58,
+                "movieTitle": "Rental Family",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13781?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:00",
+                "endTime": "17:02",
+                "movieId": 57,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13774?mode=widget"
+              },
+              {
+                "time": "17:30",
+                "endTime": "19:57",
+                "movieId": 59,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13783?mode=widget"
+              },
+              {
+                "time": "20:30",
+                "endTime": "22:13",
+                "movieId": 56,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13775?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:30",
+                "endTime": "19:13",
+                "movieId": 56,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13776?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "11:30",
+                "endTime": "13:32",
+                "movieId": 57,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13773?mode=widget"
+              },
+              {
+                "time": "15:45",
+                "endTime": "17:35",
+                "movieId": 58,
+                "movieTitle": "Rental Family",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13779?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:43",
+                "movieId": 56,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13777?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:42",
+                "movieId": 59,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13784?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:15",
+                "endTime": "19:42",
+                "movieId": 59,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13785?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "22:05",
+                "movieId": 58,
+                "movieTitle": "Rental Family",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13780?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "21:00",
+                "endTime": "22:43",
+                "movieId": 56,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13778?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:35",
+                "movieId": 58,
+                "movieTitle": "Rental Family",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13782?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "22:27",
+                "movieId": 59,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13786?mode=widget"
               }
             ]
           }
