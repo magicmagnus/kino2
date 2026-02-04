@@ -1,264 +1,5 @@
 [
   {
-    "date": "2026-01-28",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:13",
-                "movieId": 56,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13761?mode=widget"
-              },
-              {
-                "time": "20:00",
-                "endTime": "22:02",
-                "movieId": 57,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13757?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-29",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:45",
-                "endTime": "19:47",
-                "movieId": 57,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13772?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:05",
-                "movieId": 58,
-                "movieTitle": "Rental Family",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13781?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-30",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "15:00",
-                "endTime": "17:02",
-                "movieId": 57,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13774?mode=widget"
-              },
-              {
-                "time": "17:30",
-                "endTime": "19:57",
-                "movieId": 59,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13783?mode=widget"
-              },
-              {
-                "time": "20:30",
-                "endTime": "22:13",
-                "movieId": 56,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13775?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-01-31",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:30",
-                "endTime": "19:13",
-                "movieId": 56,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13776?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "11:30",
-                "endTime": "13:32",
-                "movieId": 57,
-                "movieTitle": "Der Fremde",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13773?mode=widget"
-              },
-              {
-                "time": "15:45",
-                "endTime": "17:35",
-                "movieId": 58,
-                "movieTitle": "Rental Family",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13779?mode=widget"
-              },
-              {
-                "time": "18:00",
-                "endTime": "19:43",
-                "movieId": 56,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13777?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:42",
-                "movieId": 59,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13784?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-02-02",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "17:15",
-                "endTime": "19:42",
-                "movieId": 59,
-                "movieTitle": "Silent Friend",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13785?mode=widget"
-              },
-              {
-                "time": "20:15",
-                "endTime": "22:05",
-                "movieId": 58,
-                "movieTitle": "Rental Family",
-                "attributes": [
-                  "2D"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13780?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "date": "2026-02-03",
-    "theaters": [
-      {
-        "name": "Kino Atelier",
-        "rooms": [
-          {
-            "name": "Atelier",
-            "showings": [
-              {
-                "time": "21:00",
-                "endTime": "22:43",
-                "movieId": 56,
-                "movieTitle": "Ein einfacher Unfall",
-                "attributes": [
-                  "2D",
-                  "OmdU"
-                ],
-                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13778?mode=widget"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-02-04",
     "theaters": [
       {
@@ -281,12 +22,295 @@
               {
                 "time": "20:00",
                 "endTime": "22:27",
-                "movieId": 59,
+                "movieId": 57,
                 "movieTitle": "Silent Friend",
                 "attributes": [
                   "2D"
                 ],
                 "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13786?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:45",
+                "movieId": 60,
+                "movieTitle": "Der Schimmelreiter",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13790?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:59",
+                "movieId": 59,
+                "movieTitle": "Winter in Sokcho",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13799?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:30",
+                "endTime": "17:32",
+                "movieId": 62,
+                "movieTitle": "Der Fremde",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13789?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:44",
+                "movieId": 59,
+                "movieTitle": "Winter in Sokcho",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13800?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:58",
+                "movieId": 61,
+                "movieTitle": "Die progressiven Nostalgiker",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13792?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:30",
+                "endTime": "17:13",
+                "movieId": 63,
+                "movieTitle": "Ein einfacher Unfall",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13797?mode=widget"
+              },
+              {
+                "time": "18:00",
+                "endTime": "19:43",
+                "movieId": 61,
+                "movieTitle": "Die progressiven Nostalgiker",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13793?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:59",
+                "movieId": 59,
+                "movieTitle": "Winter in Sokcho",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13801?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "15:30",
+                "endTime": "17:13",
+                "movieId": 61,
+                "movieTitle": "Die progressiven Nostalgiker",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13794?mode=widget"
+              },
+              {
+                "time": "17:45",
+                "endTime": "19:29",
+                "movieId": 59,
+                "movieTitle": "Winter in Sokcho",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13802?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "22:27",
+                "movieId": 57,
+                "movieTitle": "Silent Friend",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13798?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:43",
+                "movieId": 61,
+                "movieTitle": "Die progressiven Nostalgiker",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13796?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:59",
+                "movieId": 59,
+                "movieTitle": "Winter in Sokcho",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13803?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "18:00",
+                "endTime": "19:44",
+                "movieId": 59,
+                "movieTitle": "Winter in Sokcho",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13804?mode=widget"
+              },
+              {
+                "time": "20:15",
+                "endTime": "21:58",
+                "movieId": 61,
+                "movieTitle": "Die progressiven Nostalgiker",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13795?mode=widget"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "theaters": [
+      {
+        "name": "Kino Atelier",
+        "rooms": [
+          {
+            "name": "Atelier",
+            "showings": [
+              {
+                "time": "17:45",
+                "endTime": "19:30",
+                "movieId": 60,
+                "movieTitle": "Der Schimmelreiter",
+                "attributes": [
+                  "2D"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13791?mode=widget"
+              },
+              {
+                "time": "20:00",
+                "endTime": "21:44",
+                "movieId": 59,
+                "movieTitle": "Winter in Sokcho",
+                "attributes": [
+                  "2D",
+                  "OmdU"
+                ],
+                "iframeUrl": "https://www.kinoheld.de/kino/tuebingen/kino-atelier-tuebingen/vorstellung/13805?mode=widget"
               }
             ]
           }
